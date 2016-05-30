@@ -1,0 +1,697 @@
+venue,lon,lat,txt,senti
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Think Like A Man Too (Homestead, PA),0.1720
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for A Million Ways to Die in the West,-0.2310
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Get Hard in Homestead, PA,-0.1130
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Fifty Shades of Grey in Homestead, PA,0.0850
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 for The Hunger Games: Mockingjay - Part 1 in Homestead, PA,-0.1250
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Straight Outta Compton in Homestead, PA,0.1370
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Amazing Spider-Man 2: An IMAX 3D Experience (Homestead, PA),0.1920
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for No Escape in Homestead, PA,-0.0360
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Amazing Spide...,0.2970
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Grand Budapest Hotel (Homestead, PA),0.2000
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Hobbit: The Battle of the Five Armies in Homestead, PA,-0.1330
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for 2014 Best Picture Showcase Two Day (Homestead, PA),0.2310
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Mad Max: Fury Road in Homestead, PA,-0.3650
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Hobbit: The Battle of the Five Armies An IMAX 3D Experience,-0.1260
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Top Five in Homestead, PA,0.1410
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Fury in Homestead, PA,-0.2700
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Big Hero 6 in Homestead, PA,0.2470
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Hunger Games: Catching Fire (Homestead, PA) w/ 4 others,-0.2390
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Amazing Spider-Man 2 3D (Homestead, PA),0.2410
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 for A Most Violent Year in Homestead, PA,-0.2590
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Pitch Perfect 2 in Homestead, PA,0.2520
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Paranormal Activity: The Ghost Dimension in Homestead, PA,-0.1410
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Furious 7 in Homestead, PA,-0.2700
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for Planes: Fire &amp; Rescue (Homestead, PA),0.0540
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Grand Budapest Hotel (Homestead, PA) w/ 8 others,0.1760
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Amazing Spider-Man 2 (Homestead, PA) w/ 2 others,0.2260
+AMC Loews Waterfront 22,-79.9177,40.4066,I'm at AMC Loews Waterfront 22 - for The Hunger Games: Mockingjay - Part 1 in Homestead, PA,-0.1250
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Chelsea Handler: Uganda Be Kidding Me Live (Pittsburgh, PA),0.2120
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Bruce Springsteen (Pittsburgh, PA) w/ 2 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs w/,0.2310
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 43 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 11 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 27 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs in Pittsburgh, PA,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for New York Rangers vs Pittsburgh Penguins (Pittsburgh, PA) w/ 133 others,0.1160
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 127 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for New York Rangers vs Pittsburgh Penguins w/,0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Colorado Avalanche vs Pittsburgh Penguins in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Round 1 Home Game 2: Pittsburgh Penguins v New York Rangers in Pittsburgh, PA,0.1100
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 14 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Barry Manilow in Pittsburgh, PA,0.1740
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 4 others,0.1740
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 8 others,0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 81 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Dallas Stars vs Pittsburgh Penguins (Pittsburgh, PA) w/ 36 others,0.1230
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Bruce Springsteen (Pittsburgh, PA) w/ 85 others,0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Columbus Blue Jackets vs Pittsburgh Penguins w/,0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - w/,0.2960
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Eric Church - The Outsiders World Tour in Pittsburgh, PA w/,0.1230
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 118 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Pittsburgh Penguins vs. Buffalo Sabres in Pittsburgh, PA w/,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Detroit Red Wings vs Pittsburgh Penguins w/,0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 127 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA),0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 108 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Arcade Fire, Dan Deacon and Kid Koala w/,-0.0180
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Pittsburgh Penguins vs. Buffalo Sabres in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 5 others,0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 21 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Bob Seger &amp; The Silver Bullet Band and The J. Geils Band,0.1100
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Bruce Springsteen (Pittsburgh, PA) w/ 6 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 13 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Lady Gaga's artRave: The ARTPOP Ball (Pittsburgh, PA) w/ 30 others,0.1160
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Trans-Siberian Orchestra and Siberian Orchestra in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Cher and Pat Benatar &amp; Neil Giraldo (Pittsburgh, PA) w/ 3 others,0.1160
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 66 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 14 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Buffalo Sabres vs Pittsburgh Penguins w/,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 9 others,0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs in Pittsburgh, PA w/,0.1740
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for New York Rangers vs Pittsburgh Penguins in Pittsburgh, PA,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center (1001 5th Ave, Pittsburgh),0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Lady Gaga's artRave: The ARTPOP Ball (Pittsburgh, PA) w/ 81 others,0.1160
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 131 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Billy Joel (Pittsburgh, PA) w/ 70 others,0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 114 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 77 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 20 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Buffalo Sabres vs Pittsburgh Penguins (Pittsburgh, PA),0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 38 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Chicago Blackhawks vs Pittsburgh Penguins (Pittsburgh, PA),0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Dallas Stars vs Pittsburgh Penguins (Pittsburgh, PA) w/ 120 others,0.1230
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Cher and Pat Benatar &amp; Neil Giraldo (Pittsburgh, PA) w/ 72 others,0.1100
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 139 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 120 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Cher and Pat Benatar &amp; Neil Giraldo (Pittsburgh, PA) w/ 6 others,0.1160
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 139 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 36 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Shania Twain Rock This Country Tour in Pittsburgh, PA,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 79 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 63 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 118 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 56 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for in Pittsburgh, PA,0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for New York Rangers vs Pittsburgh Penguins (Pittsburgh, PA) w/ 67 others,0.1160
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Montreal Canadiens vs Pittsburgh Penguins in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA),0.2590
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for 2015 NCAA Div. I Men's Basketball Championship - Session 1,0.3130
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 83 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Rod Stewart &amp; Santana (Pittsburgh, PA),0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Chicago Blackhawks vs Pittsburgh Penguins (Pittsburgh, PA) w/ 4 others,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 33 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Cher and Pat Benatar &amp; Neil Giraldo (Pittsburgh, PA) w/ 14 others,0.1100
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Winter Jam Tour 2014, Plumb, Newsboys, Lecrae and 8 more,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Boston Bruins vs Pittsburgh Penguins in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 124 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 35 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Columbus Blue Jackets vs Pittsburgh Penguins (Pittsburgh, PA),0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 98 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 12 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Ed Sheeran in Pittsburgh, PA,0.1740
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 87 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for New York Rangers vs Pittsburgh Penguins (Pittsburgh, PA) w/ 109 others,0.1160
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center w/,0.2960
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 95 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Chicago Blackhawks vs Pittsburgh Penguins in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 2 others,0.1740
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for The Garth Brooks World Tour Sponsored by GhostTunes.,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Bruce Springsteen w/,0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 9 others,0.1740
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 171 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 52 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Dallas Stars vs Pittsburgh Penguins w/,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Casting Crowns in Pittsburgh, PA,0.1740
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - in Pittsburgh, PA w/,0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Carolina Hurricanes vs Pittsburgh Penguins (Pittsburgh, PA),0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 61 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 25 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Nitro Circus Live in Pittsburgh, PA,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Pittsburgh Penguins vs. Columbus Blue Jackets in Pittsburgh, PA,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for New York Rangers vs Pittsburgh Penguins (Pittsburgh, PA) w/ 7 others,0.1230
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Dallas Stars vs Pittsburgh Penguins (Pittsburgh, PA) w/ 60 others,0.1230
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 83 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 102 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Arcade Fire, Dan Deacon and Kid Koala w/,-0.0180
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 6 others,0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 41 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Carolina Hurricanes vs Pittsburgh Penguins w/,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Columbus Blue Jackets vs Pittsburgh Penguins in Pittsburgh, PA,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Arcade Fire, Dan Deacon and Kid Koala (Pittsburgh, PA),-0.0170
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 18 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Pittsburgh Penguins vs. Detroit Red Wings in Pittsburgh, PA,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Dallas Stars vs Pittsburgh Penguins (Pittsburgh, PA) w/ 2 others,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 55 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Chicago Blackhawks vs Pittsburgh Penguins w/,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Lady Gaga's artRave: The ARTPOP Ball (Pittsburgh, PA) w/ 53 others,0.1160
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 25 others [pic]:,0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center (Pittsburgh, PA) w/ 48 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Duquesne Mens Basketball vs. Dayton Flyers Basketball,0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Pittsburgh Penguins vs. Dallas Stars in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Detroit Red Wings vs Pittsburgh Penguins (Pittsburgh, PA),0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Buffalo Sabres vs Pittsburgh Penguins in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 32 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 54 others,0.1600
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center for Rod Stewart &amp; Santana (Pittsburgh, PA) w/ 18 others,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Detroit Red Wings vs Pittsburgh Penguins w/,0.1490
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 10 others,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - (Pittsburgh, PA) w/ 4 others,0.2080
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for in Pittsburgh, PA w/,0.1890
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for Dallas Stars vs Pittsburgh Penguins in Pittsburgh, PA,0.1390
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - in Pittsburgh, PA,0.2310
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for NC State Wolfpack vs Villanova Wildcats in Pittsburgh, PA,0.1300
+CONSOL Energy Center,-79.9893,40.4395,I'm at CONSOL Energy Center - for vs (Pittsburgh, PA) w/ 5 others,0.1740
+Integrated Fitness,-79.9859,40.4294,I'm at Integrated Fitness - (Pittsburgh, PA),0.2960
+Integrated Fitness,-79.9859,40.4294,I'm at Integrated Fitness - in Pittsburgh, PA,0.2590
+Clear Channel Communications,-80.0493,40.4209,I'm at Clear Channel Communications (DVE Building) (Pittsburgh, PA),0.2450
+Sweet Dreamland,-79.8801,40.4086,I'm at Sweet Dreamland in Rankin, PA,0.3330
+Target_2,-79.9220,40.4608,I'm at Target (East Liberty, PA),0.4050
+Target_2,-79.9220,40.4608,I'm at Target (East Liberty, PA) w/ 3 others,0.3270
+Target_2,-79.9220,40.4608,I'm at Target (East Liberty, PA) w/ 2 others,0.3270
+Target_2,-79.9220,40.4608,I'm at Target (East Liberty, PA) w/ 5 others,0.3270
+Target_2,-79.9220,40.4608,I'm at Target in East Liberty, PA,0.3620
+Crazy Mocha_7,-79.9303,40.4566,I'm at Crazy Mocha (Pittsburgh, PA),-0.3240
+Crazy Mocha_7,-79.9303,40.4566,I'm at Crazy Mocha in Pittsburgh, PA,-0.2860
+Crazy Mocha_7,-79.9303,40.4566,I'm at Crazy Mocha (Pittsburgh, PA) w/ 2 others,-0.2550
+Crazy Mocha_1,-79.9988,40.4429,I'm at Crazy Mocha (Pittsburgh, PA),-0.3240
+Crazy Mocha_1,-79.9988,40.4429,I'm at Crazy Mocha in Pittsburgh, PA,-0.2860
+Crazy Mocha_1,-79.9988,40.4429,I'm at Crazy Mocha w/,-0.3750
+Crazy Mocha_1,-79.9988,40.4429,I'm at Crazy Mocha (Pittsburgh, PA) w/ 2 others,-0.2550
+Crazy Mocha_1,-79.9988,40.4429,I'm at Crazy Mocha - Three Mellon (Pittsburgh, PA),-0.2550
+JCC Fitness Center,-79.9238,40.4375,I'm at JCC Fitness Center in Pittsburgh, PA,0.2310
+JCC Fitness Center,-79.9238,40.4375,I'm at JCC Fitness Center (Pittsburgh, PA),0.2590
+East Liberty Presbyterian Church,-79.9255,40.4609,I'm at East Liberty Station in Pittsburgh, PA,0.3270
+East Liberty Presbyterian Church,-79.9255,40.4609,I'm at East Liberty Presbyterian Church (Pittsburgh, PA),0.3270
+East Liberty Presbyterian Church,-79.9255,40.4609,I'm at East Liberty Presbyterian Church in Pittsburgh, PA,0.2980
+East Liberty Presbyterian Church,-79.9255,40.4609,I'm at East Liberty Family Health Care Center (Pittsburgh, PA),0.4520
+East Liberty Presbyterian Church,-79.9255,40.4609,I'm at East Liberty County Assistance Office in Pittsburgh, PA,0.2740
+East Liberty Presbyterian Church,-79.9255,40.4609,I'm at East Liberty Presbyterian Church - in Pittsburgh, PA,0.2980
+East Liberty Presbyterian Church,-79.9255,40.4609,I'm at East Liberty Station (Pittsburgh, PA),0.3620
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History in Pittsburgh, PA,0.2170
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History - in Pittsburgh, PA,0.2170
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History - (Pittsburgh, PA) w/ 3 others,0.2000
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History - (Pittsburgh, PA) w/ 2 others,0.2000
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History - for Inked...After Dark,0.2170
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History - (Pittsburgh, PA),0.2380
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History - in Pittsburgh, PA w/,0.2000
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History -,0.2940
+Carnegie Museum Of Natural History,-79.9505,40.4434,I'm at Carnegie Museum Of Natural History - for Inked...After Dark in Pittsburgh, PA,0.1720
+SouthSide Works Cinema,-79.9651,40.4278,I'm at SouthSide Works Cinema - for Horrible Bosses 2 in Pittsburgh, PA,-0.2590
+SouthSide Works Cinema,-79.9651,40.4278,I'm at SouthSide Works Cinema - for Mad Max: Fury Road in Pittsburgh, PA,-0.3850
+SouthSide Works Cinema,-79.9651,40.4278,I'm at SouthSide Works Cinema - for The Fault in Our Stars (Pittsburgh, PA),-0.1840
+SouthSide Works Cinema,-79.9651,40.4278,I'm at SouthSide Works Cinema - for Think Like A Man Too (Pittsburgh, PA),0.1850
+SouthSide Works Cinema,-79.9651,40.4278,I'm at SouthSide Works Cinema - for The Amazing Spider-Man 2,0.3220
+SouthSide Works Cinema,-79.9651,40.4278,I'm at SouthSide Works Cinema - for Top Five in Pittsburgh, PA,0.1530
+SouthSide Works Cinema,-79.9651,40.4278,I'm at SouthSide Works Cinema for Fifty Shades of Grey in Pittsburgh, PA w/,0.0850
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh (Pittsburgh, PA) w/ 3 others,-0.1350
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh for Mercury in Pittsburgh, PA,-0.1230
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh (Pittsburgh, PA) w/ 2 others,-0.1350
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh for Sourmash and Stevie J Band (Pittsburgh, PA) w/ 3 others,-0.0910
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh (Pittsburgh, PA),-0.1670
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh for Courrier, Melodime, Nameless in August and Nick Barilla (Pittsburgh, PA),-0.0800
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh in Pittsburgh, PA,-0.1490
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh w/,-0.1890
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh (Pittsburgh, PA) w/ 4 others,-0.1350
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh for Steel City Crue in Pittsburgh, PA,-0.1040
+Hard Rock Cafe Pittsburgh,-80.0048,40.4339,I'm at Hard Rock Cafe Pittsburgh for Steve Moakler, Cody Fry and See the Summer,-0.0910
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Miss May I, For the Fallen Dreams, Like Father, New Vegas and 1 more (Pittsburgh, PA),0.1450
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Sinkane, Helado Negro and Universal Beat Union in Pittsburgh, PA,0.1670
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Laura Stevenson, Blankets for Laura and Rchrd Prkr (Pittsburgh, PA) w/ 3 others,0.1500
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Awkward Friend Dave, Before You, Our Family Portrait and Mount Royal w/,0.2020
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for The Soil &amp; the Sun, Flint Eastwood, The Mourning Woulds and Sun Hound (Pittsburgh, PA),0.0040
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Red Hands, The Orphan the Poet and Instead of Sleeping (Pittsburgh, PA),0.1500
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose (Pittsburgh, PA),0.3330
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose in Pittsburgh, PA,0.3000
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Uh Huh Baby Yeah, Lion in the Mane, Dreamcatcher (US) and The Next Month,0.2240
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Anthony Raneri, Jon Bindley, Allison Weiss and The Swiss Army in Pittsburgh, PA,0.1430
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Delusions Of Grandeur, Save Us From the Archon and Greywalker in Pittsburgh, PA,0.3750
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose for Miss May I, For the Fallen Dreams, Like Father, New Vegas and 1 more w/,0.1500
+The Smiling Moose,-79.9849,40.4288,I'm at The Smiling Moose (Pittsburgh, PA) w/ 2 others,0.2730
+Heinz Hall,-80.0016,40.4427,I'm at Heinz Hall - for Luck Be a Lady + more (Pittsburgh, PA) w/ 4 others,0.2000
+Butcher and the Rye,-80.0020,40.4423,I'm at Butcher and the Rye (212 6th St, between Penn &amp; Liberty, Pittsburgh) &lt;- good bourbon bar, thanks !!,0.3650
+Port Authority Allegheny Station,-80.0196,40.4482,I'm at Port Authority North Side Station - in Pittsburgh, PA,0.1260
+Port Authority Allegheny Station,-80.0196,40.4482,I'm at Port Authority North Side Station in Pittsburgh, PA,0.1260
+Port Authority Allegheny Station,-80.0196,40.4482,I'm at Port Authority Gateway Station - (Pittsburgh, PA),0.1570
+Port Authority Allegheny Station,-80.0196,40.4482,I'm at Port Authority Allegheny Station - (Pittsburgh, PA),0.1570
+Port Authority Allegheny Station,-80.0196,40.4482,I'm at Port Authority Allegheny Station - in Pittsburgh, PA,0.1400
+True Runner,-79.9352,40.4507,I'm at True Runner (Pittsburgh, PA),0.3590
+True Runner,-79.9352,40.4507,I'm at True Runner in Pittsburgh, PA,0.3180
+True Runner,-79.9352,40.4507,I'm at True Runner - (Pittsburgh, PA),0.3590
+VIP Styles,-79.9993,40.4392,I'm at VIP Styles (Pittsburgh, PA),0.4460
+VIP Styles,-79.9993,40.4392,I'm at VIP Styles in Pittsburgh, PA,0.4020
+Erin's fine foods Deli,-80.0002,40.4417,I'm at Erin's fine foods Deli in Pittsburgh, PA,0.1840
+Pretty Kitty,-79.8955,40.4088,I'm at Pretty Kitty (Homestead, PA),0.3900
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Steel Plaza Station - (Pittsburgh, PA),0.1400
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Station Square Station - (Pittsburgh, PA),0.1400
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Allegheny Station - (Pittsburgh, PA),0.1570
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Station Square Station (E Carson St., Smithfield St., Pittsburgh),0.0980
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority North Side Station - in Pittsburgh, PA,0.1260
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Allegheny Station - in Pittsburgh, PA,0.1400
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Steel Plaza Station - in Pittsburgh, PA,0.1260
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Wood Street Bus Stop (Pittsburgh, PA),-0.2390
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority First Avenue Station - in Pittsburgh, PA,0.1260
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Wood Street Station - (Pittsburgh, PA),0.1400
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Gateway Station - (Pittsburgh, PA),0.1570
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority First Avenue Station - (Pittsburgh, PA),0.1400
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority North Side Station in Pittsburgh, PA,0.1260
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Service Center (Pittsburgh, PA),0.1570
+Port Authority Wood Street Station,-79.9996,40.4422,I'm at Port Authority Wood Street Station - in Pittsburgh, PA,0.1260
+Cattivo,-79.9616,40.4725,I'm at Cattivo for Iron Chic, Worlds Scariest Police Chases, Remainders (The Pittsburgh Band) and DIVORCE. (US),0.1160
+The Milk Shake Factory,-79.9817,40.4288,I'm at The Milk Shake Factory in Pittsburgh, PA,-0.1750
+The Milk Shake Factory,-79.9817,40.4288,I'm at The Milk Shake Factory (Pittsburgh, PA),-0.1950
+Cavo,-79.9845,40.4514,I'm at Cavo for Vain and Adore Delano w/,0.0600
+Highmark Stadium,-80.0100,40.4362,I'm at Highmark Stadium for WPIAL Lacrosse Championships - Division I Boys in Pittsburgh, PA,0.2110
+Highmark Stadium,-80.0100,40.4362,I'm at Highmark Stadium for Oakland Catholic Eagles Soccer vs. Mt. Lebanon Blue Devils Soccer in Pittsburgh, PA,-0.1790
+Highmark Stadium,-80.0100,40.4362,I'm at Highmark Stadium for Pittsburgh Riverhounds vs. West Virginia Chaos in Pittsburgh, PA,-0.2220
+Highmark Stadium,-80.0100,40.4362,I'm at Highmark Stadium for WPIAL Lacrosse Championships - Division I Girls in Pittsburgh, PA,0.2110
+Waterworks Cinema,-79.8937,40.4899,I'm at Waterworks Cinema for A Haunted House 2 (Pittsburgh, PA),-0.2790
+Au Bon Pain,-79.9989,40.4423,I'm at Au Bon Pain (Pittsburgh, PA),-0.3550
+Au Bon Pain,-79.9989,40.4423,I'm at Au Bon Pain in Pittsburgh, PA,-0.3200
+Megabus Stop,-79.9958,40.4455,I'm at Megabus Stop in Pittsburgh, PA,-0.2680
+Megabus Stop,-79.9958,40.4455,I'm at Megabus Stop (Pittsburgh, PA),-0.3060
+Peace Love Zen,-79.9237,40.4622,I'm at Peace Love &amp; Zen (Pittsburgh, PA),0.5620
+Peace Love Zen,-79.9237,40.4622,I'm at Peace Love &amp; Zen in Pittsburgh, PA,0.5240
+Peace,-79.9841,40.4520,I'm at Peace, Love &amp; Little Donuts - (Pittsburgh, PA),0.5240
+Peace,-79.9841,40.4520,I'm at Peace, Love &amp; Little Donuts - in Pittsburgh, PA,0.4900
+Peace,-79.9841,40.4520,I'm at Peace, Love &amp; Little Donuts - (Pittsburgh, PA) w/ 2 others,0.4610
+Peace,-79.9841,40.4520,I'm at Peace, Love &amp; Little Donuts - in Pittsburgh, PA w/,0.4610
+Steak 'n Shake,-79.9025,40.4142,I'm at Steak 'n Shake in Munhall, PA,-0.1950
+Steak 'n Shake,-79.9025,40.4142,I'm at Steak 'n Shake (Munhall, PA),-0.2210
+Day West Liberty Subaru,-80.0235,40.4004,I'm at Day West Liberty Subaru (Pittsburgh, PA),0.3270
+Ugly Dog Saloon,-80.0556,40.4268,I'm at Ugly Dog Saloon (Pittsburgh, PA),-0.3550
+Ugly Dog Saloon,-80.0556,40.4268,I'm at Ugly Dog Saloon in Pittsburgh, PA,-0.3200
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority Steel Plaza Station - (Pittsburgh, PA),0.1400
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority Station Square Station - (Pittsburgh, PA),0.1400
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority Station Square Station (E Carson St., Smithfield St., Pittsburgh),0.0980
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority South Hills Junction - in Pittsburgh, PA,0.1260
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority North Side Station - in Pittsburgh, PA,0.1260
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority Steel Plaza Station - in Pittsburgh, PA,0.1260
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority First Avenue Station - in Pittsburgh, PA,0.1260
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority Wood Street Station - (Pittsburgh, PA),0.1400
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority Gateway Station - (Pittsburgh, PA),0.1570
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority First Avenue Station - (Pittsburgh, PA),0.1400
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority North Side Station in Pittsburgh, PA,0.1260
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority Service Center (Pittsburgh, PA),0.1570
+Port Authority Station Square Station,-80.0032,40.4315,I'm at Port Authority Wood Street Station - in Pittsburgh, PA,0.1260
+Diamond Market Bar Grill,-80.0023,40.4410,I'm at Diamond Market Bar &amp; Grill (Pittsburgh, PA) w/ 5 others,0.1940
+Diamond Market Bar Grill,-80.0023,40.4410,I'm at Diamond Market Bar &amp; Grill in Pittsburgh, PA,0.2110
+Diamond Market Bar Grill,-80.0023,40.4410,I'm at Diamond Market Bar &amp; Grill (Pittsburgh, PA),0.2310
+Barre Bee Fit,-79.9360,40.4507,I'm at Barre Bee Fit in Pittsburgh, PA,0.2630
+Barre Bee Fit,-79.9360,40.4507,I'm at Barre Bee Fit (Pittsburgh, PA),0.2940
+Via Festival,-79.9248,40.4612,I'm at Via Festival (Pittsburgh, PA, US, PA),0.3140
+Crazy Mocha_6,-79.9656,40.4262,I'm at Crazy Mocha (Pittsburgh, PA),-0.3240
+Crazy Mocha_6,-79.9656,40.4262,I'm at Crazy Mocha in Pittsburgh, PA,-0.2860
+Orangetheory Fitness,-79.9270,40.4622,I'm at Orangetheory Fitness in Pittsburgh, PA,0.2590
+Eide's Entertainment,-79.9931,40.4453,I'm at Eide's Entertainment in Pittsburgh, PA,0.3180
+Crazy Mocha_4,-79.9230,40.4336,I'm at Crazy Mocha (Pittsburgh, PA),-0.3240
+Crazy Mocha_4,-79.9230,40.4336,I'm at Crazy Mocha in Pittsburgh, PA,-0.2860
+Happy Berry Frozen Yogurt,-79.9328,40.4515,I'm at Happy Berry Frozen Yogurt in Pittsburgh, PA,0.3160
+Happy Berry Frozen Yogurt,-79.9328,40.4515,I'm at Happy Berry Frozen Yogurt (Pittsburgh, PA),0.3460
+The Original Hot Dog Shop,-79.9565,40.4421,I'm at The Original Hot Dog Shop (Pittsburgh, PA),0.2230
+The Original Hot Dog Shop,-79.9565,40.4421,I'm at The Original Hot Dog Shop in Pittsburgh, PA,0.2040
+Kevins Love Dumpster,-79.8911,40.4870,I'm at Kevins Love Dumpster in Pittsburgh, PA,0.2200
+The Cut,-79.9431,40.4426,I'm at The Cut (Pittsburgh, PA),-0.2960
+Fullbody Fitness Club,-79.9820,40.3664,I'm at Fullbody Fitness Club - in Brentwood, PA,0.2310
+Original Oyster House,-80.0020,40.4409,I'm at Original Oyster House (Pittsburgh, PA),0.2770
+Original Oyster House,-80.0020,40.4409,I'm at Original Oyster House in Pittsburgh, PA,0.2470
+Bus Stop Forbes Morewood,-79.9432,40.4447,I'm at Bus Stop Hamburg Hall (Pittsburgh, PA),-0.2390
+Bus Stop Forbes Morewood,-79.9432,40.4447,I'm at Bus Stop Hamburg Hall in Pittsburgh, PA,-0.2160
+Bus Stop Forbes Morewood,-79.9432,40.4447,I'm at Bus Stop at Forbes &amp; Morewood (Pittsburgh, PA),-0.1960
+Bus Stop Forbes Morewood,-79.9432,40.4447,I'm at Bus Stop Forbes &amp; Morewood (Pittsburgh, PA),-0.2160
+Bus Stop Forbes Morewood,-79.9432,40.4447,I'm at Bus Stop Fifth &amp; Craig in Pittsburgh, PA,-0.1960
+Smiling Banana Leaf,-79.9198,40.4758,I'm at Smiling Banana Leaf in Pittsburgh, PA,0.3000
+Smiling Banana Leaf,-79.9198,40.4758,I'm at Smiling Banana Leaf (Pittsburgh, PA),0.3330
+Thrill Mill,-79.9236,40.4618,I'm at Thrill Mill (Pittsburgh, PA),0.3330
+Thrill Mill,-79.9236,40.4618,I'm at Thrill Mill in Pittsburgh, PA,0.2940
+Children's Hospital of Pittsburgh of UPMC Emergency Department,-79.9536,40.4671,I'm at Children's Hospital of Pittsburgh of UPMC Emergency Department in Pittsburgh, PA,-0.1780
+Children's Hospital of Pittsburgh of UPMC Emergency Department,-79.9536,40.4671,I'm at Children's Hospital of Pittsburgh of UPMC Emergency Department (Pittsburgh, PA),-0.1910
+The Blind Pig Tavern,-79.9739,40.4285,I'm at The Blind Pig Tavern - (Pittsburgh, PA),-0.2780
+The Blind Pig Tavern,-79.9739,40.4285,I'm at The Blind Pig Tavern - w/,-0.3100
+Fitness 19,-80.0659,40.3959,I'm at Fitness 19 in Pittsburgh, PA,0.2590
+The Original Pancake House,-80.0740,40.3915,I'm at The Original Pancake House w/,0.2770
+The Original Pancake House,-80.0740,40.3915,I'm at The Original Gab &amp; Eat Restaurant (Carnegie, PA),0.2040
+The Original Pancake House,-80.0740,40.3915,I'm at The Original Gab &amp; Eat Restaurant in Carnegie, PA,0.1870
+The Original Pancake House,-80.0740,40.3915,I'm at The Original Pancake House (Scott Twp., PA),0.2230
+Deutschtown Music Festival,-80.0001,40.4544,I'm at Deutschtown Music Festival in Pittsburgh, PA,0.3140
+Deutschtown Music Festival,-80.0001,40.4544,I'm at Deutschtown Music Festival (Pittsburgh, PA) w/ 3 others,0.2860
+Deutschtown Music Festival,-80.0001,40.4544,I'm at Deutschtown Music Festival (Pittsburgh, PA),0.3480
+Grant Street Transportation Center,-79.9933,40.4447,I'm at Grant Street Transportation Center - Red Garage in Pittsburgh, PA,0.2000
+Social Security Administration,-79.9976,40.4439,I'm at Social Security Administration (Pittsburgh, PA),0.2860
+Social Security Administration,-79.9976,40.4439,I'm at Social Security Administration in Pittsburgh, PA,0.2550
+Crazy Mocha_3,-79.9820,40.3661,I'm at Crazy Mocha in Brentwood, PA,-0.2860
+Homestead Fire Company,-79.9096,40.4066,I'm at Homestead Fire Company (Homestead, PA),-0.2860
+Shop 'n Save_1,-79.9649,40.3896,I'm at Shop 'n Save in Pittsburgh, PA,0.3140
+Shop 'n Save_3,-80.0284,40.3690,I'm at Shop 'n Save in Pittsburgh, PA,0.3140
+Shop 'n Save_3,-80.0284,40.3690,I'm at Shop 'n Save (Pittsburgh, PA),0.3480
+Shadyside Smiles,-79.9348,40.4512,I'm at Shadyside Smiles in Pittsburgh, PA,0.3410
+Shadyside Smiles,-79.9348,40.4512,I'm at Shadyside Smiles (Pittsburgh, PA),0.3830
+Phantom's Revenge,-79.8660,40.3888,I'm at Phantom's Revenge w/,-0.4590
+Phantom's Revenge,-79.8660,40.3888,I'm at Phantom's Revenge (West Mifflin, PA),-0.3620
+Phantom's Revenge,-79.8660,40.3888,I'm at Phantom's Revenge in West Mifflin, PA,-0.3270
+Liberty Avenue Musicians,-79.9965,40.4439,I'm at Liberty Avenue Musicians (Pittsburgh, PA),0.3620
+Grand Circuit Booth,-79.9949,40.4442,I'm at Grand Circuit Booth (Pittsburgh, PA),0.3330
+Hillman Cancer Center,-79.9428,40.4550,I'm at Hillman Cancer Center in Pittsburgh, PA,-0.3860
+Panthro Fitness,-79.9711,40.4603,I'm at Panthro Fitness (Pittsburgh, PA),0.2960
+Panthro Fitness,-79.9711,40.4603,I'm at Panthro Fitness (Pittsburgh, PA) w/ 2 others,0.2310
+The Original Fish Market,-79.9946,40.4443,I'm at The Original Fish Market (Pittsburgh, PA) w/ 2 others,0.2040
+The Original Fish Market,-79.9946,40.4443,I'm at The Original Fish Market (Pittsburgh, PA) w/ 3 others,0.2040
+The Original Fish Market,-79.9946,40.4443,I'm at The Original Fish Market (Pittsburgh, PA),0.2470
+Eastminster Fitness Center,-79.9235,40.4629,I'm at Eastminster Fitness Center (Pittsburgh, PA),0.2590
+Holiday Inn Express and Suites,-79.9889,40.4300,I'm at Holiday Inn Express and Suites - (Pittsburgh, PA),0.2520
+Holiday Inn Express and Suites,-79.9889,40.4300,I'm at Holiday Inn Express Hotel &amp; Suites Pittsburgh-South Side (Pittsburgh, PA),0.1970
+Holiday Inn Express and Suites,-79.9889,40.4300,I'm at Holiday Inn Express and Suites - in Pittsburgh, PA,0.2310
+Holiday Inn Express and Suites,-79.9889,40.4300,I'm at Holiday Inn Express &amp; Suites Pittsburgh-South Side - in Pittsburgh, PA,0.1970
+Razzy Fresh_2,-79.9489,40.4458,I'm at Razzy Fresh in Pittsburgh, PA,0.2770
+Razzy Fresh_2,-79.9489,40.4458,I'm at Razzy Fresh w/,0.3650
+Razzy Fresh_2,-79.9489,40.4458,I'm at Razzy Fresh (Pittsburgh, PA),0.3150
+T&amp;A's Haus of Guilty Pleasures,-80.0369,40.3939,I'm at T&amp;A's Haus of Guilty Pleasures in Dormont, PA,0.0080
+Beautiful Sexy Chicas Palace,-79.8617,40.3786,I'm at Beautiful Sexy Chicas Palace,0.6460
+Liberty Tunnel,-80.0004,40.4274,I'm at Liberty Tunnel in Pittsburgh, PA,0.3620
+Liberty Tunnel,-80.0004,40.4274,I'm at Liberty Tunnel (Pittsburgh, PA),0.4050
+Cheerleaders Gentleman's Club,-79.9707,40.4588,I'm at Cheerleaders Gentleman's Club in Pittsburgh, PA,0.2390
+PLS Logistics Services,-79.9753,40.4307,I'm at PLS Logistics Services, Southside Branch (Pittsburgh, PA),0.2030
+Sincerely Yogurt_1,-79.9174,40.4074,I'm at Sincerely Yogurt in West Homestead, PA,0.3070
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Steel Plaza Station - (Pittsburgh, PA),0.1400
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Station Square Station - (Pittsburgh, PA),0.1400
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Allegheny Station - (Pittsburgh, PA),0.1570
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Station Square Station (E Carson St., Smithfield St., Pittsburgh),0.0980
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority North Side Station - in Pittsburgh, PA,0.1260
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Allegheny Station - in Pittsburgh, PA,0.1400
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Steel Plaza Station - in Pittsburgh, PA,0.1260
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority First Avenue Station - in Pittsburgh, PA,0.1260
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Wood Street Station - (Pittsburgh, PA),0.1400
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Gateway Station - (Pittsburgh, PA),0.1570
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority First Avenue Station - (Pittsburgh, PA),0.1400
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority North Side Station in Pittsburgh, PA,0.1260
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Service Center (Pittsburgh, PA),0.1570
+Port Authority Gateway Station,-80.0044,40.4415,I'm at Port Authority Wood Street Station - in Pittsburgh, PA,0.1260
+Pittsburgh Jazzlive Festival,-79.9985,40.4433,I'm at Pittsburgh Jazzlive Festival (Pittsburgh, PA) w/ 7 others,0.2860
+Pittsburgh Jazzlive Festival,-79.9985,40.4433,I'm at Pittsburgh Jazzlive Festival (Pittsburgh, PA) w/ 5 others,0.2860
+Pittsburgh Jazzlive Festival,-79.9985,40.4433,I'm at Pittsburgh Jazzlive Festival (Pittsburgh, PA) w/ 2 others,0.2860
+Wood Street Bus Stop,-79.9999,40.4417,I'm at Bus Stop 7th St. &amp; Penn Ave. (Pittsburgh, PA),-0.1800
+Wood Street Bus Stop,-79.9999,40.4417,I'm at Wood Street Bus Stop (Pittsburgh, PA),-0.2390
+Wood Street Bus Stop,-79.9999,40.4417,I'm at Bus Stop Stanwix St. &amp; Penn Ave. in Pittsburgh, PA,-0.1670
+Wood Street Bus Stop,-79.9999,40.4417,I'm at Bus Stop At Stanwix &amp; 4th Ave in Pittsburgh, PA,-0.1670
+Animal Rescue League Shelter Wildlife Center,-79.9098,40.4574,I'm at Animal Rescue League Shelter &amp; Wildlife Center - (Pittsburgh, PA),0.2480
+The Dirty O,-79.9121,40.4062,I'm at The Dirty O (Oakland, PA),-0.3670
+Passive Park,-79.9982,40.4363,I'm at Passive Park (Pittsburgh, PA),0.2650
+The Beauty Shoppe,-79.9239,40.4611,I'm at The Beauty Shoppe (Pittsburgh, PA),0.3880
+Saint Mary of Mercy Church,-80.0046,40.4398,I'm at Saint Mary of Mercy Church in Pittsburgh, PA,0.2170
+Saint Mary of Mercy Church,-80.0046,40.4398,I'm at Saint Mary of Mercy Church w/,0.2630
+Environment and Energy Community Outreach Center,-79.9170,40.4635,I'm at Environment and Energy Community Outreach Center,0.4120
+Dent-Al Smiles,-79.9255,40.4578,I'm at Dent-Al Smiles (Pittsburgh, PA),0.3830
+Comfort Inn_1,-80.0089,40.5054,I'm at Comfort Inn (Pittsburgh, PA),0.3330
+Comfort Inn_1,-80.0089,40.5054,I'm at Comfort Inn in Pittsburgh, PA,0.2940
+Raging Rapids,-79.8642,40.3888,I'm at Raging Rapids (West Mifflin, PA),-0.3620
+Raging Rapids,-79.8642,40.3888,I'm at Raging Rapids in West Mifflin, PA,-0.3270
+Special Food Store,-79.9822,40.3698,I'm at Special Food Store (Brentwood, PA),0.3100
+Wicked Fox Bar and Grill,-79.8737,40.4897,I'm at Wicked Fox Bar and Grill - in O'Hara Township, PA,-0.2540
+Oh Yeah! Ice Cream Coffee Co.,-79.9254,40.4579,I'm at Oh Yeah! Ice Cream &amp; Coffee Co. - (Pittsburgh, PA),0.1990
+Oh Yeah! Ice Cream Coffee Co.,-79.9254,40.4579,I'm at Oh Yeah! Ice Cream &amp; Coffee Co. - in Pittsburgh, PA,0.1850
+Dj's Butcher Block,-79.9501,40.4622,I'm at Dj's Butcher Block (Pittsburgh, PA),-0.3260
+City Of Dreams,-79.9274,40.4199,I'm at City Of Dreams (Pittsburgh, PA),0.3100
+Bus Stop At Stanwix 4th Ave,-80.0045,40.4403,I'm at Bus Stop 7th St. &amp; Penn Ave. (Pittsburgh, PA),-0.1800
+Bus Stop At Stanwix 4th Ave,-80.0045,40.4403,I'm at Bus Stop Stanwix St. &amp; Penn Ave. in Pittsburgh, PA,-0.1670
+Bus Stop At Stanwix 4th Ave,-80.0045,40.4403,I'm at Bus Stop At Stanwix &amp; 4th Ave in Pittsburgh, PA,-0.1670
+Mexican War Streets,-80.0082,40.4560,I'm at Mexican War Streets (Pittsburgh),-0.4380
+PAT Inbound Bus Stop,-79.9731,40.4839,I'm at PAT Inbound Bus Stop (Pittsburgh, PA),-0.2390
+Sally Beauty Supply,-79.9997,40.4420,I'm at Sally Beauty Supply (Pittsburgh, PA),0.3880
+The Grand Duchy Of Joesutania,-80.0703,40.4252,I'm at The Grand Duchy Of Joesutania (Pittsburgh, PA),0.2730
+Forbes and Murray Bus Stop,-79.9233,40.4381,I'm at Bus Stop at Murray &amp; Phillips (Pittsburgh, PA),-0.1960
+Forbes and Murray Bus Stop,-79.9233,40.4381,I'm at Bus Stop At Dallas &amp; Penn (Pittsburgh, PA),-0.1960
+Forbes and Murray Bus Stop,-79.9233,40.4381,I'm at Forbes and Murray Bus Stop (Pittsburgh, PA),-0.2160
+Wilkinsburg Busway Stop B,-79.8871,40.4468,I'm at Wilkinsburg Busway Stop B,-0.3550
+Priory Fine Pastries,-79.9998,40.4538,I'm at Priory Fine Pastries (Pittsburgh, PA),0.2310
+jay smooths creation kitchen,-80.0903,40.4115,I'm at jay smooths creation kitchen (Carnegie, PA),0.2310
+Aetna Training Hell,-80.0816,40.4096,I'm at Aetna Training Hell (Pittsburgh, PA),-0.4340
+Shop 'n Save_5,-79.8729,40.3656,I'm at Shop 'n Save (West Mifflin, PA),0.3140
+Pride_1,-79.9770,40.4548,I'm at Pride in the Street (Pittsburgh, PA, US, PA),0.2110
+NPC Active Wear,-80.0859,40.4078,I'm at NPC Active Wear in Carnegie, PA,0.2780
+Mt. Troy Fire Station,-79.9824,40.4743,I'm at Mt. Troy Fire Station (Pittsburgh, PA),-0.2550
+Razzy Fresh_1,-79.9583,40.4405,I'm at Razzy Fresh in Pittsburgh, PA,0.2770
+Razzy Fresh_1,-79.9583,40.4405,I'm at Razzy Fresh w/,0.3650
+Razzy Fresh_1,-79.9583,40.4405,I'm at Razzy Fresh (Pittsburgh, PA),0.3150
+One on One Personal Training and Fitness,-79.9767,40.4560,I'm at One on One Personal Training and Fitness in Pittsburgh, PA,0.1600
+Dads Grave,-79.9004,40.3956,I'm at Dads Grave in Munhall, PA,-0.3020
+3 Rivers Praise Worship,-79.9503,40.5063,I'm at 3 Rivers Praise &amp; Worship (Etna, PA, PA),0.4530
+A Sweet Boutique,-79.9661,40.4643,I'm at A Sweet Boutique (Pittsburgh, PA),0.3750
+Easy Street,-79.9980,40.4379,I'm at Easy Street (Pittsburgh, PA),0.3670
+Easy Street,-79.9980,40.4379,I'm at Easy Street in Pittsburgh, PA,0.3260
+Easy Trip 352,-80.0827,40.4098,I'm at Easy Trip 352 (Carnegie, PA),0.3260
+J/J Land Company,-79.9327,40.4587,I'm at J/J Land Company in Pittsburgh, PA,0.3480
+Super Playground,-79.9182,40.4806,I'm at Super Playground in Pittsburgh, PA,0.3940
+New Dumpling House,-79.9231,40.4326,I'm at New Dumpling House (Pittsburgh, PA),0.1890
+New Dumpling House,-79.9231,40.4326,I'm at New Dumpling House in Pittsburgh, PA,0.1670
+Margaret's Fine Imports,-79.9202,40.4380,I'm at Margaret's Fine Imports (Pittsburgh, PA),0.2310
+Somewhere,-79.9685,40.4265,I'm at Somewhere in south side NOT LOST,-0.3020
+Cock Pit,-79.9596,40.4381,I'm at Cock Pit,-0.3480
+CIC Collaborative Innovation Center,-79.9464,40.4439,I'm at CIC Collaborative Innovation Center in Pittsburgh, PA,0.2450
+CIC Collaborative Innovation Center,-79.9464,40.4439,I'm at CIC Collaborative Innovation Center (Pittsburgh, PA),0.2710
+PAT East Liberty Garage,-79.9119,40.4575,I'm at East Liberty Station in Pittsburgh, PA,0.3270
+PAT East Liberty Garage,-79.9119,40.4575,I'm at East Liberty Presbyterian Church (Pittsburgh, PA),0.3270
+PAT East Liberty Garage,-79.9119,40.4575,I'm at East Liberty Presbyterian Church in Pittsburgh, PA,0.2980
+PAT East Liberty Garage,-79.9119,40.4575,I'm at East Liberty Family Health Care Center (Pittsburgh, PA),0.4520
+PAT East Liberty Garage,-79.9119,40.4575,I'm at PAT East Liberty Garage (Pittsburgh, PA),0.3270
+PAT East Liberty Garage,-79.9119,40.4575,I'm at East Liberty County Assistance Office in Pittsburgh, PA,0.2740
+PAT East Liberty Garage,-79.9119,40.4575,I'm at East Liberty Presbyterian Church - in Pittsburgh, PA,0.2980
+PAT East Liberty Garage,-79.9119,40.4575,I'm at East Liberty Station (Pittsburgh, PA),0.3620
+Crazy Mocha_5,-80.0067,40.4557,I'm at Crazy Mocha (Pittsburgh, PA),-0.3240
+Crazy Mocha_5,-80.0067,40.4557,I'm at Crazy Mocha in Pittsburgh, PA,-0.2860
+Crazy Mocha_5,-80.0067,40.4557,I'm at Crazy Mocha w/,-0.3750
+Crazy Mocha_5,-80.0067,40.4557,I'm at Crazy Mocha (Pittsburgh, PA) w/ 2 others,-0.2550
+Crazy Mocha_5,-80.0067,40.4557,I'm at Crazy Mocha - Three Mellon (Pittsburgh, PA),-0.2550
+Anthrocon Charity Auction,-79.9929,40.4470,I'm at Anthrocon Charity Auction in Pittsburgh, PA,0.2860
+The Crazy Mocha,-80.0047,40.4335,I'm at Crazy Mocha (Pittsburgh, PA),-0.3240
+The Crazy Mocha,-80.0047,40.4335,I'm at Crazy Mocha in Pittsburgh, PA,-0.2860
+The Crazy Mocha,-80.0047,40.4335,I'm at Crazy Mocha (Pittsburgh, PA) w/ 2 others,-0.2550
+The Crazy Mocha,-80.0047,40.4335,I'm at Crazy Mocha - Three Mellon (Pittsburgh, PA),-0.2550
+The Crazy Mocha,-80.0047,40.4335,I'm at The Crazy Mocha (Pittsburgh, PA),-0.2860
+Shop 'n Save_4,-80.0930,40.3876,I'm at Shop 'n Save in Heidelberg, PA,0.3140
+The Grant Street Tavern,-79.9979,40.4376,I'm at Grant Street Transportation Center - Red Garage in Pittsburgh, PA,0.2000
+The Grant Street Tavern,-79.9979,40.4376,I'm at The Grant Street Tavern in Pittsburgh, PA,0.2380
+Preferred Primary Care Physicians,-80.0806,40.3898,I'm at Preferred Primary Care Physicians (Pittsburgh, PA),0.3140
+Entertainment Technology Center,-79.9645,40.4329,I'm at Entertainment Technology Center - ETC - (Pittsburgh, PA),0.2860
+liberty engine,-79.9038,40.4536,I'm at liberty engine,0.5310
+Bus Stop 7th St. Penn Ave.,-80.0003,40.4432,I'm at Bus Stop 7th St. &amp; Penn Ave. (Pittsburgh, PA),-0.1800
+Bus Stop 7th St. Penn Ave.,-80.0003,40.4432,I'm at Bus Stop Stanwix St. &amp; Penn Ave. in Pittsburgh, PA,-0.1670
+Bus Stop 7th St. Penn Ave.,-80.0003,40.4432,I'm at Bus Stop At Stanwix &amp; 4th Ave in Pittsburgh, PA,-0.1670
+Fort Pitt Hell,-80.0295,40.4291,I'm at Fort Pitt Hell (Pittsburgh, PA),-0.4340
+love yogurt,-79.9753,40.4285,I'm at love yogurt (Pittsburgh, PA),0.4570
+Definitely You,-79.9822,40.3670,I'm at Definitely You (Pittsburgh, PA),0.3510
+Evolve Wellness Spa,-79.9273,40.4500,I'm at Evolve Wellness Spa in Pittsburgh, PA,0.2930
+VWGC Protest,-80.0580,40.3935,I'm at VWGC Protest in Pittsburgh, PA,-0.2500
+Extreme Fitness II,-80.0708,40.3906,I'm at Extreme Fitness II (Pittsburgh, PA),0.2590
+Sincerely Yogurt_2,-79.9666,40.4268,I'm at Sincerely Yogurt (Pittsburgh, PA),0.3830
+Awesome Books,-79.9968,40.4430,I'm at Awesome Books (Pittsburgh, PA),0.4510
+Fine Foods,-79.9858,40.4501,I'm at Fine Foods (Pittsburgh, PA),0.2650
+Port Authority St. Anne Trolley Stop,-80.0293,40.3608,I'm at Port Authority Memorial Hall - in Pittsburgh, PA,0.1400
+Port Authority St. Anne Trolley Stop,-80.0293,40.3608,I'm at Port Authority St. Anne Trolley Stop (Castle Shannon, PA),-0.0720
+Living Spirit Ministry,-79.8884,40.4213,I'm at Living Spirit Ministry (Swissvale, PA),0.2210
+Browns Hill and Imogen Bus Stop,-79.9242,40.4154,I'm at Browns Hill and Imogen Bus Stop (Pittsburgh, PA),-0.1960
+Browns Hill and Imogen Bus Stop,-79.9242,40.4154,I'm at Bus Stop at Murray &amp; Phillips (Pittsburgh, PA),-0.1960
+United states post office,-80.0047,40.4434,I'm at United states post office (Pittsburgh, PA),0.2860
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority Steel Plaza Station - (Pittsburgh, PA),0.1400
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority Station Square Station - (Pittsburgh, PA),0.1400
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority Station Square Station (E Carson St., Smithfield St., Pittsburgh),0.0980
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority North Side Station - in Pittsburgh, PA,0.1260
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority Steel Plaza Station - in Pittsburgh, PA,0.1260
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority First Avenue Station - in Pittsburgh, PA,0.1260
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority Wood Street Station - (Pittsburgh, PA),0.1400
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority Gateway Station - (Pittsburgh, PA),0.1570
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority First Avenue Station - (Pittsburgh, PA),0.1400
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority North Side Station in Pittsburgh, PA,0.1260
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority Service Center (Pittsburgh, PA),0.1570
+Port Authority Steel Plaza Station,-79.9952,40.4401,I'm at Port Authority Wood Street Station - in Pittsburgh, PA,0.1260
+JK's HOME :),-79.9920,40.3780,I'm at JK's HOME :) (Pittsburgh, PA),0.3330
+JK's HOME :),-79.9920,40.3780,I'm at JK's HOME :) in Pittsburgh, PA,0.3000
+Greek Festival,-79.9499,40.4444,I'm at Greek Festival in Pittsburgh, PA,0.3480
+Temple of Doom!,-80.0255,40.4011,I'm at Temple of Doom! in Pittsburgh, PA,-0.2990
+Word of God Parish,-79.8893,40.4231,I'm at Word of God Parish w/,0.2590
+Wines and Spirits_2,-79.9212,40.4591,I'm at Wines and Spirits - (East Liberty, PA),0.3270
+6th And Smithfield Bus Stop,-79.9996,40.4421,I'm at Bus Stop 7th St. &amp; Penn Ave. (Pittsburgh, PA),-0.1800
+6th And Smithfield Bus Stop,-79.9996,40.4421,I'm at 6th And Smithfield Bus Stop (Pittsburgh, PA),-0.2160
+6th And Smithfield Bus Stop,-79.9996,40.4421,I'm at Bus Stop Stanwix St. &amp; Penn Ave. in Pittsburgh, PA,-0.1670
+6th And Smithfield Bus Stop,-79.9996,40.4421,I'm at Bus Stop At Stanwix &amp; 4th Ave in Pittsburgh, PA,-0.1670
+Urgent Care,-79.9823,40.3727,I'm at Urgent Care - Brentwood (Brentwood, PA),0.5000
+AAA Motor Vehicles East Liberty,-79.9274,40.4597,I'm at East Liberty Station in Pittsburgh, PA,0.3270
+AAA Motor Vehicles East Liberty,-79.9274,40.4597,I'm at East Liberty Presbyterian Church (Pittsburgh, PA),0.3270
+AAA Motor Vehicles East Liberty,-79.9274,40.4597,I'm at East Liberty Presbyterian Church in Pittsburgh, PA,0.2980
+AAA Motor Vehicles East Liberty,-79.9274,40.4597,I'm at East Liberty Family Health Care Center (Pittsburgh, PA),0.4520
+AAA Motor Vehicles East Liberty,-79.9274,40.4597,I'm at East Liberty County Assistance Office in Pittsburgh, PA,0.2740
+AAA Motor Vehicles East Liberty,-79.9274,40.4597,I'm at East Liberty Presbyterian Church - in Pittsburgh, PA,0.2980
+AAA Motor Vehicles East Liberty,-79.9274,40.4597,I'm at AAA Motor Vehicles East Liberty (Pittsburgh, PA),0.2980
+AAA Motor Vehicles East Liberty,-79.9274,40.4597,I'm at East Liberty Station (Pittsburgh, PA),0.3620
+Christyles Beauty Barbershop,-79.8838,40.4433,I'm at Christyles Beauty &amp; Barbershop (Pittsburgh, PA),0.3520
+Savolskis-Wasik-Glenn Funeral Home,-79.9026,40.3855,I'm at Savolskis-Wasik-Glenn Funeral Home in Munhall, PA,-0.2630
+STOP 'N GLOW CAR WASH,-79.8718,40.3662,I'm at STOP 'N GLOW CAR WASH (West Mifflin, PA),-0.2460
+Edgewood Roll of Honor,-79.8842,40.4338,I'm at Edgewood Roll of Honor (Pittsburgh, PA),0.3140
+Wyndham Fitness Center,-80.0063,40.4414,I'm at Wyndham Fitness Center in Pittsburgh, PA,0.2310
+College of Fine Arts,-79.9429,40.4415,I'm at College of Fine Arts - (Pittsburgh, PA),0.2050
+Polling Location,-80.0058,40.4628,I'm at Polling Location - Ward 22 03 - Allegheny United Methodist Church (Pittsburgh, PA),0.1890
+Polling Location,-80.0058,40.4628,I'm at Polling Location - Ward 22 03 - Allegheny United Methodist Church in Pittsburgh, PA,0.1770
+Super Suds Laundromat,-79.9764,40.4301,I'm at Super Suds Laundromat (Pittsburgh, PA),0.3940
+H&amp;R Block_3,-79.9300,40.4558,I'm at H&amp;R Block (Pittsburgh, PA),-0.3670
+Liberty elementary school,-79.9338,40.4533,I'm at Liberty elementary school,0.4590
+Complete Family Vision Care,-79.9509,40.4501,I'm at Complete Family Vision Care (Pittsburgh, PA),0.4640
+Port Authority South Hills Junction,-80.0075,40.4207,I'm at Port Authority South Hills Junction - in Pittsburgh, PA,0.1260
+Port Authority South Hills Junction,-80.0075,40.4207,I'm at Port Authority Station Square Station - (Pittsburgh, PA),0.1400
+Port Authority South Hills Junction,-80.0075,40.4207,I'm at Port Authority Station Square Station (E Carson St., Smithfield St., Pittsburgh),0.0980
+Port Authority South Hills Junction,-80.0075,40.4207,I'm at Port Authority First Avenue Station - (Pittsburgh, PA),0.1400
+Port Authority South Hills Junction,-80.0075,40.4207,I'm at Port Authority First Avenue Station - in Pittsburgh, PA,0.1260
+United States Post Office_2,-79.9827,40.3664,I'm at United States Post Office (Pittsburgh, PA),0.2860
+United States Post Office_2,-79.9827,40.3664,I'm at United States Post Office in Pittsburgh, PA,0.2590
+UPMC Pain Medicine Centre Commons,-79.9325,40.4576,I'm at UPMC Pain Medicine Centre Commons (Pittsburgh, PA),-0.2920
+Caitlyns Bus Stop,-79.9510,40.5039,I'm at Caitlyns Bus Stop (Etna, PA),-0.2680
+Shop 'n Save_2,-79.9071,40.3609,I'm at Shop 'n Save in West Mifflin, PA,0.2860
+Pittsburgh Center_2,-79.8984,40.4504,I'm at Pittsburgh Center for Creative Reuse in Pittsburgh, PA,0.2440
+Stage AE,-80.0126,40.4461,I'm at Stage AE for Rockstar Energy Presents ALL TIME LOW: The Future Hearts Tour in Pittsburgh, PA,-0.0350
+United Steelworkers Building,-80.0047,40.4396,I'm at United Steelworkers Building (Pittsburgh, PA),0.3180
+Firestone Complete Auto Care,-80.0416,40.4025,I'm at Firestone Complete Auto Care in Pittsburgh, PA w/,0.2620
+Firestone Complete Auto Care,-80.0416,40.4025,I'm at Firestone Complete Auto Care in Pittsburgh, PA,0.2860
+Shur Save,-79.9524,40.4638,I'm at Shur Save in Pittsburgh, PA,0.3480
+Spirit,-79.9559,40.4783,I'm at Spirit in Pittsburgh, PA,0.2540
+Original Matress Factory,-79.9248,40.4157,I'm at Original Matress Factory (Pittsburgh, PA),0.2770
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority Steel Plaza Station - (Pittsburgh, PA),0.1400
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority Station Square Station - (Pittsburgh, PA),0.1400
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority Station Square Station (E Carson St., Smithfield St., Pittsburgh),0.0980
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority North Side Station - in Pittsburgh, PA,0.1260
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority Steel Plaza Station - in Pittsburgh, PA,0.1260
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority First Avenue Station - in Pittsburgh, PA,0.1260
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority Wood Street Station - (Pittsburgh, PA),0.1400
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority Gateway Station - (Pittsburgh, PA),0.1570
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority First Avenue Station - (Pittsburgh, PA),0.1400
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority North Side Station in Pittsburgh, PA,0.1260
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority Service Center (Pittsburgh, PA),0.1570
+Port Authority Service Center,-79.9976,40.4410,I'm at Port Authority Wood Street Station - in Pittsburgh, PA,0.1260
+The Talent Group,-79.9758,40.4579,I'm at The Talent Group (Pittsburgh, PA),0.3180
+61b Schoyer Avenue Bus Stop,-79.8906,40.4234,I'm at 61b Schoyer Avenue Bus Stop (Swissvale, PA),-0.2160
+Vogt True Value Hardware,-79.9846,40.4288,I'm at Vogt True Value Hardware (Pittsburgh, PA),0.4640
+Social Security Office,-80.0449,40.3813,I'm at Social Security Office in Mt Lebanon, PA,0.2310
+Trees Hall Fitness Center,-79.9651,40.4439,I'm at Trees Hall Fitness Center (Pittsburgh, PA),0.2310
+Trees Hall Fitness Center,-79.9651,40.4439,I'm at Trees Hall Fitness Center in Pittsburgh, PA,0.2080
+Amazing Yoga,-79.9832,40.4288,I'm at Amazing Yoga in Pittsburgh, PA,0.3880
+BZ Bar Grill,-80.0042,40.4482,I'm at BZ Bar and Grill (Pittsburgh, PA),0.2340
+BZ Bar Grill,-80.0042,40.4482,I'm at BZ Bar &amp; Grill (Pittsburgh, PA),0.2340
+Great Race 10K Starting Line,-79.9091,40.4372,I'm at Great Race 10K Starting Line in Pittsburgh, PA,0.3130
+The Great Race Starting Line,-79.9577,40.4423,I'm at The Great Race Starting Line,0.4060
+Bicycle Heaven,-80.0327,40.4582,I'm at Bicycle Heaven in Pittsburgh, PA w/,0.3200
+Fitness Factory,-79.9252,40.4584,I'm at Fitness Factory - in Pittsburgh, PA,0.2590
+Innovation Works,-79.9700,40.4346,I'm at Innovation Works (Pittsburgh, PA),0.3420
+BoRics Hair Care,-79.9823,40.3670,I'm at BoRics Hair Care in Brentwood, PA,0.3140
+Lucky Cup,-80.0344,40.3952,I'm at Lucky Cup (Pittsburgh, PA),0.3590
+The Dream Barbeque,-79.8913,40.4528,I'm at The Dream Barbeque in Pittsburgh, PA,0.2220
+A Beautiful Day!,-80.0109,40.3844,I'm at A Beautiful Day! (Pittsburgh, PA),0.4560
+Sally's Beauty Supply,-79.8867,40.4267,I'm at Sally's Beauty Supply (Pittsburgh, PA),0.3880
+Radiant Hall Studios,-79.9603,40.4735,I'm at Radiant Hall Studios (Pittsburgh, PA),0.3410
+Club One Fitness,-79.8872,40.4883,I'm at Club One Fitness (Pittsburgh, PA),0.2590
+Energy Innovation Center,-79.9898,40.4445,I'm at Energy Innovation Center in Pittsburgh, PA,0.4390
+Dead Baby Circle,-79.9958,40.4431,I'm at Dead Baby Circle w/,-0.4620
+H&amp;R Block_1,-79.9656,40.4262,I'm at H&amp;R Block (Pittsburgh, PA),-0.3670
+Steeltown Entertainment Project,-79.9760,40.4303,I'm at Steeltown Entertainment Project - in Pittsburgh, PA,0.2860
+Holiday Inn Express Suites Pittsburgh West,-80.0417,40.4246,I'm at Holiday Inn Express &amp; Suites Pittsburgh West - Greentree - in Pittsburgh, PA,0.1840
+Fitness With A Twist,-79.9763,40.4292,I'm at Fitness With A Twist in Pittsburgh, PA,0.2310
+Dirty Harry's,-80.0050,40.4339,I'm at Dirty Harry's (Pittsburgh, PA),-0.3670
+Merry Go Round,-79.8641,40.3874,I'm at Merry Go Round in West Mifflin, PA,0.3040
+smile studio dr. Cushman,-79.9622,40.4387,I'm at smile studio dr. Cushman (Pittsburgh, PA),0.2630
+Party City,-79.8866,40.4878,I'm at Party City (Pittsburgh, PA),0.3510
+Amazing Cafe,-79.9832,40.4287,I'm at Amazing Cafe w/,0.4870
+Stuck,-79.9557,40.4265,I'm at Stuck in traffic  (Pittsburgh, PA),-0.2500
+The Verve 360 Wellness,-80.0023,40.4429,I'm at The Verve 360 Wellness in Pittsburgh, PA,0.2660
+H&amp;R Block_2,-79.8716,40.3619,I'm at H&amp;R Block (West Mifflin, PA),-0.3260
+Slater Funeral Home,-79.9828,40.3643,I'm at Slater Funeral Home in Pittsburgh, PA w/,-0.2380
+Friendship_3,-79.9339,40.4613,I'm at Friendship (Pittsburgh, PA),0.4200
+Friendship_3,-79.9339,40.4613,I'm at Friendship Park in Pittsburgh, PA,0.3260
+Murray To Beechwood Stairs Of Doom,-79.9287,40.4261,I'm at Murray To Beechwood Stairs Of Doom (Pittsburgh, PA),-0.2310
+Massage Envy_1,-80.0449,40.3805,I'm at Massage Envy (Upper Saint Clair, PA),-0.2310
+port authority trolley tunnel,-80.0072,40.4209,I'm at port authority trolley tunnel (Pittsburgh, PA),0.1570
+Devils and Dolls Nightclub,-79.9814,40.4289,I'm at Devils and Dolls Nightclub (Pittsburgh, PA) w/ 2 others,-0.2910
+SCA Fighting Practice,-79.9083,40.4833,I'm at SCA Fighting Practice (Pittsburgh, PA),-0.2940
+The Dirty Ball,-79.9753,40.4267,I'm at The Dirty Ball (Pittsburgh, PA) w/ 6 others,-0.2660
+Bus Stop Fifth Craig,-79.9492,40.4471,I'm at Bus Stop Hamburg Hall (Pittsburgh, PA),-0.2390
+Bus Stop Fifth Craig,-79.9492,40.4471,I'm at Bus Stop Hamburg Hall in Pittsburgh, PA,-0.2160
+Bus Stop Fifth Craig,-79.9492,40.4471,I'm at Bus Stop at Forbes &amp; Morewood (Pittsburgh, PA),-0.1960
+Bus Stop Fifth Craig,-79.9492,40.4471,I'm at Bus Stop Forbes &amp; Morewood (Pittsburgh, PA),-0.2160
+Bus Stop Fifth Craig,-79.9492,40.4471,I'm at Bus Stop Fifth &amp; Craig in Pittsburgh, PA,-0.1960
+Live Worship Shop Sign,-80.0611,40.4920,I'm at Live Worship Shop Sign (Pittsburgh, PA),0.2390
+The Natural Choice,-79.9589,40.4410,I'm at The Natural Choice (Pittsburgh, PA),0.2940
+Grand Brew Cafe,-80.0072,40.4310,I'm at Grand Brew Cafe in Pittsburgh, PA,0.3000
+Port Authority Mt. Lebanon Station,-80.0433,40.3825,I'm at Port Authority Mt. Lebanon Station - (Mt. Lebanon, PA),0.1260
+Port Authority Mt. Lebanon Station,-80.0433,40.3825,I'm at Port Authority Potomac Station - in Dormont, PA,0.1400
+Port Authority Mt. Lebanon Station,-80.0433,40.3825,I'm at Port Authority Stevenson Station in Dormont, PA,0.1400
+United States Post Office_1,-79.8759,40.4883,I'm at United States Post Office in Pittsburgh, PA,0.2590
+South Zone Fire Dispatch,-79.8969,40.4507,I'm at South Zone Fire Dispatch (Pittsburgh, PA),-0.2550
+BZ Bar and Grill,-80.0042,40.4482,I'm at BZ Bar and Grill (Pittsburgh, PA),0.2340
+BZ Bar and Grill,-80.0042,40.4482,I'm at BZ Bar &amp; Grill (Pittsburgh, PA),0.2340
+Top Gear Bicycle Shop,-79.9268,40.4593,I'm at Top Gear Bicycle Shop in Pittsburgh, PA,0.1840
+Holiday Inn Express Hotel Suites Pittsburgh-South Side,-79.9870,40.4295,I'm at Holiday Inn Express and Suites - (Pittsburgh, PA),0.2520
+Holiday Inn Express Hotel Suites Pittsburgh-South Side,-79.9870,40.4295,I'm at Holiday Inn Express Hotel &amp; Suites Pittsburgh-South Side (Pittsburgh, PA),0.1970
+Holiday Inn Express Hotel Suites Pittsburgh-South Side,-79.9870,40.4295,I'm at Holiday Inn Express and Suites - in Pittsburgh, PA,0.2310
+Holiday Inn Express Hotel Suites Pittsburgh-South Side,-79.9870,40.4295,I'm at Holiday Inn Express &amp; Suites Pittsburgh-South Side - in Pittsburgh, PA,0.1970
+Happy Fun Dolphin Playland,-80.0100,40.5008,I'm at Happy Fun Dolphin Playland (Pittsburgh, PA),0.5380
+Kickball For Hope,-79.9154,40.4543,I'm at Kickball For Hope,0.4200
+Tax Relief Attorneys,-80.0021,40.4559,I'm at Tax Relief Attorneys (Pittsburgh, PA),0.3410
+Crazy Mocha_2,-79.9509,40.4627,I'm at Crazy Mocha in Pittsburgh, PA,-0.2860
+Greg,-79.9484,40.5029,I'm at Greg, Keith And Danny's New Years Party (Etna, PA),0.2130
+First United Methodist Church,-79.9381,40.4564,I'm at First United Methodist Church in Pittsburgh, PA,0.2590
+Smiles By Hart,-79.9508,40.4500,I'm at Smiles By Hart in Pittsburgh, PA,0.3070
+Pittsburg's Lost Kennywood,-79.8665,40.3887,I'm at Pittsburg's Lost Kennywood in West Mifflin, PA,-0.2230
+Great Allegheny Passage Railroad Bridge,-79.8781,40.4012,I'm at Great Allegheny Passage Railroad Bridge (West Mifflin, PA),0.3130
+Port Authority Memorial Hall,-80.0159,40.3666,I'm at Port Authority Memorial Hall - in Pittsburgh, PA,0.1400
+Port Authority Memorial Hall,-80.0159,40.3666,I'm at Port Authority St. Anne Trolley Stop (Castle Shannon, PA),-0.0720
+Clear Story Studio,-79.9777,40.4297,I'm at Clear Story Studio (Pittsburgh, PA),0.3020
+Dirty Harrys,-80.0049,40.4346,I'm at Dirty Harrys (aka refs) (Pittsburgh, PA),-0.2930
+Pinkys Poolside Paradise,-79.9934,40.4188,I'm at Pinkys Poolside Paradise (pittsburgh, PA),0.4120
+The Grand Budapest Hotel,-79.9682,40.4292,I'm at The Grand Budapest Hotel (Pittsburgh, PA),0.3000
+Super Secret Team Awesome Ghost Ninja Dojo Clubhouse,-79.8663,40.4361,I'm at Super Secret Team Awesome Ghost Ninja Dojo Clubhouse (Pittsburgh, PA),0.2960
+Nak Won Garden Restaurant,-79.9363,40.4566,I'm at Nak Won Garden Restaurant in Pittsburgh, PA,0.3160
+Enrico's Hair Cutting,-79.9596,40.4411,I'm at Enrico's Hair Cutting for Men (Pittsburgh, PA),-0.1580
+Port Authority Stevenson Station,-80.0337,40.3995,I'm at Port Authority Mt. Lebanon Station - (Mt. Lebanon, PA),0.1260
+Port Authority Stevenson Station,-80.0337,40.3995,I'm at Port Authority Potomac Station - in Dormont, PA,0.1400
+Port Authority Stevenson Station,-80.0337,40.3995,I'm at Port Authority Stevenson Station in Dormont, PA,0.1400
+Hospitality Group,-79.9128,40.4122,I'm at Hospitality Group (Corporate Support Center) in Homestead, PA,0.2310
+My Shower :P,-79.9920,40.3780,I'm at My Shower :P (pittsburgh),0.3850
+a Murder Mystery Dinner haha!!! Gaetano's,-80.0315,40.4097,I'm at a Murder Mystery Dinner haha!!! Gaetano's w/,-0.1770
+Magee-Women's Hospital Trauma and General Surgery,-79.9607,40.4369,I'm at Magee-Women's Hospital Trauma and General Surgery (Pittsburgh, PA),-0.2370
+Tailgate Party,-80.0010,40.4490,I'm at Tailgate Party in Pittsburgh, PA,0.3100
+Three Rivers Grace Church,-80.0412,40.4449,I'm at Three Rivers Grace Church in Pittsburgh, PA, US, PA,0.2190
+Ukrainian Festival,-80.0573,40.4737,I'm at Ukrainian Festival in McKees Rocks, PA,0.3140
+Pittsburgh Recycling Drop Off,-79.9733,40.4612,I'm at Pittsburgh Recycling Drop Off in Pittsburgh, PA,-0.2080
+My Bunker of Paradise,-80.0322,40.4803,I'm at My Bunker of Paradise,0.4570
+JD Klosky Fire Equipment,-79.9179,40.4940,I'm at JD Klosky Fire Equipment (Pittsburgh, PA),-0.2550
+Direct Energy,-79.9935,40.4452,I'm at Direct Energy (Pittsburgh, PA),0.2960
+Novitas Solutions,-79.9971,40.4403,I'm at Novitas Solutions (Pittsburgh, PA),0.2540
+The Dog Stop,-80.0399,40.4043,I'm at The Dog Stop (Pittsburgh, PA),-0.2680
+Millvale Fire Station 191,-79.9733,40.4807,I'm at Millvale Fire Station 191 (Pittsburgh, PA),-0.2550
+Holiday Inn Express Suites Pittsburgh-South Side,-79.9890,40.4299,I'm at Holiday Inn Express and Suites - (Pittsburgh, PA),0.2520
+Holiday Inn Express Suites Pittsburgh-South Side,-79.9890,40.4299,I'm at Holiday Inn Express Hotel &amp; Suites Pittsburgh-South Side (Pittsburgh, PA),0.1970
+Holiday Inn Express Suites Pittsburgh-South Side,-79.9890,40.4299,I'm at Holiday Inn Express and Suites - in Pittsburgh, PA,0.2310
+Holiday Inn Express Suites Pittsburgh-South Side,-79.9890,40.4299,I'm at Holiday Inn Express &amp; Suites Pittsburgh-South Side - in Pittsburgh, PA,0.1970
+Southwestern Pennsylvania World War II Memorial,-80.0120,40.4457,I'm at Southwestern Pennsylvania World War II Memorial in Pittsburgh, PA w/,-0.2620
+Home Improvement_2,-79.9021,40.4142,I'm at Home Improvement in Munhall, PA,0.3330
+1250 Penn Liberty Plaza,-79.9914,40.4463,I'm at 1250 Penn Liberty Plaza in Pittsburgh, PA,0.2980
+East Liberty County Assistance Office,-79.9246,40.4619,I'm at East Liberty Station in Pittsburgh, PA,0.3270
+East Liberty County Assistance Office,-79.9246,40.4619,I'm at East Liberty Presbyterian Church (Pittsburgh, PA),0.3270
+East Liberty County Assistance Office,-79.9246,40.4619,I'm at East Liberty Presbyterian Church in Pittsburgh, PA,0.2980
+East Liberty County Assistance Office,-79.9246,40.4619,I'm at East Liberty Family Health Care Center (Pittsburgh, PA),0.4520
+East Liberty County Assistance Office,-79.9246,40.4619,I'm at East Liberty County Assistance Office in Pittsburgh, PA,0.2740
+East Liberty County Assistance Office,-79.9246,40.4619,I'm at East Liberty Presbyterian Church - in Pittsburgh, PA,0.2980
+East Liberty County Assistance Office,-79.9246,40.4619,I'm at East Liberty Station (Pittsburgh, PA),0.3620
+Rothrock's Kung Fu Tai Chi,-79.9714,40.4281,I'm at Rothrock's Kung Fu &amp; Tai Chi (Pittsburgh, PA),-0.3430
+Sixth Ave Wood St Bus Stop,-79.9996,40.4422,I'm at Bus Stop 7th St. &amp; Penn Ave. (Pittsburgh, PA),-0.1800
+Sixth Ave Wood St Bus Stop,-79.9996,40.4422,I'm at Sixth Ave &amp; Wood St Bus Stop (Pittsburgh, PA),-0.1800
+Sixth Ave Wood St Bus Stop,-79.9996,40.4422,I'm at Bus Stop Stanwix St. &amp; Penn Ave. in Pittsburgh, PA,-0.1670
+Sixth Ave Wood St Bus Stop,-79.9996,40.4422,I'm at Bus Stop At Stanwix &amp; 4th Ave in Pittsburgh, PA,-0.1670
+Sixth Ave Wood St Bus Stop,-79.9996,40.4422,I'm at Wood Street Bus Stop (Pittsburgh, PA),-0.2390
+54C Bus Stop 418 Beltzhoover,-79.9972,40.4184,I'm at 54C Bus Stop 418 Beltzhoover (Pittsburgh, PA),-0.2160
+Total Vision Care,-80.0031,40.4417,I'm at Total Vision Care,0.6340
+Career Growth Real Estate Academy,-80.0405,40.4250,I'm at Career Growth Real Estate Academy (Pittsburgh, PA),0.2450
+Dirty Frank's Laundromat,-79.9733,40.4273,I'm at Dirty Frank's Laundromat (Pittsburgh, PA),-0.3260
+Port Authority Potomac Station,-80.0365,40.3973,I'm at Port Authority Mt. Lebanon Station - (Mt. Lebanon, PA),0.1260
+Port Authority Potomac Station,-80.0365,40.3973,I'm at Port Authority Potomac Station - in Dormont, PA,0.1400
+Port Authority Potomac Station,-80.0365,40.3973,I'm at Port Authority Stevenson Station in Dormont, PA,0.1400
+Bus Stop_5,-79.8671,40.3639,I'm at Bus Stop (West Mifflin, PA),-0.2680
+Gmiter Funeral Home,-79.9835,40.4273,I'm at Gmiter Funeral Home in Pittsburgh, PA,-0.2630
+T&amp;A's House of Guilty Pleasures,-80.0369,40.3940,I'm at T&amp;A's House of Guilty Pleasures in Dormont, PA,0.0080
+Pleasure Bar,-79.9488,40.4617,I'm at Pleasure Bar in Pittsburgh, PA,0.3810
+Broudy Printing,-79.9140,40.4613,I'm at Broudy Printing (East Liberty, PA),0.3620

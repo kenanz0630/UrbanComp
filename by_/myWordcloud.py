@@ -1,11 +1,10 @@
 from wordcloud import WordCloud
 from wordcloud import get_single_color_func
-import os
+from PIL import ImageColor
+import os, colorsys
+import dbscan, dbProcess
 import matplotlib.pyplot as plt
 import numpy as np
-import colorsys
-import dbscan
-from PIL import ImageColor
 import matplotlib.colors as colors
 
 
@@ -26,7 +25,31 @@ def wordCloud_single(fname,name,color):
 		print "Draw wordcloud of %s"%key
 		draw_wordcloud_single(fname+'_%s'%key,key,colors[i],data[i])
 
-def wordCloud(fname,cls,names,ext_tfIdf='_tfIdf',ext_senti='_senti'):
+def wordCloud_venue(tbname,cls,names,minCheckin,maxVenue,dbname='tweet_pgh',user='postgres'):
+	print "Create pgcontroller"
+	pg=dbProcess.PgController(tbname,dbname,user)
+
+	print 'Export venue checkin with min %d'%minCheckin
+	data=export_checkin(pg,cls,minCheckin,maxVenue)
+	keys=np.sort(data.keys())
+	if len(keys)<len(cls):
+		names=[names[i] for i in xrange(len(cls)) if cls[i] in keys]
+		cls=keys
+
+	print 'Process checkin'
+	data=[process_checkin(data[cl]) for cl in cls]
+
+	k=len(cls)
+	print 'Generate diff colors'
+	hues=color_generator(k)
+
+	for i in xrange(k):
+		print 'Draw wordcloud of cluster%d'%cls[i]
+		name=names[i]
+		draw_wordcloud('wordcloud_%s\\'%tbname[-3:]+tbname+'_cl%d_%s'%(cls[i],name),name,hues[i],data[i])
+
+
+def wordCloud_cls(fname,cls,names,ext_tfIdf='_tfIdf',ext_senti='_senti'):
 	print "Extract term"
 	fn_tfIdf=fname+ext_tfIdf
 	fn_senti=fname+ext_senti
@@ -92,9 +115,9 @@ def extract_data_single(fname):
 
 def extract_data(fn_tfIdf,fn_senti,cls):
 	print 'Extract tfidf'
-	tfIdf=extract_data_part(fn_tfIdf,cls)
+	tfIdf=extract_data_part(fn_tfIdf)
 	print 'Extract senti'
-	senti=extract_data_part(fn_senti,cls)
+	senti=extract_data_part(fn_senti)
 
 	k=len(cls)
 	data=init_clusters(k,cls)
@@ -106,15 +129,15 @@ def extract_data(fn_tfIdf,fn_senti,cls):
 
 	return data
 
-def extract_data_part(fname,cls):	
+def extract_data_part(fname):	
 	data=file('txt\\'+fname+'.txt').readlines()
 	n=len(data)	
 	data=[data[i][:-1].split(',') for i in xrange(n)]
-	k=len(cls)
-	data_ex=init_clusters(k,cls)
+	k=len(data[0])/2
+	data_ex=init_clusters(k,range(k))
 
 	for i in xrange(k):
-		data_ex[cls[i]]=[[data[j][2*i],float(data[j][2*i+1])] for j in xrange(2,n) if data[j][2*i]!='']
+		data_ex[i]=[[data[j][2*i],float(data[j][2*i+1])] for j in xrange(2,n) if data[j][2*i]!='']
 
 	return data_ex
 
@@ -150,6 +173,40 @@ def process_data(data):
 	return [[data[i][0].title(),tfIdf[i],senti[i]] for i in xrange(n)]
 
 '''------------------------------------------------------------------'''
+def export_checkin(pg,cls,minCheckin,maxVenue):
+	data=init_clusters(len(cls),cls)
+	for cl in cls:
+		pg.cur.execute('''
+			select venue,count(*) from %s where clid=%d
+			group by venue order by count(*) desc;'''%(pg.tbname,cl))
+		temp=pg.cur.fetchall()
+		n=pg.cur.rowcount
+		data[cl]=[[temp[i][0],int(temp[i][1])] for i in xrange(n) if int(temp[i][1])>minCheckin]
+		if len(data[cl])==0:
+			print 'No venue of cluster%d has %d checkin'%(cl,minCheckin)
+			del data[cl]
+		if len(data[cl])>maxVenue:
+			data[cl]=data[cl][:maxVenue]
+
+	return data
+
+def process_checkin(data):
+	n=len(data)
+	checkin=[data[i][1] for i in xrange(n)]
+	size=np.array(checkin)/min(checkin)
+	satu=np.random.uniform(size=n)
+	names=['' for i in xrange(n)]
+	for i in xrange(n):
+		name=data[i][0]
+		if '_' in name:
+			idx=name.index('_')
+			name=name[:idx]
+		names[i]=name
+
+	return [[names[i].title(),size[i],satu[i]] for i in xrange(n)]
+
+
+'''------------------------------------------------------------------'''
 def draw_wordcloud_single(fname,name,color,mtx):
 	wordcloud=WordCloud(
 		prefer_horizontal=1.0,color_func=get_single_color_func(color),
@@ -173,7 +230,7 @@ def draw_wordcloud(fname,name,color,mtx):
 	plt.imshow(wordcloud)
 	plt.axis("off")
 	plt.title('Tweet WordCloud %s'%name.title())
-	plt.savefig('png\\'+fname+'_wcloud.png')
+	plt.savefig('png\\'+fname+'.png')
 	plt.close()
 
 '''

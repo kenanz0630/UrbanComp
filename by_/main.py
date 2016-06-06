@@ -1,6 +1,6 @@
 import dbProcess
 import tweet_term, tweet_auto, tweet_temp, dbscan
-import foursq, myWordcloud
+import myWordcloud
 '''
 
 
@@ -22,32 +22,18 @@ dbProcess.dbProcess('tweet_all_new','tweet_pgh',maxIter=False)
 
 TWEET_CITY SUMMARY
 *****************************************************************************
-ALL TWEET_N 
+AUTO/GENU TWEET_N 
 ------------------------------------------------------------------------------
 '''
 tbname='tweet_all_new'
 '''
 tweet_temp.tweet_n_city(tbname)
-
 tweet_temp.tweet_n_city_scale(tbname,'doy')
 tweet_temp.tweet_n_city_scale(tbname,'how')
 
 
-AUTO_TWEET VS GENU_TWEET
-------------------------------------------------------------------------------
-'''
-names=['non','4sq','inst','job']
-'''
-tweet_auto.tweet_stats(tbname,names)
 
-tweet_auto.tweet_n(tbname,names)
-
-tweet_auto.tweet_n_doy(tbname,names)
-
-tweet_auto.tweet_senti_hist(tbname,names)
-
-
-GENU_TWEET TEMP SENTI
+GENU_TWEET TEMP SENTI CITY-LEVEL
 ------------------------------------------------------------------------------
 
 tweet_temp.tweet_senti_city(tbname)
@@ -55,16 +41,11 @@ tweet_temp.tweet_senti_city(tbname)
 tweet_temp.tweet_senti_city_scale(tbname,'doy')
 tweet_temp.tweet_senti_city_scale(tbname,'how')
 
-fname=tbname+'_tweet_cls_sup'
-
-tweet_temp.tweet_senti_cls(fname,range(5))
-
-tweet_temp.tweet_senti_cls_scale(fname,range(5),'doy')
-tweet_temp.tweet_senti_cls_scale(fname,range(5),'how')
 
 
 
-SPATIAL CLUSTERING
+
+GENU-TWEET SPATIAL CLUSTERING
 *****************************************************************************
 ALL GENU-TWEET CLUSTERS
 ------------------------------------------------------------------------------
@@ -100,71 +81,202 @@ minCls=400
 '''
 dbscan.dbscan_sup(fname,exts,eps,minPts,eps_ns,minPts_ns,minCls)
 
-AUTO-TWEET CLUSTERS
+
+
+GENUE-TWEET CLUSTER TEMP SENTI
+*****************************************************************************
+GENU_TWEET CLUSTER TEMP SENTI
 ------------------------------------------------------------------------------
 
-
-
-CLUSTER COMMON TERM/TAG
-*****************************************************************************
-GENU-TWEET TERM 
------------------------------------------------------------------------------
-'''
 fname=tbname+'_tweet_cls_sup'
+cls=range(7)+range(10,14)+[15,16,18]
 
+tweet_temp.tweet_senti_cls(fname,cls)
+tweet_temp.tweet_senti_cls_scale(fname,cls,'doy')
+tweet_temp.tweet_senti_cls_scale(fname,cls,'how')
+
+GENU_TWEET CLUSTER TEMP SENTI NORMALIZATION
+------------------------------------------------------------------------------
+SCHEME 1: NORM BY POS_N >>>>>
+
+fn_cls=tbname+'_tweet_cls_sup_senti'
+fn_city=tbname+'_senti_city'
+tweet_temp.tweet_senti_cls_norm(fn_cls,fn_city)
+tweet_temp.tweet_senti_cls_norm(fn_cls,fn_city,'doy')
+tweet_temp.tweet_senti_cls_norm(fn_cls,fn_city,'how')
+
+SCHEME 2: NORM BY TWEET_N >>>>>
+
+fn_cls=tbname+'_tweet_cls_sup_senti'
+fn_city=tbname+'_n_city'
+tweet_temp.tweet_senti_cls_norm(fn_cls,fn_city)
+tweet_temp.tweet_senti_cls_norm(fn_cls,fn_city,'doy')
+tweet_temp.tweet_senti_cls_norm(fn_cls,fn_city,'how')
+
+
+
+GENU-TWEET CLUSTER COMMON TERM/TAG
+*****************************************************************************
+GENU-TWEET TERM TF-IDF
+-----------------------------------------------------------------------------
+fname=tbname+'_tweet_cls_sup'
 tweet_term.process_term_cls(fname)
 
+fname+='_terms'
 tweet_term.common_term(fname,80)
 
-fname+='_terms'
+fname=tbname+'_tweet_cls_sup_terms'
 tweet_term.common_term_cls(fname,50)
-'''
+
+
+GENU-TWEET TERM SENTI
+-----------------------------------------------------------------------------
 
 fn_data=tbname+'_tweet_cls_sup'
 fn_term=fn_data+'_terms_tfIdf'
-cls=range(7)+range(10,14)+[15,16,18]
-tweet_term.common_term_cls_senti(fn_term,fn_data,cls=cls)
+
+tweet_term.common_term_cls_senti(fn_term,fn_data)
 
 
-TWEET TAG
-------------------------------------------------------------------------------
-
-tweet_tag.common_tag_tb(tbname,'tweet_pgh')
-
-tweet_tag.common_tag_cl(tbname+'_pos_sup',30,cls=cls)
-
-
-WORD CLOUD 
+WORD CLOUD OF TF-IDF AND SENTI
 ------------------------------------------------------------------------------
 '''
 fname=tbname+'_tweet_cls_sup_terms'
 cls=range(7)+range(10,14)+[15,16,18]
 names=['downtown','oakland','console energy center','southside',\
-'pnc park','heinz field','strip district','cmu','pit tech center',\
+'pnc park','heinz field','strip district','cmu','pitts tech center',\
 'southside works','station square','east liberty',\
 'lower lawrenceville','shadyside']
 '''
-myWordcloud.wordCloud(fname,cls,names)
+myWordcloud.wordCloud_cls(fname,cls,names)
+
+CREATE CLUSTER TABLE
+------------------------------------------------------------------------------
+
+fname=tbname+'_tweet_cls_sup'
+dbProcess.tbCreate_cls(fname)
+
 
 
 
 
 AUTO-TWEET ANALYSIS
 *****************************************************************************
-
-4SQ
+AUTO_TWEET VS GENU_TWEET
 ------------------------------------------------------------------------------
-foursq.foursq_tweet(tbname)
+'''
+names=['non','4sq','inst','job']
+'''
+tweet_auto.auto_tweet_stats(tbname,names)
 
-foursq.foursq_venue(tbname+'_4sq_tweet')
+tweet_auto.auto_tweet_senti_hist(tbname,names)
 
-foursq.foursq_venue_map(tbname+'_4sq_venue',minCheckin=5)
 
-foursq.foursq_err_tweet(tbname+'_4sq_venue',tbname)
-
-INSTAGRAM
+AUTO_TWEET DIST
 ------------------------------------------------------------------------------
-inst
+
+autos=['4sq','inst','job']
+
+for auto in autos:
+	tweet_auto.auto_tweet_map(tbname,auto)
+
+
+FOURSQ & INST VENUE
+------------------------------------------------------------------------------
+
+tweet_auto.auto_tweet_venue(tbname,'4sq')
+
+tweet_auto.auto_tweet_venue(tbname,'inst')
+
+
+ASSIGN VENUE TO SUP-CLUSTERS
+------------------------------------------------------------------------------
+
+eps=0.0015
+minPts=450
+fn_cls=tbname+'_tweet_cls_sup'
+fn_venue=tbname+'_inst_venue'
+dbscan.dbscan_venue(fn_cls,fn_venue,eps,minPts)
+
+fn_venue=fn_venue.replace('inst','4sq')
+dbscan.dbscan_venue(fn_cls,fn_venue,eps,minPts)
+
+
+REWRITE VENUE TWEET BY CLUSTER
+------------------------------------------------------------------------------
+
+for name in ['inst','4sq']:
+	fn_venue=tbname+'_%s_venue_cls'%name
+	fn_tweet=tbname+'_%s_tweet_new'%name
+	tweet_auto.venue_tweet_cls(fn_venue,fn_tweet)
+
+
+CREATE VENUE TABLE
+------------------------------------------------------------------------------
+
+for name in ['inst','4sq']:
+	fname=tbname+'_%s_venue_cls_tweet'%name
+	dbProcess.tbCreate_venue(fname,tbname+'_%s'%name)
+
+
+
+VENUE TEMP CHECKIN VS CLUSTER TEMP SENTI
+------------------------------------------------------------------------------
+
+fn_city=tbname+'_n_city'
+for name in ['inst','4sq']:
+	#fname=tbname+'_%s_venue_cls_tweet'%name
+	fname=tbname+'_%s_venue_cls_checkin'%name
+	for scale in ['doy','how']:
+		#tweet_temp.venue_checkin_cls(fname,cls,scale)
+		tweet_temp.venue_checkin_cls_norm(fname,fn_city,scale)
+
+
+fn_senti=tbname+'_senti_city'
+fn_n=tbname+'_n_city'
+for name in ['inst','4sq']:
+	for scale in ['doy','how']:
+		tweet_temp.corroef_city(fn_senti,fn_n,name,scale)
+
+RESULTS 
+===================================
+Corroef >>
+city-level doy inst 0.157918771596
+Corroef >>
+city-level how inst 0.48269828415
+Corroef >>
+city-level doy 4sq 0.186369697372
+Corroef >>
+city-level how 4sq 0.473871377638
+
+
+fn_senti=tbname+'_tweet_cls_sup_senti'
+'''
+names=['downtown','oakland','console energy center','southside',\
+'pnc park','heinz field','strip district','cmu','pitts tech center',\
+'southside works','station square','east liberty',\
+'lower lawrenceville','shadyside']
+'''
+
+fn_checkin=tbname+'_inst_venue_cls_checkin'
+autos=['inst','4sq']
+scales=['doy','how']
+tweet_temp.corroef_cls(fn_senti,fn_checkin,cls,names,scales,autos)
+
+
+WORD CLOUD OF VENUE CHECKIN
+------------------------------------------------------------------------------
+'''
+tb=tbname+'_4sq'
+myWordcloud.wordCloud_venue(tb,cls,names,minCheckin=1,maxVenue=50)
+
+
+
+'''
+
+
+
+
 
 
 CLUSTER EVENT

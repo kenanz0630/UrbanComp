@@ -125,7 +125,91 @@ class PgController:
 
 
 '''MAIN FUNCTION'''
+def tbCreate_venue(fname,tbname,dbname='tweet_pgh',user='postgres'): #create new table of venue check-in
+	print 'Extract data and vars'
+	var=['clid','venue','lon','lat','user','year','doy','dow','hour']
+	data=extract_txt_data('auto-tweet\\'+fname,var)
+
+	print "Connect to database"
+	[cur,conn]=db_conn(dbname,user)
+
+	print "Create new table"
+	cur.execute("drop table if exists %s" %tbname)
+	cur.execute("""create table %s(
+		clid integer,
+		venue text,
+		lon real, lat real,
+		username text,
+		year integer, doy integer, dow integer, hour integer);
+		"""%tbname)
+	conn.commit()
+
+	print 'Insert data into new table'
+	n=len(data[var[0]])
+	count=0
+	for i in xrange(n):	
+		venue=data['venue'][i].replace("'","''")
+		cur.execute("""insert into %s
+	 	values(%d,'%s',%f,%f,'%s',%d,%d,%d,%d);
+	 	"""%(tbname,data['clid'][i],venue,data['lon'][i],data['lat'][i],data['user'][i],
+	 		data['year'][i],data['doy'][i],data['dow'][i],data['hour'][i]))
+	
+		conn.commit()
+		count+=1
+	print 'Insert %d records into table %s'%(count,tbname)
+
+	cur.close()
+	conn.close()
+
+
+def tbCreate_cls(fname,dbname='tweet_pgh',user='postgres'): #create new table of tweet clusters
+	print 'Extract data and vars'
+	var=['clid','lon','lat','user','year','doy','dow','hour','txt','term','emoji','tag','senti_val']
+	data=extract_txt_data(fname,var)
+
+	print "Connect to database"
+	[cur,conn]=db_conn(dbname,user)
+
+	print "Create new table"
+	cur.execute("drop table if exists %s" %fname)
+	cur.execute("""create table %s(
+		clid integer,
+		lon real, lat real,
+		username text,
+		year integer, doy integer, dow integer, hour integer,		
+		txt text,
+		term text,
+		emoji text,
+		tag text,
+		senti_val real);
+		"""%fname)
+	conn.commit()
+
+	print 'Insert data into new table'
+	n=len(data[var[0]])
+	count=0
+	for i in xrange(n):		
+		txt=data['txt'][i].replace("'","''")
+		term=data['term'][i].replace("'","''")
+		emoji="'"+data['emoji'][i]+"'" if data['emoji'][i]!='' else 'Null'
+		tag="'"+data['tag'][i].replace("'","''")+"'" if data['tag'][i]!='' else 'Null'
+		cur.execute("""insert into %s
+	 	values(%d,%f,%f,'%s',%d,%d,%d,%d,'%s','%s',%s,%s,%f);
+	 	"""%(fname,data['clid'][i],data['lon'][i],data['lat'][i],data['user'][i],
+	 		data['year'][i],data['doy'][i],data['dow'][i],data['hour'][i],
+	 		txt,term,emoji,tag,data['senti_val'][i]))
+	
+		conn.commit()
+		count+=1
+	print 'Insert %d records into table %s'%(count,fname)
+
+
+	cur.close()
+	conn.close()
+
+
 def dbProcess(tbname,dbname,t_range=False,maxIter=200,user='postgres'):
+	#process tweet txt, sentiment analysis and create new table
 	print "Connect to database"
 	[cur,conn]=db_conn(dbname,user)
 
@@ -173,6 +257,44 @@ def init_tb(tbname,cur,conn):
 		"""%tbname)
 	conn.commit()
 
+def init_clusters(k,names,vals=False):
+	d=dict()
+	for i in xrange(k):
+		key=names[i]
+		if vals:
+			d[key]=vals[i]
+		else:	
+			d[key]=[]
+	return d
+
+'''------------------------------------------------------------------'''
+def extract_txt_data(fname,names,sep='\t'):
+	data=file('txt\\'+fname+'.txt').readlines()
+	n=len(data)
+	data=[data[i][:-1].split(sep) for i in xrange(n)]
+	var=data[0]
+	data=data[1:]
+	n-=1
+
+	if 'clid' in names:
+		data=[data[i] for i in xrange(n) if data[i][0]!='-1']
+		n=len(data)
+
+	data_dict=init_clusters(len(names),names)
+	for name in names:
+		idx=var.index(name)
+		if name in ['clid','year','doy','dow','hour']:
+			data_dict[name]=[int(data[i][idx]) for i in xrange(n)]
+		if name in ['lon','lat','senti_val']:
+			data_dict[name]=[float(data[i][idx]) for i in xrange(n)]
+		if name in ['venue','user','txt','term','emoji','tag']:
+			data_dict[name]=[data[i][idx] for i in xrange(n)]
+
+	return data_dict
+
+
+
+	
 '''------------------------------------------------------------------'''
 def main_all(tbname,cur,conn,maxIter):
 	part=1
@@ -288,6 +410,7 @@ def insert_data(tbname,tweet,cur,conn):
 	emoji="'"+tweet.emoji+"'" if tweet.emoji!='' else 'Null'
 	auto_tweet="'"+tweet.auto+"'" if tweet.auto!='' else 'Null'
 	tag="'"+tweet.tag.replace("\'","\'\'")+"'" if tweet.tag!='' else 'Null'
+
 	try:
 		cur.execute("""insert into %s
 	 	values('%s','%s',%d,%d,%d,%d,%f,%f,%s,'%s',%s,%s,%s,%f,%d,'%s');

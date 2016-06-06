@@ -1,0 +1,882 @@
+venue	lon	lat	checkin_n	user_n	doy_mode	dow_mode	hour_mode	senti_avg
+Pittsburgh, Pennsylvania_1	-79.9773	40.4414	153	66	2015	270	0	0.000
+Children's Museum of Pittsburgh	-80.0068	40.4527	48	13	2014	220	6	0.000
+Stage AE	-80.0122	40.4461	33	19	2014	277	0	0.000
+Blvd of the Allies	-79.9637	40.4356	33	2	2015	189	3	0.000
+Point State Park Fountain	-80.0128	40.4419	28	14	2015	306	0	0.000
+Carnegie Museum of Natural History	-79.9493	40.4433	25	14	2015	311	6	0.263
+David L. Lawrence Convention Center	-79.9965	40.4457	24	10	2014	269	6	0.000
+Cathedral of Learning	-79.9532	40.4442	24	11	2014	82	6	0.000
+CONSOL Energy Center	-79.9894	40.4396	24	12	2014	107	4	0.296
+City of Pittsburgh_3	-79.9924	40.4470	24	9	2014	303	4	0.000
+Kennywood Park_1	-79.8647	40.3871	21	15	2015	144	5	0.000
+Phipps Conservatory and Botanical Gardens_1	-79.9520	40.4344	21	9	2015	233	1	0.000
+University of Pittsburgh_2	-79.9527	40.4446	21	11	2015	270	0	0.000
+Mattress Factory - Museum of Contemporary Art	-80.0123	40.4570	21	12	2014	299	0	0.000
+Hofbrauhaus Pittsburgh	-79.9645	40.4287	21	6	2015	186	0	0.000
+West Mifflin Area High School	-79.8754	40.3829	20	1	2015	276	6	0.000
+Market Square, Pittsburgh	-80.0026	40.4408	20	7	2015	188	0	0.000
+Kennywood Park_2	-79.8654	40.3880	18	2	2014	146	1	0.000
+Primanti Bros_1	-79.9855	40.4508	17	7	2014	170	4	0.000
+Gateway Clipper Fleet	-80.0069	40.4361	16	11	2015	87	6	0.000
+Carnegie Mellon University	-79.9426	40.4437	16	11	2015	273	3	0.000
+National Aviary_2	-80.0102	40.4532	15	7	2015	144	0	0.000
+La Huette Royal	-79.9826	40.4670	15	1	2015	60	0	0.000
+Carnegie Science Center	-80.0182	40.4459	15	5	2015	97	1	0.000
+Bayardstown Social Club	-79.9723	40.4589	15	3	2015	186	0	0.000
+Omni William Penn Hotel	-79.9967	40.4407	14	6	2015	275	1	0.000
+PNC Park Pittsburgh Pirates	-80.0056	40.4476	14	10	2014	207	0	0.000
+Roberto Clemente Bridge_1	-80.0033	40.4456	13	8	2014	92	3	0.000
+Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	12	3	2015	277	0	0.000
+West End Overlook	-80.0337	40.4458	12	5	2015	186	0	0.000
+Carnegie Library of Homestead	-79.9031	40.4072	12	1	2014	340	6	0.000
+Penn Brewery	-79.9914	40.4569	12	5	2014	192	6	0.000
+Kennywood Park_3	-79.8646	40.3859	12	9	2014	144	0	0.000
+The Waterfront	-79.9171	40.4076	12	4	2015	241	6	0.000
+Twilight Zone	-79.9189	40.3876	12	1	2015	272	2	0.000
+Pittsburgh Central Downtown Historic District	-79.9972	40.4414	11	3	2015	46	0	0.000
+Amtrak Station	-79.9924	40.4447	11	3	2014	132	1	0.000
+Fright Nights At Kennywood Park	-79.8641	40.3865	10	3	2015	304	6	-0.271
+Art All Night: Lawrenceville	-79.9647	40.4716	10	2	2014	117	0	0.000
+Carnegie Museum of Art	-79.9494	40.4436	10	7	2015	85	4	0.000
+Duquesne University	-79.9905	40.4368	10	6	2015	85	2	0.000
+Heintz Field-Pittsburgh	-80.0085	40.4474	10	1	2015	274	4	0.000
+Under the 40th Street Bridge	-79.9674	40.4724	10	2	2014	127	3	0.000
+ALTAR BAR	-79.9868	40.4492	9	5	2014	121	4	0.000
+Saint Paul Cathedral	-79.9500	40.4472	9	4	2014	307	1	0.000
+Point Park University	-80.0020	40.4386	9	6	2015	252	3	0.000
+Three Rivers Heritage Trail	-80.0028	40.4469	9	4	2015	199	6	0.000
+Mad Mex Shadyside	-79.9251	40.4583	9	2	2014	216	1	-0.390
+Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	9	5	2015	247	5	0.000
+Paint Monkey	-79.9638	40.4730	9	2	2014	136	0	0.000
+Fort Pitt Bridge_2	-80.0110	40.4390	9	2	2014	90	1	0.000
+Heinz History Center	-79.9922	40.4466	9	6	2015	73	6	0.000
+SAVOY Restaurant & Lounge	-79.9780	40.4555	8	3	2015	28	0	0.000
+Allegheny General Hospital	-80.0029	40.4572	8	1	2014	78	3	0.000
+Da Burgh	-80.0050	40.4429	8	1	2015	187	1	0.000
+The Cheesecake Factory	-79.9655	40.4281	8	6	2015	38	6	0.000
+Mario Lemieux 6.6k	-79.9866	40.4418	8	2	2015	277	0	0.000
+Fort Pitt Bridge_1	-80.0134	40.4379	8	2	2014	160	0	0.000
+Chipotle	-79.9474	40.4542	8	1	2014	74	0	0.000
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	8	4	2014	226	1	0.248
+Squirell Hill	-79.9238	40.4293	7	1	2015	184	5	0.000
+Sheda's Fashion	-80.0112	40.4288	7	1	2014	27	1	0.000
+Hamburg Hall - Carnegie Mellon University's Heinz College	-79.9450	40.4443	7	2	2015	281	4	0.000
+Mt. Washington View Point, Pittsburgh, PA	-80.0112	40.4344	7	4	2015	185	6	0.000
+Waffles Incaffienated, SouthSide	-79.9694	40.4279	7	3	2015	276	6	0.000
+Phantom Fright Nights	-79.8652	40.3857	7	1	2014	309	3	-0.342
+Carson City Saloon	-79.9840	40.4289	7	5	2015	73	0	0.000
+George K. Cupples Stadium	-79.9906	40.4284	7	2	2015	275	5	0.000
+Delanie's Coffee	-79.9807	40.4290	7	2	2015	280	4	0.000
+Andy Warhol Bridge	-80.0014	40.4461	7	4	2014	157	0	0.000
+Smithfield United Church Of Christ_2	-80.0079	40.4490	7	3	2014	80	5	0.286
+The Smiling Moose	-79.9850	40.4288	7	5	2014	224	2	0.375
+Carnegie Library Music Hall of Homestead	-79.9028	40.4070	7	3	2015	41	2	0.000
+Wigle Whiskey	-79.9813	40.4544	7	2	2014	108	5	0.000
+Mt Washington Overlook_1	-80.0104	40.4338	6	3	2015	194	1	0.000
+Kiln-N-Time	-79.9616	40.4646	6	1	2015	87	6	0.000
+Renaissance Pittsburgh Hotel	-80.0024	40.4439	6	4	2015	166	0	0.000
+National Aviary_1	-80.0097	40.4541	6	1	2014	60	6	0.000
+Garfield (Pittsburgh	-79.9400	40.4670	6	2	2015	274	4	0.000
+Guardian Angel Ambulance Service	-79.9306	40.3638	6	1	2015	279	2	0.000
+Gateway Station (PAT	-80.0043	40.4417	6	1	2014	60	6	0.000
+Hazelwood, Pittsburgh, Pennsylvania	-79.9476	40.4079	6	1	2015	30	5	0.000
+Local Bar + Kitchen	-79.9828	40.4289	6	4	2014	103	0	0.000
+Element Church	-79.9750	40.4810	6	1	2014	26	0	0.000
+Downtown Pgh_1	-80.0010	40.4415	6	3	2014	117	0	0.000
+The Westin Convention Center Pittsburgh	-79.9953	40.4441	6	4	2014	233	4	0.000
+Thrival Festival	-79.9526	40.4241	6	3	2015	269	6	0.444
+Lawrenceville_2	-79.9669	40.4628	6	1	2014	111	1	0.000
+Parks & Recreation Dept	-79.9466	40.4349	6	1	2015	283	6	0.000
+Hey Betty	-79.9278	40.4580	6	3	2014	106	3	0.000
+Bar Marco	-79.9817	40.4526	6	2	2014	95	6	0.000
+Space Art Gallery	-79.9984	40.4428	6	1	2014	67	6	0.000
+Pyrotopia	-79.9056	40.3981	6	1	2014	132	1	0.000
+The ToonSeum	-79.9965	40.4436	6	1	2014	361	6	0.000
+Pittsburg,PA	-80.0419	40.4245	6	2	2015	274	4	0.000
+Spring Hill	-79.9930	40.4614	6	1	2014	58	4	0.000
+North Shore Riverfront Park and Trail_2	-80.0120	40.4453	6	2	2014	207	4	0.000
+Point State Park_2	-80.0074	40.4394	6	2	2014	183	0	0.000
+Pnc Ballpark	-80.0049	40.4466	6	3	2014	208	0	0.000
+Heinz Field_2	-80.0159	40.4461	6	4	2015	305	0	0.000
+Cathedral Of Learning Nationality Rooms Tour	-79.9494	40.4491	6	1	2015	202	2	0.000
+South Oakland, Pittsburgh, Pennsylvania	-79.9548	40.4328	6	2	2015	185	6	0.000
+Seor Frogs	-80.0256	40.3989	5	2	2015	193	0	0.000
+Northview Projects	-80.0011	40.4793	5	1	2014	357	2	0.000
+IVY Pittsburgh	-79.9851	40.4509	5	2	2014	131	0	0.000
+Strip District, Pittsburgh_1	-79.9850	40.4500	5	3	2015	241	6	0.000
+Restaurant Depot	-79.9727	40.4638	5	1	2014	333	6	0.000
+Heinz Stadium Gold Lot 1	-80.0127	40.4473	5	1	2015	275	5	0.000
+Pamela's P&G Diner	-79.9836	40.4519	5	1	2014	60	6	0.000
+Hot Mass	-79.9929	40.4457	5	2	2015	204	4	0.000
+Sienna Mercato	-79.9964	40.4441	5	3	2014	60	0	0.000
+The Milk Shake Factory	-79.9818	40.4289	5	2	2015	146	2	-0.221
+Bloomfield, Pittsburgh, Pennsylvania	-79.9481	40.4611	5	1	2015	188	2	0.000
+Sin City Clubhouse	-79.8885	40.4546	5	1	2015	274	4	-0.419
+Big Shot Bob's House of Wings	-80.0618	40.5038	5	1	2015	204	4	0.000
+Allegheny Center Mall	-80.0046	40.4510	5	1	2015	274	4	0.000
+Schenley Plaza	-79.9525	40.4428	5	2	2015	178	6	0.000
+Grandview Park	-79.9975	40.4261	5	1	2015	274	4	0.000
+Fifth Avenue Place	-80.0033	40.4419	5	1	2015	274	4	0.000
+Carnegie Museums of Pittsburgh	-79.9506	40.4428	5	1	2015	187	1	0.000
+Studio 41 Entertainment	-80.0028	40.4413	5	1	2015	241	4	0.359
+Port Authority South Hills Junction	-80.0075	40.4207	5	1	2014	38	5	0.157
+Downtown Pgh_2	-79.9999	40.4422	5	2	2014	153	1	0.000
+Mexican War Streets	-80.0107	40.4554	5	2	2015	52	1	-0.438
+Dormont, Pennsylvania	-80.0375	40.3936	5	1	2015	275	5	0.000
+Mount Lebanon Park	-80.0568	40.3750	5	1	2015	187	1	0.000
+Wtae-Tv Channel 4	-79.8691	40.4356	5	3	2015	181	2	0.000
+East Liberty Presbytarian Church	-79.9741	40.4375	5	1	2015	188	2	0.362
+Pittsburgh's Strip District_2	-79.9815	40.4533	5	1	2015	276	6	0.000
+Pamela's P & G Diner - Strip District	-79.9835	40.4520	5	3	2014	144	6	0.000
+The Duquesne Incline_1	-80.0060	40.4314	5	4	2014	297	5	0.000
+Gateway Center	-80.0049	40.4421	5	3	2014	163	3	0.000
+The Duquesne Incline_2	-80.0190	40.4383	5	2	2014	118	1	0.000
+CAVO Restaurant Lounge Nightclub	-79.9845	40.4513	4	2	2014	286	1	0.000
+Squirrel Hill-forbes Ave	-79.9229	40.4381	4	1	2015	73	6	0.000
+North Shore Riverfront Park and Trail_1	-80.0092	40.4464	4	2	2015	17	6	0.000
+Pittsburgh Steelers	-79.9571	40.4226	4	1	2015	239	4	0.000
+Kaya	-79.9845	40.4516	4	2	2015	144	0	0.000
+Wintergarden Ppg	-80.0032	40.4398	4	2	2014	341	0	0.000
+Fat Head's Saloon	-79.9803	40.4289	4	3	2014	81	6	0.000
+Round Corner Cantina	-79.9641	40.4667	4	2	2014	91	2	0.000
+Pittsburgh Brewing Company	-79.9662	40.4616	4	1	2014	85	3	0.000
+Dormont Park	-80.0433	40.3969	4	3	2014	284	6	0.000
+Prague	-79.9837	40.4542	4	1	2014	286	1	0.000
+Duquesne University Tamburitzans	-79.9814	40.4360	4	1	2015	273	3	0.000
+The Art Institute of Pittsburgh	-79.9995	40.4376	4	2	2014	309	3	0.000
+Pittsburgh, PA_1	-80.0765	40.4817	4	2	2014	59	0	0.000
+Prestogeorge Coffee & Tea	-79.9856	40.4501	4	1	2014	277	6	0.000
+Mount Washington Scenic Overlook	-79.9745	40.4359	4	1	2015	277	0	0.000
+castle Shannon Hamilton Park	-80.0187	40.3627	4	1	2015	145	1	0.000
+Braddock, Pennsylvania	-79.8686	40.4033	4	1	2014	206	5	0.000
+Stowe Township, Allegheny County, Pennsylvania	-80.0742	40.4728	4	1	2015	186	0	0.000
+Miniature Railroad & Village	-80.0184	40.4460	4	1	2014	344	3	0.000
+S.W. Randall Toyes and Giftes	-79.9969	40.4422	4	1	2014	354	6	0.000
+Ursula and Deegan's	-79.9244	40.4727	4	1	2014	304	5	0.000
+At the corner of bad&bitches	-80.0013	40.4386	4	1	2015	79	5	0.000
+Great Allegheny Passage	-79.9186	40.4081	4	1	2015	242	0	0.451
+The Allegheny Wine Mixer Inc	-79.9515	40.4825	4	2	2015	305	0	0.000
+South Side Slopes	-79.9700	40.4200	4	3	2015	237	0	0.000
+UPMC Shadyside_1	-79.9399	40.4547	4	1	2015	82	1	0.000
+Mount Washington, Pittsburgh	-79.9496	40.4883	4	2	2015	87	6	0.000
+Tamari	-79.9661	40.4645	4	1	2014	76	1	0.000
+Lang Bar	-79.8975	40.4629	4	1	2014	74	6	0.000
+Salem's Market & Grill	-79.9735	40.4584	4	1	2014	91	2	0.000
+The Point	-80.0122	40.4422	4	2	2015	158	0	0.000
+The Rink at PPG Place	-80.0034	40.4397	4	1	2014	47	0	0.000
+Image One Salon	-79.9661	40.3983	4	1	2015	102	0	0.000
+Lava Lounge	-79.9744	40.4283	4	1	2014	303	4	0.000
+Run Around the Square	-79.8943	40.4312	4	2	2015	234	6	0.000
+SouthSide Works	-79.9658	40.4278	4	2	2015	193	0	0.000
+McNeilly Manor	-80.0291	40.3915	4	1	2014	15	4	0.000
+The Secret City of Pittsburgh	-79.9022	40.4491	4	1	2014	28	0	0.000
+bar11	-79.9874	40.4272	4	2	2015	200	0	0.000
+Ten Penny	-79.9958	40.4443	4	2	2014	181	1	0.000
+Carmi Family Restaurant	-80.0172	40.4518	4	1	2015	272	2	0.000
+Pittsburgh Public Market	-79.9803	40.4538	4	1	2015	269	6	0.000
+North Side, Pittsburgh, Pennsylvania_2	-80.0286	40.4706	4	1	2015	187	1	0.000
+Carrie Furnace	-79.8897	40.4133	4	2	2015	144	0	0.000
+Mallorca Restaurant	-79.9734	40.4281	4	1	2015	304	6	0.000
+Hot Metal Bridge	-79.9607	40.4283	4	3	2014	143	5	0.000
+grandmas house, Pgh	-80.0031	40.3606	4	1	2014	360	5	0.000
+The Porch at Schenley	-79.9530	40.4429	4	1	2015	277	0	0.000
+Allegheny River_1	-80.0141	40.4118	4	3	2014	169	3	0.000
+Luke Wholey's Wild Alaskan Grille	-79.9828	40.4518	4	3	2014	241	6	0.000
+The Urban Tap	-79.9859	40.4288	4	3	2014	109	6	0.000
+Scott Twp Pool	-80.0881	40.3838	4	2	2015	158	0	0.000
+Riverfront Trail_1	-79.9907	40.4537	4	2	2014	176	3	0.000
+Popeyes	-79.9582	40.4415	4	1	2014	216	1	0.000
+Highland Park, Pittsburgh, Pennsylvania	-79.9232	40.4757	4	2	2014	214	3	0.000
+Allegheny River_2	-80.0054	40.4451	4	1	2015	185	6	0.000
+Commonplace Coffee House	-79.9219	40.4381	4	2	2015	74	0	0.000
+Happy 4th	-79.9714	40.3769	4	1	2015	186	0	0.481
+Runaway Studio	-79.9534	40.4640	3	1	2015	194	1	0.000
+August Wilson Center for African American Culture	-79.9957	40.4433	3	1	2014	195	1	0.000
+pittsburgh magazine	-79.9761	40.4656	3	1	2015	85	4	0.000
+Carnegie Coffee Company	-80.0863	40.4078	3	1	2014	193	6	0.000
+Courthouse Tavern	-80.0004	40.4400	3	1	2014	113	3	0.000
+Kickback Pinball Cafe	-79.9597	40.4713	3	1	2015	235	0	0.000
+northside Pgh_2	-79.9934	40.4539	3	1	2014	296	4	0.000
+I-376 East	-80.0805	40.4133	3	1	2014	289	4	0.000
+Roberto Clemente Bridge_2	-80.0032	40.4449	3	2	2014	95	6	0.000
+Police Memorial	-80.0135	40.4450	3	1	2015	271	1	0.000
+Pittsburgh Steelers vs. Cincinnati Bengals	-80.0207	40.4476	3	3	2015	305	0	0.000
+PAPA World Headquarters	-80.0950	40.4001	3	1	2014	87	5	0.000
+Amazing Cafe	-79.9832	40.4287	3	2	2014	112	2	0.487
+Allegheny Cemetary_2	-79.9450	40.4726	3	1	2015	119	3	0.000
+Downtown Pittsburgh PA On 376 W	-79.9986	40.4368	3	3	2015	111	1	0.000
+Smallman (The Strip	-79.9865	40.4504	3	2	2015	293	2	0.000
+The Queendom	-80.0760	40.4736	3	1	2015	235	0	0.000
+Phantom's Revenge	-79.8660	40.3890	3	2	2015	158	0	-0.459
+South Side Bike Trail	-79.9781	40.4325	3	2	2014	146	1	0.000
+Penn Ave	-79.9961	40.4455	3	1	2014	115	5	0.000
+Route 28	-79.9884	40.4574	3	1	2015	2	5	0.000
+The BeerHive	-79.9828	40.4521	3	2	2014	43	3	0.000
+D's Six Pax & Dogz	-79.8938	40.4320	3	1	2015	282	5	0.000
+Shop 412	-79.9658	40.4284	3	2	2015	77	3	0.000
+St. Nicholas Croatian Church	-79.9700	40.4770	3	1	2014	359	4	0.000
+Monterey Bay Fish Grotto	-80.0210	40.4388	3	2	2015	194	1	0.000
+Big Tom's Barbershop	-79.9791	40.4442	3	1	2014	295	3	0.000
+City of Pittsburgh_2	-79.9932	40.4447	3	2	2015	196	3	0.000
+Golds Gym	-80.0040	40.4409	3	1	2014	120	3	0.000
+Y47	-79.9668	40.3660	3	1	2014	234	5	0.000
+Showcase BBQ	-79.9060	40.4581	3	1	2015	242	0	0.000
+The Beer Market	-80.0041	40.4478	3	2	2014	205	4	0.000
+West End Bridge	-80.0270	40.4463	3	1	2014	142	4	0.000
+Jewish Association on Aging	-79.9213	40.4139	3	1	2014	100	4	0.000
+Calvary Episcopal Church	-79.9220	40.4564	3	1	2015	152	1	0.000
+Casbah	-79.9249	40.4582	3	1	2014	171	5	0.000
+Dorothy 6 Cafe	-79.9098	40.4073	3	1	2015	40	1	0.000
+Maggie's Farm Rum	-79.9702	40.4617	3	1	2014	298	6	0.000
+Corner Cafe	-79.9839	40.4219	3	1	2015	280	3	0.000
+Roland's Seafood Grill	-79.9844	40.4508	3	2	2015	73	6	0.000
+William Pitt Union	-79.9548	40.4435	3	2	2015	265	2	0.000
+Liberty Tunnel	-79.9994	40.4291	3	2	2015	158	0	0.459
+Ikea Warehouse	-79.9696	40.4770	3	1	2014	185	5	0.000
+East Carson Street Pittsburgh	-79.9819	40.4286	3	2	2015	227	6	0.000
+Pittsburgh Improv Comedy Club	-79.9150	40.4091	3	1	2015	297	6	0.294
+Thayer Hall	-80.0021	40.4390	3	1	2014	33	0	0.000
+St. Joseph's Church	-79.9497	40.4620	3	1	2015	191	5	0.000
+105.9 The X	-80.0492	40.4208	3	1	2015	282	5	0.000
+Primanti Brothers_1	-80.0027	40.4403	3	1	2014	83	1	0.000
+Pittsburgh, PA_3	-79.9486	40.4360	3	2	2015	116	0	0.000
+U.S.X. Tower	-79.9953	40.4410	3	1	2015	193	0	0.000
+modern hair world	-79.8883	40.4224	3	1	2015	184	5	0.000
+Frick Park_1	-79.9049	40.4323	3	2	2015	194	1	0.000
+Father Ryan Arts Center	-80.0584	40.4650	3	1	2015	32	0	0.000
+Pittsburgh Opera	-79.9797	40.4533	3	1	2015	270	0	0.000
+Brottier Hall	-79.9933	40.4375	3	2	2015	242	0	0.000
+Steel Valley Heritage Trail	-79.8971	40.4128	3	1	2014	211	3	0.000
+The Warhol: Store	-80.0021	40.4486	3	1	2014	81	6	0.000
+Human Computer Interaction Institute	-79.9457	40.4435	3	1	2014	87	5	0.000
+Leaf and Bean in the Strip	-79.9821	40.4521	3	2	2015	24	6	0.000
+A To Z Highland Park	-79.9156	40.4738	3	1	2015	151	0	0.000
+Double Wide Grill	-79.9712	40.4284	3	3	2014	144	0	0.000
+Our Home Cubovia	-79.9856	40.4509	3	1	2015	280	3	0.000
+Bobbie Pins Diaper Cakes & Crafts	-80.0201	40.3998	3	1	2015	271	1	0.000
+Carlow University	-79.9633	40.4386	3	1	2015	278	1	0.000
+Lili Cafe	-79.9659	40.4576	3	1	2014	147	2	0.000
+31st Street Bridge	-79.9778	40.4638	3	1	2014	139	1	0.000
+Mr. Smalls	-79.9723	40.4808	3	3	2014	97	1	0.000
+Saint Nicholas Greek Orthodox Cathedral, Pittsburgh, PA	-79.9499	40.4449	3	1	2014	144	6	0.000
+Contemporary Craft	-79.9843	40.4524	3	1	2015	159	1	0.000
+Tilted Kilt Pittsburgh	-80.0108	40.4459	3	2	2014	111	1	0.000
+Braddock, PA	-79.8670	40.4034	3	1	2014	58	4	0.000
+still looking 4 the zaddys	-80.0013	40.4386	3	1	2015	88	0	0.000
+The Pump House	-79.8970	40.4130	3	1	2014	222	0	0.000
+Summerset at Frick Park (Pittsburgh, PA	-79.9163	40.4195	3	1	2014	222	0	0.000
+on the river at Heinz Field	-80.0142	40.4447	3	1	2014	234	5	0.000
+City View Apartments	-79.9864	40.4401	3	1	2015	281	4	0.000
+River front dog park	-79.9765	40.4378	3	1	2014	144	6	0.000
+Schenley Park Overlook	-79.9455	40.4307	3	2	2014	241	5	0.000
+Rock Bottom - Pittsburgh	-79.9149	40.4097	3	1	2014	150	5	0.000
+Spirit	-79.9557	40.4784	3	2	2015	277	0	0.362
+Sandcastle	-79.9287	40.3972	3	2	2015	198	5	0.000
+Frick Fine Arts Building	-79.9512	40.4417	3	1	2015	267	4	0.231
+Squirrel Hill Tunnel	-79.8979	40.4261	3	1	2014	243	0	0.000
+Sheraton Station Square Hotel	-80.0063	40.4350	3	3	2014	66	5	0.000
+The Color Run Pittsburgh	-80.0076	40.4476	3	1	2014	319	6	0.000
+the park, northshore	-80.0133	40.4518	3	1	2014	108	5	0.000
+oceancity	-80.0808	40.4274	3	1	2014	160	1	0.000
+Mr. Rogers Memorial	-80.0121	40.4456	3	1	2015	271	1	0.000
+Cubovia	-79.9850	40.4209	3	1	2015	26	1	0.000
+City Cafe	-79.9960	40.4434	3	1	2014	127	3	0.000
+Sapling Press	-79.9655	40.4646	3	1	2014	197	3	0.000
+Carnegie Mellon University (Pittsburgh Campus	-79.9424	40.4433	3	2	2015	57	4	0.000
+Mount Lebanon, Pennsylvania	-80.0491	40.3768	3	2	2015	291	0	0.000
+637 Summerlea Street	-79.9309	40.4540	3	1	2014	109	6	0.000
+Peace, Love and Little Donuts	-79.9841	40.4521	3	2	2014	166	0	0.562
+One on One Personal Training & Fitness	-79.9765	40.4562	3	1	2014	179	6	0.189
+Boston, Massachusetts	-80.0712	40.4104	3	1	2015	84	3	0.000
+Weiner World	-79.9970	40.4419	3	1	2014	116	6	0.000
+Espresso A Mano	-79.9649	40.4660	3	1	2014	65	4	0.000
+Grandview Pointe	-80.0213	40.4391	3	2	2015	283	6	0.000
+Kiddapoloza	-79.9957	40.4458	3	1	2014	88	6	0.000
+Wean Hall	-79.9462	40.4428	3	1	2014	23	4	0.000
+Voodoo Homestead	-79.9097	40.4063	3	1	2015	53	0	0.000
+Sal's City Deli	-80.0001	40.4426	3	1	2015	192	6	0.000
+Three Rivers Rowing Association	-79.9758	40.4667	3	1	2014	87	5	0.000
+The Gates Center for Computer Science	-79.9446	40.4436	3	2	2015	267	4	0.000
+Eclipse Lounge	-79.9647	40.4666	3	1	2014	173	0	0.000
+16th Street Bridge	-79.9888	40.4499	3	1	2015	196	3	0.000
+Room 401	-80.0022	40.4352	2	1	2015	42	3	0.000
+First Presbyterian Church of Pittsburgh	-79.9989	40.4415	2	2	2014	34	0	0.000
+U.S. Steel Tower_1	-79.9947	40.4413	2	1	2015	292	1	0.000
+northside Pgh_1	-80.0124	40.4545	2	1	2015	156	5	0.000
+Whole Foods Market Pittsburgh	-79.9285	40.4588	2	1	2014	121	4	0.000
+Biddle's Escape	-79.8922	40.4381	2	2	2014	134	3	0.298
+Cioppino	-79.9829	40.4542	2	1	2014	361	6	0.000
+Yinzers in the Burgh	-79.9826	40.4524	2	1	2015	3	6	0.000
+russell senate office building	-80.0083	40.4488	2	1	2015	61	1	0.000
+Dick's Sporting Goods Pittsburgh Marathon Finish Line	-80.0050	40.4396	2	1	2014	124	0	0.000
+Heinz Feild	-80.0151	40.4475	2	1	2015	182	3	0.000
+Braddock Farms	-79.8965	40.4371	2	1	2015	270	0	0.000
+Consol Energy Center_2	-79.9902	40.4391	2	2	2015	50	4	0.296
+Pittsburgh Highland Park Reservoir_1	-79.9148	40.4834	2	1	2014	181	1	0.000
+DeLuca's Diner	-79.9837	40.4515	2	1	2015	305	0	0.000
+Pop-Up Canada	-79.9969	40.4414	2	1	2014	113	3	0.000
+The 'Burgh	-79.9221	40.4262	2	1	2015	301	3	0.000
+Carnegie Library of Pittsburgh - Teen Services	-79.9488	40.4434	2	1	2015	158	0	0.000
+Square Cafe	-79.8935	40.4320	2	1	2014	276	5	0.000
+South Oakland	-79.9530	40.4289	2	2	2015	284	0	0.000
+Home (Pittsburgh	-79.9882	40.4106	2	1	2015	197	4	0.000
+Mary kay career conference	-79.9957	40.4453	2	1	2014	81	6	0.000
+Gallery Crawl-Pittsburgh Cultural Trust	-79.9988	40.4429	2	1	2015	269	6	0.355
+Katz Plaza	-80.0004	40.4432	2	1	2014	171	5	0.000
+Avenue B	-79.9365	40.4565	2	1	2014	44	4	0.000
+Hyde Park Steakhouse	-80.0085	40.4465	2	1	2014	120	3	0.000
+Allegheny Coffee & Tea Exchange	-79.9839	40.4512	2	1	2014	166	0	0.000
+Morningside, Pennsylvania	-79.9297	40.4825	2	1	2015	158	0	0.000
+Atlantis	-79.9380	40.4694	2	1	2014	343	2	0.000
+Highmark Stadium	-80.0099	40.4361	2	1	2015	142	5	0.000
+Greyhound Station Pittsburgh	-79.9938	40.4444	2	1	2014	279	1	0.000
+40th Street Bridge	-79.9692	40.4730	2	1	2014	173	0	0.000
+Crazy Mocha	-79.9354	40.4579	2	1	2014	106	3	-0.375
+Row House Cinema	-79.9612	40.4700	2	1	2015	7	3	0.000
+James Street Gastropub and Speakeasy	-80.0011	40.4545	2	2	2014	246	0	0.000
+North Shore Bike Trail	-80.0024	40.4474	2	1	2014	246	3	0.000
+Tiki Lounge	-79.9774	40.4286	2	1	2014	185	5	0.000
+Burgatory	-79.8929	40.4890	2	1	2014	28	2	0.000
+no make up	-79.8911	40.3767	2	1	2015	181	2	-0.306
+Piatt Place	-80.0000	40.4409	2	1	2014	93	4	0.000
+Mellon Garage	-79.9978	40.4409	2	1	2015	182	3	0.000
+Thai Cuisine	-79.9499	40.4622	2	1	2014	78	3	0.000
+Allegheny Cemetery	-79.9524	40.4718	2	1	2014	221	6	0.000
+The Mac & Gold Truck	-79.9443	40.4455	2	1	2014	278	0	0.000
+Blue Moon Bar on Butler Street in Lawrenceville (Pgh	-79.9557	40.4789	2	1	2015	277	0	0.000
+Smithfield Street Bridge	-80.0020	40.4350	2	2	2014	69	1	0.000
+Krista's Cantina	-80.0344	40.4669	2	1	2014	197	3	0.000
+East Street	-79.9996	40.4609	2	1	2014	54	0	0.000
+Taylor Swift Concert	-80.0157	40.4465	2	1	2015	158	0	0.265
+Three Rivers Chrysler Jeep Dodge	-80.0270	40.3980	2	1	2015	265	2	0.000
+The Flats on Carson	-79.9833	40.4287	2	1	2015	145	1	0.000
+Arts Festival	-80.0063	40.4422	2	1	2015	159	1	0.444
+Mizu Japanese Restaurant	-80.0653	40.3630	2	1	2014	120	3	0.000
+doubetree orlando seaworld	-79.9592	40.4394	2	1	2015	159	1	0.000
+Kappa Sigma at CMU	-79.9417	40.4456	2	1	2014	163	4	0.000
+Mon Wharf_1	-80.0043	40.4375	2	1	2015	196	3	0.000
+Shadyside Inn Suites	-79.9340	40.4487	2	1	2015	3	6	0.000
+Pittsburgh Highland Park Reservoir_2	-79.9151	40.4791	2	1	2015	116	0	0.000
+Bigelow Blvd	-79.9807	40.4503	2	1	2015	242	0	0.000
+Club Cafe	-79.9865	40.4289	2	1	2015	45	2	0.000
+Niagara Falls	-79.9218	40.4298	2	1	2015	146	2	0.000
+Bates Hill Apartments	-79.9527	40.4391	2	1	2015	115	6	0.000
+The Claddagh - Pittsburgh	-79.9647	40.4281	2	1	2015	157	6	0.000
+Shadyside	-79.9350	40.4500	2	2	2015	226	5	0.000
+AMC Waterfront 22	-79.9180	40.4068	2	1	2015	144	0	0.000
+Nikki's Thai Downtown	-79.9983	40.4438	2	1	2015	60	0	0.000
+Wilson Park	-80.0509	40.4180	2	1	2015	138	1	0.000
+Verde Mexican Kitchen & Cantina	-79.9327	40.4643	2	1	2014	124	0	0.000
+National Best Friend Day	-79.9626	40.4394	2	1	2015	159	1	0.597
+Jim Jenkins Lawn & Garden Center	-80.0844	40.3627	2	1	2015	267	4	0.000
+Thunderbird Cafe	-79.9617	40.4693	2	1	2015	73	6	0.000
+VILLAGE TAVERN & TRATTORIA	-80.0339	40.4414	2	1	2015	235	0	0.000
+North Park	-80.0071	40.4553	2	1	2014	241	5	0.000
+Hillman Library	-79.9540	40.4426	2	1	2015	265	2	0.000
+Heinz Field - Mexican Suite	-79.8925	40.3972	2	1	2014	307	1	0.000
+Just posted a photo_2	-80.0350	40.3788	2	1	2014	303	4	0.000
+Compact Cars of Pittsburgh	-80.0006	40.4009	2	1	2015	159	1	0.000
+GDI	-79.9948	40.4419	2	1	2015	73	6	0.000
+18th Street Steps	-79.9807	40.4249	2	1	2014	154	2	0.000
+20 Cedar Studios	-80.0339	40.3954	2	1	2014	40	0	0.000
+P Town	-79.9489	40.4544	2	1	2014	77	2	0.000
+Duquesne Incline_2	-80.0175	40.4399	2	1	2014	362	0	0.000
+Orangetheory Fitness Pittsburgh- East End	-79.9271	40.4624	2	1	2015	268	5	0.231
+Frick Art & Historical Center_1	-79.9018	40.4473	2	1	2015	84	3	0.000
+Rankin Bridge	-79.8809	40.4055	2	2	2014	25	5	0.000
+Century 3 Mall	-80.0156	40.4463	2	1	2014	180	0	0.000
+Hokkaido Seafood Buffet	-79.9244	40.4152	2	1	2015	269	6	0.000
+ShalerHeinz Field	-80.0169	40.4477	2	1	2014	298	6	0.000
+Eden	-79.9347	40.4511	2	1	2014	54	0	0.000
+Walt Disney World. Orlando, Florida	-80.0805	40.3686	2	1	2014	139	1	0.000
+Franktuary	-79.9641	40.4670	2	1	2014	113	3	0.000
+Duquesne Incline (Mt. Washington	-80.0043	40.4325	2	1	2015	194	1	0.000
+Wood Street	-79.9989	40.4429	2	1	2015	27	2	0.000
+Ohiopyle State Park	-79.9657	40.4280	2	1	2015	158	0	0.000
+Cafe at the Frick	-79.9016	40.4477	2	1	2015	134	4	0.000
+Northside_1	-80.0313	40.4746	2	2	2014	293	1	0.000
+The Dodson Homestead	-79.9785	40.3791	2	1	2014	64	3	0.000
+Jack Rabbit (Kennywood	-79.8628	40.3867	2	1	2014	187	0	0.000
+Wigle Whiskey Garden	-79.9934	40.4593	2	1	2015	25	0	0.000
+Pinstripe	-79.9613	40.4388	2	1	2014	122	5	0.000
+Casa Rasta - East Liberty	-79.9254	40.4602	2	1	2014	288	3	0.362
+Jozsa Corner Hungarian Restaurant	-79.9448	40.4114	2	1	2014	299	0	0.000
+Just posted a photo_1	-79.8995	40.4721	2	1	2014	163	4	0.000
+Wendy's	-79.9375	40.4569	2	1	2014	58	4	0.000
+61B Cafe	-79.8938	40.4325	2	1	2014	87	1	0.000
+Jimmy D's on Carson	-79.9816	40.4290	2	1	2015	269	6	0.000
+Just posted a photo_3	-79.9417	40.4408	2	2	2014	49	2	0.000
+That Bathroom Scene	-79.9551	40.4436	2	1	2015	183	4	0.000
+South Hills Country Club	-79.9856	40.3613	2	1	2014	109	6	0.000
+Starbucks_2	-80.0456	40.4187	2	1	2015	269	6	0.000
+AAA	-79.9274	40.4598	2	1	2014	93	4	0.000
+PNC Stadium	-79.9555	40.4423	2	1	2014	204	3	0.000
+Starbucks_1	-79.9949	40.4414	2	1	2015	265	2	0.000
+Banff National Park of Canada, AB	-80.0622	40.4049	2	1	2015	197	4	0.000
+Plum Pan-Asian Kitchen	-79.9251	40.4594	2	1	2014	55	1	0.000
+University of Pittsburgh_6	-79.9538	40.4457	2	1	2014	114	4	0.000
+Thunderbolt (Kennywood	-79.8650	40.3889	2	1	2014	204	3	0.000
+Bigelow Boulevard	-79.9537	40.4434	2	1	2014	98	2	0.000
+promise im not naked	-80.0134	40.4452	2	1	2015	157	6	0.277
+The Strip_2	-79.9832	40.4517	2	2	2015	246	4	0.000
+BestConcertEver	-80.0189	40.4477	2	1	2015	158	0	0.000
+Hobos of Forbes Ave	-79.9520	40.4388	2	1	2014	305	6	0.000
+31st Sr Bridge	-79.9782	40.4666	2	1	2015	225	4	0.000
+East Liberty Lutheran Church Flea Market	-79.9282	40.4631	2	1	2015	14	3	0.298
+THE SHOW SPACE	-80.0295	40.3914	2	1	2014	145	0	0.000
+The Union Grill	-79.9487	40.4447	2	1	2014	120	3	0.000
+Penn Station	-79.9922	40.4442	2	2	2014	43	3	0.000
+Mine Factory	-79.8952	40.4483	2	1	2014	58	4	0.000
+Blue Dust	-79.9115	40.4079	2	1	2015	296	5	0.000
+Sunnyside Elementary School	-79.9337	40.4810	2	1	2015	41	2	0.000
+InterPark	-80.0048	40.4432	2	1	2014	48	1	0.000
+Rowhouse Cinema	-79.9609	40.4700	2	1	2014	143	5	0.000
+Bloomfield's Italian Days	-79.9489	40.4616	2	2	2015	235	0	0.000
+North Shore Riverfront Trail	-79.9717	40.4724	2	1	2014	221	6	0.000
+Rachel Carson Bridge	-79.9998	40.4467	2	2	2014	81	6	0.000
+Golden Triangle	-80.0004	40.4416	2	1	2014	75	0	0.000
+Butcher and the Rye	-80.0020	40.4423	2	1	2014	98	2	0.000
+Altiuspgh	-80.0192	40.4385	2	2	2014	201	1	0.000
+Atria's Restaurant	-80.0040	40.4472	2	1	2014	126	2	0.000
+Stack'd	-79.9350	40.4512	2	1	2014	57	3	0.000
+Roundabout Brewery	-79.9569	40.4771	2	1	2014	214	6	0.000
+Hellena Moreno: Jamberry Nails Independent Consultant	-80.0513	40.5013	2	1	2015	191	5	0.000
+Steel Cactus Mexican Restaurante & Cantina	-79.9335	40.4513	2	1	2014	124	0	0.000
+Threads on Carson	-79.9839	40.4287	2	2	2015	35	3	0.000
+Three Rivers Art Festival Pittsburgh Pa	-80.0058	40.4424	2	1	2015	157	6	0.286
+Bloomfield, Pennsylvania	-79.9497	40.4621	2	1	2014	351	3	0.000
+Potomac Ave. T Station	-80.0363	40.3973	2	1	2015	240	5	0.000
+Suzie's Keystone Fireworks Tent	-80.0962	40.4687	2	1	2015	183	4	0.000
+ODAR	-79.9934	40.4460	2	1	2015	9	5	0.000
+William Penn Tavern	-79.9338	40.4514	2	1	2015	138	1	0.000
+Mullen's Bar & Grill - Pittsburgh	-80.0040	40.4484	2	1	2015	241	6	0.000
+Top of the Mountain	-79.9415	40.4170	2	1	2015	116	0	0.231
+Swisshelm Park	-79.8998	40.4207	2	1	2015	70	3	0.000
+Kennywood Park_4	-79.8650	40.3885	2	1	2014	161	2	0.000
+31st Street Studios	-79.9732	40.4616	2	1	2015	242	0	0.000
+University of Pittsburgh_5	-79.9566	40.4419	2	2	2014	181	1	0.000
+Branding Brand	-79.9724	40.4284	2	1	2015	240	5	0.000
+Mon Wharf_2	-80.0051	40.4381	2	1	2014	277	6	0.000
+Smithfield United Church Of Christ_1	-79.9972	40.4418	2	1	2014	30	4	0.286
+Concord Elementary School	-79.9846	40.3874	2	1	2015	246	4	0.000
+Millvale, Pennsylvania	-79.9786	40.4800	2	1	2014	131	0	0.000
+Somewhere in Southside	-79.9720	40.4263	2	1	2015	10	6	0.000
+idk i love this picture	-79.9633	40.3663	2	1	2015	4	0	0.264
+Soho	-80.0045	40.4483	2	2	2014	94	5	0.000
+Polar Bear Tunnel	-79.9182	40.4834	2	1	2014	226	4	0.000
+Troy Hill Spray Park	-79.9883	40.4587	2	1	2015	181	2	0.000
+Allegheny Cemetary_1	-79.9562	40.4757	2	1	2014	193	6	0.000
+on a roof somewhere	-80.0013	40.4434	2	1	2015	183	4	0.000
+Mellon Institute Carnegie Mellon University	-79.9515	40.4467	2	1	2014	182	2	0.000
+Papa J's Ristorante	-80.0850	40.4080	2	1	2014	67	6	0.000
+East Liberty, Pennsylvania	-79.9237	40.4638	2	2	2014	136	4	0.405
+Starbucks_3	-79.9171	40.4077	2	1	2014	192	3	0.000
+Coca Cafe	-79.9641	40.4673	2	2	2014	137	0	0.000
+evil friends	-80.0766	40.3648	2	1	2015	13	2	-0.124
+Bedford Dwellings, Pittsburgh, Pennsylvania	-79.9745	40.4507	2	1	2015	239	4	0.000
+Rita's Italian Ice Southside	-79.9698	40.4279	2	1	2014	79	4	0.000
+ID. Labs	-79.9525	40.4820	2	1	2014	94	5	0.000
+Allegheny Center	-80.0050	40.4530	2	1	2015	159	1	0.000
+The Cigar Den	-79.9526	40.4819	2	1	2014	317	4	0.000
+showing	-80.0079	40.4559	2	1	2014	347	6	0.000
+Stout Training Pittsburgh	-79.9837	40.4520	2	1	2014	73	5	0.254
+Le Mardi Gras	-79.9347	40.4513	2	1	2015	284	0	0.000
+NU	-79.9228	40.4376	2	1	2015	143	6	0.000
+Aspinwall Field	-79.9080	40.4942	2	1	2014	143	5	0.000
+Pittsburgh --&gt; Charlotte	-79.9636	40.4539	2	1	2014	167	1	0.000
+Petersen Events Center	-79.9621	40.4442	2	1	2014	365	3	0.000
+Hermanowski Wholesale	-79.9836	40.4505	2	1	2014	332	5	0.000
+Theater Square Parking Garage in Downtown Pittsburgh	-80.0009	40.4432	2	1	2015	239	4	0.000
+Salem's Market and Grill	-79.9738	40.4584	2	1	2015	269	6	0.000
+T Station	-80.0000	40.4423	2	1	2014	188	1	0.000
+Pittsburgh, Pennsylvania_2	-79.9961	40.4406	2	1	2014	362	0	0.000
+Some Place Far Away	-79.9477	40.4489	2	1	2014	119	2	0.000
+Federal Street_2	-80.0042	40.4478	2	1	2015	180	1	0.000
+Millvale Library	-79.9718	40.4781	2	1	2014	67	6	0.000
+Penn Commons	-80.0028	40.4426	2	1	2015	73	6	0.000
+Children's Hospital of Pittsburgh of UPMC	-79.9530	40.4665	2	1	2014	111	1	0.000
+Lawrenceville, PA	-79.9514	40.4809	2	1	2014	320	0	0.000
+Friendship, PGH	-79.9372	40.4587	2	1	2014	143	5	0.420
+Sandcastle Waterpark	-79.9280	40.3980	2	1	2014	242	6	0.000
+Tazza D'Oro	-79.9188	40.4747	2	1	2014	303	4	0.000
+P.F. Chang's	-79.9161	40.4071	2	2	2014	69	0	0.000
+Downtown/ Northshore	-80.0131	40.4450	2	1	2015	182	3	0.000
+US Steel Tower	-79.9949	40.4407	2	1	2014	121	4	0.000
+Caffe Mona la bistro	-79.9543	40.4658	2	1	2014	329	2	0.000
+Beehive Coffeehouse	-79.9841	40.4289	2	1	2014	162	3	0.000
+Club Zoo	-79.9875	40.4499	2	2	2014	82	0	0.000
+The Livermore	-79.9250	40.4604	2	1	2014	96	0	0.000
+Eleven	-79.9935	40.4459	2	1	2014	348	0	0.000
+Lawrenceville_1	-79.9617	40.4707	2	1	2014	320	0	0.000
+Steelers Heinz Stadium	-80.0128	40.4455	2	2	2015	235	0	0.000
+Thin Man Sandwich Shop	-79.9839	40.4521	2	1	2014	196	2	0.000
+Pittsburgh Winery	-79.9755	40.4573	2	1	2015	25	0	0.000
+La Prima Espresso Co	-79.9830	40.4516	2	1	2014	123	6	0.000
+three rivers arts festival	-80.0042	40.4462	2	1	2015	157	6	0.348
+burgatory	-79.9177	40.4072	2	1	2014	114	4	0.000
+Dawntawn Pixburgh	-80.0016	40.4392	1	1	2015	205	5	0.000
+bd's Mongolian Grill - Pittsburgh	-79.9659	40.4282	1	1	2014	108	5	0.000
+Cornerstone Restaurant and Bar	-79.9034	40.4897	1	1	2014	82	0	0.000
+Sunoco A Plus	-80.0008	40.4511	1	1	2014	188	1	0.000
+Elks Lodge	-80.0008	40.4517	1	1	2014	34	1	0.000
+Joe's Basement Sweatshop	-80.0517	40.4987	1	1	2014	51	4	0.000
+21st Street Coffee and Tea	-80.0008	40.4411	1	1	2014	44	4	0.000
+Meat & Potatoes	-80.0006	40.4433	1	1	2015	52	6	0.000
+Toronto, Canada	-79.9337	40.4578	1	1	2014	319	6	0.000
+City of Pittsburgh_1	-80.0199	40.4156	1	1	2015	39	0	0.000
+Parking	-79.9023	40.4490	1	1	2014	101	5	0.000
+stop drop and roll	-79.9880	40.4353	1	1	2014	304	5	-0.462
+home_2	-79.8903	40.4387	1	1	2015	26	1	0.000
+All Over Pittsburgh	-79.9828	40.4542	1	1	2014	116	6	0.000
+Three Rivers CHRYSLER	-80.0273	40.3977	1	1	2015	187	1	0.000
+Caliban Book Shop	-79.9491	40.4449	1	1	2015	80	6	0.000
+Decade Pittsburgh	-79.9943	40.4286	1	1	2014	81	6	0.000
+Kinky Friedman	-79.9866	40.4290	1	1	2015	285	1	0.000
+Shadyside Bridge	-79.9377	40.4546	1	1	2014	354	6	0.000
+Speakeasy At the Omni William Penn	-79.9973	40.4410	1	1	2014	283	5	0.000
+US Post Office	-80.0052	40.4500	1	1	2014	80	5	0.000
+DoubleTree Pittsburgh Green Tree	-80.0589	40.4186	1	1	2015	200	0	0.000
+Kennedy Park	-79.9028	40.4078	1	1	2015	201	1	0.000
+Western PA Humane Society	-80.0198	40.4513	1	1	2014	103	0	0.000
+Mt. Washington Vista Point	-80.0065	40.4317	1	1	2014	248	5	0.000
+home_1	-80.0160	40.4566	1	1	2014	76	1	0.000
+Antiques On Ohio River	-80.0576	40.4884	1	1	2015	285	1	0.000
+Fallingwater Private Tours	-79.9773	40.4414	1	1	2014	159	0	0.000
+Caliente Pizza & Draft House	-79.9501	40.4622	1	1	2014	48	1	0.000
+Excuses Bar & Grill	-79.9687	40.4274	1	1	2015	100	5	0.000
+Holy Trinity Lutheran Church	-80.0082	40.4489	1	1	2014	181	1	0.000
+Macy's	-79.9984	40.4395	1	1	2015	245	3	0.000
+Walnut Grill	-80.0446	40.3809	1	1	2014	69	1	0.000
+Roofless	-79.9036	40.4582	1	1	2015	137	0	0.000
+pixburg	-79.9948	40.4416	1	1	2014	90	1	0.000
+Google	-79.9166	40.4573	1	1	2015	143	6	0.000
+Sherwood Towers Apts	-79.9511	40.4510	1	1	2015	166	1	0.000
+Colfax Elementary School	-79.9156	40.4328	1	1	2014	174	1	0.000
+7720 Waverly St Apt 4	-79.8937	40.4436	1	1	2014	141	3	0.000
+The Modern Cafe	-80.0165	40.4521	1	1	2014	82	0	0.000
+Frick Building	-79.9975	40.4391	1	1	2014	87	5	0.000
+Jewish Community Center	-79.9238	40.4376	1	1	2014	82	0	0.000
+SIX16 Body Piercing & Fine Jewelry	-79.9596	40.4721	1	1	2015	199	6	0.184
+Allentown	-79.9950	40.4220	1	1	2014	40	0	0.000
+Eddie Merlots	-80.0036	40.4412	1	1	2014	176	3	0.000
+Hampton Inn & Suites Pittsburgh Downtown	-79.9924	40.4470	1	1	2014	133	2	0.000
+Heinz Field Pittsburgh Steelers	-80.0160	40.4475	1	1	2015	284	0	0.000
+Carnegie Museum of Art and Natural History	-79.9498	40.4431	1	1	2014	136	5	0.217
+Heniz Feild	-80.0166	40.4470	1	1	2015	263	0	0.000
+Nakama	-79.9820	40.4289	1	1	2014	165	6	0.000
+The Yard Market Square	-80.0027	40.4413	1	1	2015	284	0	0.000
+Homewood u Smucc	-79.8932	40.4548	1	1	2015	246	4	0.000
+Green Tree, Pennsylvania	-80.0458	40.4117	1	1	2014	224	2	0.000
+Chatham University	-79.9235	40.4478	1	1	2015	306	1	0.000
+Arsenal Bowl	-79.9596	40.4711	1	1	2015	201	1	0.000
+Mount Washington Lookout	-80.0080	40.4324	1	1	2014	284	6	0.000
+E Liberty Blvd and N Highland Ave	-79.9228	40.4659	1	1	2014	113	3	0.327
+16 Th Street Bridge	-79.9887	40.4498	1	1	2014	93	4	0.000
+Shenango Coke Works	-80.0801	40.4922	1	1	2015	303	5	0.000
+Ink Division	-79.8729	40.4055	1	1	2014	203	2	0.000
+PREGAME	-79.9834	40.4277	1	1	2014	278	0	0.000
+Wilson's Bar-B-Q	-80.0144	40.4562	1	1	2014	191	4	0.000
+Rowdy BBQ	-79.9826	40.3703	1	1	2015	264	1	0.000
+Schenley Oval	-79.9435	40.4318	1	1	2015	305	0	0.000
+Emerald View Park on Grandview	-80.0235	40.4387	1	1	2014	153	1	0.000
+Art of Steel	-79.9826	40.4522	1	1	2014	103	0	0.000
+Hill District	-79.9860	40.4418	1	1	2015	25	0	0.000
+Mr.Smalls Theater	-79.9722	40.4810	1	1	2015	65	5	0.000
+York Way	-79.9546	40.4381	1	1	2015	27	2	0.000
+Pusadee Garden Inc	-79.9520	40.4826	1	1	2014	151	6	0.000
+Koppers Tower	-79.9953	40.4421	1	1	2014	45	5	0.000
+Radiant Hall Studios	-79.9603	40.4735	1	1	2014	71	3	0.383
+Gran Prix	-79.8652	40.3867	1	1	2014	187	0	0.000
+Carnegie Museum Of Art	-79.9494	40.4435	1	1	2014	72	4	0.000
+Einstein Bros Bagels - Greentree	-80.0454	40.4185	1	1	2015	247	5	0.000
+Le Mont - Pittsburgh	-80.0178	40.4378	1	1	2015	300	2	0.000
+Birmingham Bridge	-79.9735	40.4361	1	1	2014	77	2	0.000
+tk	-80.0022	40.4424	1	1	2015	304	6	0.000
+smile	-79.9372	40.4832	1	1	2015	206	6	0.455
+Chicago Illinois	-79.9815	40.4298	1	1	2014	218	3	0.000
+Waterworks Mall	-79.8892	40.4878	1	1	2014	28	2	0.000
+Hard Rock Cafe Pittsburgh	-80.0049	40.4340	1	1	2015	143	6	-0.189
+North Baldwin	-79.9653	40.3964	1	1	2015	256	0	0.000
+Kbox	-79.9490	40.4459	1	1	2015	184	5	0.000
+High on Mt Washington	-80.0129	40.4283	1	1	2014	223	1	0.000
+Three Rivers art Festival	-80.0034	40.4416	1	1	2015	161	3	0.348
+Mexican War Sweets	-80.0130	40.4579	1	1	2015	302	4	-0.063
+Byham Theater	-80.0025	40.4439	1	1	2014	356	1	0.000
+Pizza Sola_2	-79.9834	40.4289	1	1	2014	42	2	0.000
+Spencer United Methodist Church	-79.9775	40.3859	1	1	2014	31	5	0.318
+The Westin Hotel	-79.9953	40.4440	1	1	2014	184	4	0.000
+North Side, Pittsburgh, Pennsylvania_1	-80.0184	40.4689	1	1	2014	184	4	0.000
+Pizza Milano	-79.9880	40.4386	1	1	2014	247	4	0.000
+The Pub Chip Shop	-79.9794	40.4288	1	1	2014	81	6	0.000
+Hartwood Acres Trails	-79.9762	40.5082	1	1	2015	32	0	0.000
+Pizza Parma	-79.9983	40.4437	1	1	2014	33	0	0.000
+Legion Park	-80.0350	40.4820	1	1	2015	305	0	0.000
+Century III Mall	-79.9935	40.3792	1	1	2014	242	6	0.000
+American Eagle Outfitters 77 Hot Metal	-79.9593	40.4210	1	1	2014	125	1	0.000
+The Manor Theatre	-79.9226	40.4370	1	1	2014	299	0	0.000
+Seton Lasalle High School	-80.0251	40.3870	1	1	2014	125	1	0.000
+Bates Motel	-79.9522	40.4389	1	1	2015	25	0	0.000
+West Park - North Side	-80.0127	40.4534	1	1	2015	309	4	0.000
+The Priory	-79.9982	40.4523	1	1	2014	26	0	0.000
+Max's Allegheny Tavern	-79.9998	40.4552	1	1	2015	264	1	0.000
+Old Party Guys	-79.9292	40.4514	1	1	2014	242	6	0.351
+Strip District In The Burgh	-79.9846	40.4506	1	1	2014	182	2	0.000
+Pittsburgh Children's Festival	-79.9527	40.4428	1	1	2014	138	0	0.390
+Bobby Hendrix	-79.9768	40.4286	1	1	2014	306	0	0.000
+CrossFit Athletics	-79.9670	40.4261	1	1	2014	97	1	0.000
+Hofbruhaus Pittsburgh	-79.9646	40.4286	1	1	2014	111	1	0.000
+Mint Fine Indian Cuisine	-80.0429	40.4011	1	1	2014	246	3	0.231
+Northside_2	-80.0226	40.4598	1	1	2014	174	1	0.000
+Gus And Yaya's	-80.0121	40.4519	1	1	2014	103	0	0.000
+Charles L. Cost Field at Pitt University	-79.9663	40.4446	1	1	2014	107	4	0.000
+Static Nightclub	-79.9870	40.4501	1	1	2015	1	4	0.000
+Birdland	-80.0731	40.3803	1	1	2014	120	3	0.000
+Click The Link In My Bio	-79.9915	40.3794	1	1	2014	160	1	0.000
+Ibiza Wine and Tapas Restaurant	-79.9735	40.4281	1	1	2015	25	0	0.000
+Steeler Country	-80.0186	40.3985	1	1	2014	48	1	0.000
+11 Stanwix Street	-80.0064	40.4392	1	1	2015	247	5	0.000
+Madonna's Restaurant	-79.9993	40.4390	1	1	2015	43	4	0.000
+Wave Swinger	-79.8667	40.3881	1	1	2014	146	1	0.000
+Top Gear Bicycle Shop	-79.9268	40.4593	1	1	2014	108	5	0.231
+The North Side	-80.0078	40.4560	1	1	2014	54	0	0.000
+Mount Washington	-80.0139	40.4316	1	1	2014	53	6	0.000
+Pittsburgh Grand Prix	-79.9483	40.4481	1	1	2015	199	6	0.375
+Carnegie Mellon School of Computer Science - SCS	-79.9444	40.4437	1	1	2015	26	1	0.000
+Taco Gurilla Central 8500 Frankstown rd	-79.8936	40.4321	1	1	2015	42	3	0.000
+GetGo	-79.9600	40.4232	1	1	2015	239	4	0.000
+O'Reilly Theater	-80.0016	40.4432	1	1	2014	181	1	0.000
+Skybar Pittsburgh	-79.9826	40.4290	1	1	2014	234	5	0.000
+Mt washington	-80.0057	40.4271	1	1	2015	241	6	0.000
+Wilkinburgh Pa	-79.8778	40.4407	1	1	2014	108	5	0.000
+PITTSBURGH	-80.0062	40.4355	1	1	2014	41	1	0.000
+Meyran Ave	-79.9548	40.4375	1	1	2015	26	1	0.000
+Allegheny County Courthouse	-79.9962	40.4385	1	1	2014	113	3	0.000
+The Summit Pittsburgh	-80.0076	40.4307	1	1	2015	178	6	0.000
+Bri Mard Apartments	-79.8736	40.4588	1	1	2015	307	2	0.000
+10th Street Bridge	-79.9892	40.4326	1	1	2014	244	1	0.000
+Monogahela Incline	-80.0048	40.4343	1	1	2014	298	6	0.000
+Buckhead Saloon	-80.0061	40.4343	1	1	2014	89	0	0.000
+Castle Shannon VFD	-80.0166	40.3658	1	1	2015	49	3	0.000
+Bar Louie Station Square	-80.0049	40.4346	1	1	2014	145	0	0.000
+S Q U A D	-80.0032	40.4442	1	1	2015	143	6	0.000
+Burgatory Homestead	-79.9177	40.4073	1	1	2014	152	0	0.000
+Greater Pittsburgh Coliseum	-79.8937	40.4563	1	1	2014	216	1	0.333
+Perrysville Ave	-80.0193	40.4916	1	1	2014	332	5	0.000
+Grand View Buffet at Rivers Casino	-80.0219	40.4466	1	1	2014	299	0	0.273
+Frick Park Market	-79.9051	40.4472	1	1	2015	206	6	0.000
+selfie sunday	-79.9494	40.3849	1	1	2015	200	0	0.000
+Federal Street_1	-80.0065	40.4546	1	1	2014	90	1	0.000
+Weatherby walks	-79.9564	40.4666	1	1	2014	295	3	0.000
+Hookah Bookah	-79.9694	40.4277	1	1	2014	208	0	0.000
+212 Peebles St. Unit B	-79.8934	40.4451	1	1	2014	297	5	0.000
+Ballroom Central Pittsburgh	-80.0346	40.3687	1	1	2015	233	5	0.000
+Subway_2	-79.8684	40.3835	1	1	2014	275	4	0.000
+Carnegie Library-Downtown	-79.9974	40.4417	1	1	2015	306	1	0.000
+Artisan Market In The Strip	-79.9842	40.4512	1	1	2014	158	6	0.000
+Wexford General Store Antiques	-79.9881	40.5058	1	1	2014	194	0	0.000
+Sonny's Tavern	-79.9476	40.4579	1	1	2015	25	0	0.000
+Peppi's	-80.0006	40.4371	1	1	2014	241	5	0.000
+Lounge 7101	-79.8985	40.4579	1	1	2014	102	6	0.000
+Zippy's Saloon	-80.0227	40.3953	1	1	2015	200	0	0.000
+Cathedral of Hope	-79.9256	40.4610	1	1	2015	110	1	0.367
+16th Street Bridge Traffic	-79.9914	40.4521	1	1	2014	196	2	0.000
+General Robinson & Federal	-80.0044	40.4482	1	1	2014	176	3	0.000
+Seiphaus	-79.8983	40.4185	1	1	2014	95	6	0.000
+Margaret Morrison Carnegie Hall	-79.9412	40.4421	1	1	2014	35	2	0.000
+Cultural District, Pittsburgh	-79.9999	40.4432	1	1	2014	162	3	0.000
+Earth	-79.9511	40.4526	1	1	2015	225	4	0.000
+Pittsburgh City-County Building	-79.9969	40.4381	1	1	2014	113	3	0.000
+Milkshake Factory, Pittsburgh, PA	-80.0206	40.4328	1	1	2014	151	6	0.000
+UPMC Shadyside_2	-79.9392	40.4555	1	1	2014	175	2	0.000
+Little Bangkok in the strip	-79.9843	40.4509	1	1	2014	308	2	0.000
+The Strip_1	-79.9782	40.4287	1	1	2014	284	6	0.000
+Three River's Arts Festival	-80.0055	40.4416	1	1	2014	161	2	0.348
+The Pointe	-80.0104	40.4415	1	1	2015	268	5	0.000
+Graham's Barber Shop	-79.9638	40.4672	1	1	2015	255	6	0.000
+Mount Lebanon Ice Center	-80.0549	40.3742	1	1	2014	215	0	0.000
+Aerie	-79.9666	40.4274	1	1	2015	44	5	0.000
+Primanti Brothers_2	-79.9889	40.4300	1	1	2015	202	2	0.000
+Zeke's Coffee Pittsburgh	-79.9246	40.4612	1	1	2014	246	3	0.000
+Wings Over Pittsburgh	-79.9686	40.4277	1	1	2014	221	6	0.000
+Treasure Island	-80.0518	40.3757	1	1	2014	23	4	0.355
+The Space Upstairs	-79.8988	40.4497	1	1	2014	157	5	0.000
+Two PNC Plaza	-80.0008	40.4417	1	1	2015	310	5	0.000
+61c Cafe	-79.9228	40.4361	1	1	2015	62	2	0.000
+Duquesne Student Union	-79.9909	40.4368	1	1	2014	23	4	0.000
+Nicky's Thai Kitchen	-80.0163	40.4521	1	1	2014	116	6	0.000
+Voelkel	-80.0368	40.3971	1	1	2014	320	0	0.000
+The Crack'd Egg	-79.9818	40.3657	1	1	2015	272	2	0.000
+East End, Pittsburgh, Pennsylvania	-79.9349	40.4426	1	1	2015	208	1	0.000
+Comcast	-80.0453	40.4512	1	1	2015	201	1	0.000
+Holland Hall at Pitt	-79.9560	40.4431	1	1	2015	237	2	0.000
+Crafton, Pittsburgh, Pennsylvania	-80.0722	40.4392	1	1	2015	245	3	0.000
+Point Brugge Cafe	-79.9140	40.4502	1	1	2014	130	6	0.000
+Roberto Clemente Statue	-80.0041	40.4470	1	1	2015	307	2	0.000
+Mt Washington Overlook_2	-80.0068	40.4314	1	1	2015	248	6	0.000
+Murray Avenue Grill	-79.9231	40.4373	1	1	2015	242	0	0.000
+Jenesis HQ	-79.9413	40.4647	1	1	2014	80	5	0.000
+Body By Robyn	-79.9999	40.4537	1	1	2014	215	0	0.000
+Willow (PAT station	-80.0264	40.3654	1	1	2014	218	3	0.000
+River Walk	-80.0083	40.4455	1	1	2014	106	3	0.000
+Squirrel Hill	-79.9244	40.4350	1	1	2014	189	2	0.000
+Mr. Smalls Recording and Mastering	-80.0181	40.4536	1	1	2015	308	3	0.000
+Pittsburgh International Children's Festival	-79.9519	40.4426	1	1	2014	136	5	0.348
+Rex Theater	-79.9107	40.4960	1	1	2015	100	5	0.000
+Lst 325	-80.0146	40.4447	1	1	2015	249	0	0.000
+Panera Bread	-79.9374	40.4561	1	1	2014	216	1	0.000
+10th St. Bridge	-79.9885	40.4297	1	1	2015	179	0	0.000
+Lulu's Noodles	-79.9488	40.4453	1	1	2014	285	0	0.000
+PTown Bar	-79.9488	40.4538	1	1	2015	162	4	0.000
+Fuhrer Frank B Wholesale	-79.9623	40.4228	1	1	2015	47	1	0.000
+Frick Art & Historical Center_2	-79.9010	40.4480	1	1	2015	172	0	0.000
+The Porn Palace	-80.0186	40.4357	1	1	2014	69	1	0.000
+Homewood Cemetery_1	-79.9131	40.4379	1	1	2015	59	6	0.000
+Homewood Cemetery_2	-79.9044	40.4408	1	1	2015	120	4	0.000
+Three Rivers Water Steps	-80.0085	40.4456	1	1	2015	250	1	0.000
+The Cuckoo's Nest Magic Shop	-79.9729	40.4281	1	1	2015	239	4	0.000
+Jam on Walnut	-79.9337	40.4517	1	1	2015	235	0	0.000
+University of Pittsburgh_3	-79.9603	40.4309	1	1	2015	306	1	0.000
+Caption this	-80.0383	40.3644	1	1	2015	244	2	0.000
+Dequesne Club, Pittsburgh	-79.9989	40.4426	1	1	2014	123	6	0.000
+Eat'n Park - Avalon	-80.0644	40.4940	1	1	2014	98	2	0.000
+Primanti Brothers South Side	-79.9792	40.4284	1	1	2014	306	0	0.000
+Surf Pittsburgh	-79.9838	40.4290	1	1	2014	148	3	0.000
+Point State Park, Pgh	-80.0121	40.4421	1	1	2015	284	0	0.000
+studio	-80.0160	40.4521	1	1	2014	310	4	0.000
+Creepy Place In The Woods By My House	-79.9192	40.3893	1	1	2015	257	1	0.000
+Manzana	-79.9023	40.4490	1	1	2014	120	3	0.000
+Jimmy John's	-80.0033	40.4415	1	1	2015	206	6	0.000
+KAPPA KAPPA COPA	-79.9617	40.4353	1	1	2015	81	0	0.000
+DoubleTree By Hilton Pittsburgh Downtown	-79.9940	40.4405	1	1	2015	226	5	0.000
+Belvedere's	-79.9618	40.4691	1	1	2014	26	0	0.000
+Subway_1	-80.0442	40.3998	1	1	2014	195	1	0.000
+Living the suite life	-80.0130	40.4482	1	1	2014	363	1	0.000
+Grandview Overlook	-80.0092	40.4330	1	1	2014	77	2	0.000
+Cambria Suites Pittsburgh	-79.9880	40.4403	1	1	2014	326	6	0.000
+basic	-80.0761	40.3650	1	1	2015	48	2	0.000
+The Verve 360	-80.0024	40.4431	1	1	2015	115	6	0.000
+Acacia	-79.9759	40.4286	1	1	2014	68	0	0.000
+Las Palmas Carniceria y Supermercados - Beechview	-80.0250	40.4099	1	1	2014	94	5	0.000
+Lost Kennywood	-79.8673	40.3888	1	1	2015	236	1	-0.365
+Camelot Apartments	-79.9526	40.4509	1	1	2015	307	2	0.000
+The Steel City	-79.9932	40.4471	1	1	2014	165	6	0.000
+my squirrel sistas	-79.9928	40.4369	1	1	2015	111	2	0.000
+Vance Joy -Riptide	-80.0244	40.4557	1	1	2014	304	5	0.432
+Braddock Avenue Express	-79.8937	40.4328	1	1	2014	206	5	0.000
+West End, Pittsburgh, Pennsylvania	-80.0650	40.4518	1	1	2015	207	0	0.000
+Lin's Asian Fusion	-79.9768	40.4286	1	1	2014	290	5	0.000
+Munhall, Pennsylvania	-79.9012	40.3912	1	1	2015	244	2	0.000
+Swissvale, Pittsburgh, Pennsylvania	-79.8883	40.4171	1	1	2015	236	1	0.000
+James Street GastroPub & Speakeasy	-80.0010	40.4544	1	1	2014	32	6	0.000
+space	-79.9322	40.4531	1	1	2014	133	2	0.000
+Strip District, Pittsburgh_2	-79.9838	40.4527	1	1	2014	361	6	0.000
+Carnegie Mellon School of Art	-79.9428	40.4419	1	1	2014	116	6	0.000
+West Park on the Northside	-80.0119	40.4533	1	1	2014	300	1	0.000
+Our Home	-79.9842	40.4213	1	1	2015	24	6	0.000
+Hilton Garden Inn Pittsburgh University Place	-79.9594	40.4394	1	1	2015	263	0	0.000
+Craig Distributing	-79.9524	40.4521	1	1	2014	177	4	0.000
+Thunder Dome	-79.9715	40.4280	1	1	2014	114	4	0.000
+HAYDEN WILLIAMS	-79.8967	40.4475	1	1	2014	315	2	0.000
+selfie	-80.0045	40.4529	1	1	2014	172	6	0.000
+Latin Quarters, New York	-80.0465	40.4410	1	1	2014	134	3	0.000
+1 PPG Place Downtown Pittsburgh	-80.0029	40.4408	1	1	2014	197	3	0.000
+West Penn Allegheny Health System	-80.0036	40.4572	1	1	2015	17	6	0.000
+Arnold's Tea	-80.0005	40.4537	1	1	2015	199	6	0.000
+Whim Pgh	-80.0034	40.4323	1	1	2014	115	5	0.000
+PA Wine & Spirits	-79.9266	40.4590	1	1	2014	111	1	0.000
+Hays Manor	-80.0565	40.4666	1	1	2015	2	5	0.000
+Cwenar Photography	-79.9839	40.4258	1	1	2014	322	2	0.000
+Lazy Town	-80.0396	40.3886	1	1	2015	250	1	-0.385
+Seviche	-79.9969	40.4439	1	1	2015	264	1	0.000
+Grist House Brewing	-79.9720	40.4789	1	1	2015	80	6	0.000
+Brenckles Farms and Greenhouses	-79.9942	40.4926	1	1	2014	125	1	0.000
+In my dreams	-79.9782	40.4286	1	1	2014	226	4	0.000
+Allegheny Landing	-80.0037	40.4471	1	1	2014	152	0	0.000
+Penzeys Spices	-79.9853	40.4503	1	1	2014	215	0	0.000
+Mount Washington, Pittsburgh, Pennsylvania	-80.0211	40.4391	1	1	2014	145	0	0.000
+Burgatory Waterfront	-79.9178	40.4072	1	1	2015	227	6	0.000
+The Brew Gentlemen	-79.8704	40.4046	1	1	2014	143	5	0.000
+Goodnight	-80.0383	40.3644	1	1	2015	237	2	0.000
+REMEDY Restaurant and Lounge	-79.9554	40.4789	1	1	2015	66	6	0.000
+The Melting Pot - Pittsburgh	-80.0041	40.4330	1	1	2015	205	5	0.000
+Monongahela Incline. Pittsburgh, PA	-80.0059	40.4313	1	1	2014	55	1	0.000
+West Park	-80.0116	40.4525	1	1	2014	46	6	0.000
+Marty's Market, LLC	-79.9822	40.4537	1	1	2014	109	6	0.000
+61B	-79.9507	40.4404	1	1	2014	25	6	0.000
+Carnegie Music Hall	-79.9513	40.4432	1	1	2015	178	6	0.000
+Home_1	-79.8978	40.4530	1	1	2014	215	0	0.000
+Just posted a photo_4	-79.9702	40.4284	1	1	2014	49	2	0.000
+Phillips Elementary School	-79.9785	40.4278	1	1	2014	131	0	0.000
+Brentwood VFW	-79.9821	40.3705	1	1	2015	115	6	0.000
+Patrick T. Fagan Overlook	-80.0065	40.4317	1	1	2014	243	0	0.000
+The Pete	-79.9620	40.4440	1	1	2015	120	4	0.000
+Point Breeze, Pennsylvania	-79.9219	40.4544	1	1	2014	286	1	0.000
+near Pittsburgh PA	-79.8627	40.4516	1	1	2015	55	2	0.000
+Hey Soul Sisters	-79.9493	40.4275	1	1	2015	247	5	0.000
+North Shore (Pittsburgh	-80.0090	40.4470	1	1	2015	250	1	0.000
+P.F. Chang Chain Chains, Changs Of Food	-79.9128	40.4103	1	1	2015	81	0	0.000
+Wholey's Fish Market	-79.9859	40.4501	1	1	2014	65	4	0.000
+Santa is coming to town	-79.9782	40.4286	1	1	2014	278	0	0.000
+Elite Bartending School	-80.0352	40.3939	1	1	2014	78	3	0.000
+Primanti Bros. - South Side	-79.9792	40.4286	1	1	2014	153	1	0.000
+On the T	-80.0062	40.4342	1	1	2015	247	5	0.000
+Greentree Parkway Center	-80.0387	40.4248	1	1	2015	66	6	0.000
+Cure	-79.9512	40.4828	1	1	2014	74	6	0.000
+TGI Friday's - Consol Energy	-79.9901	40.4389	1	1	2015	110	1	0.259
+Extended Stay America Hotel	-80.0886	40.4174	1	1	2015	98	3	0.000
+Points Of View	-80.0213	40.4392	1	1	2014	60	6	0.000
+New Amsterdam	-79.9595	40.4721	1	1	2015	311	6	0.000
+Art Rooney Ave	-80.0139	40.4458	1	1	2014	311	5	0.000
+Adult Mart	-80.0078	40.5061	1	1	2014	341	0	0.000
+Rumerz Sportz Bar & Grill	-80.0307	40.4766	1	1	2015	200	0	0.000
+Dubby's Diner	-79.8889	40.4539	1	1	2015	233	5	0.000
+UPMC Presbyterian Hospital	-79.9602	40.4427	1	1	2014	126	2	0.000
+Riverfront Trail_2	-79.9873	40.4562	1	1	2014	146	1	0.000
+Arcade Comedy Theater	-79.9985	40.4428	1	1	2014	193	6	0.333
+hub	-79.9851	40.4372	1	1	2015	78	4	0.000
+wcw	-79.8909	40.3767	1	1	2015	50	4	0.000
+Liberty Ave	-79.9967	40.4431	1	1	2015	308	3	0.459
+DrauckMont Outdoors	-80.0466	40.3815	1	1	2015	10	6	0.000
+6th Street Bridge	-80.0030	40.4446	1	1	2015	177	5	0.000
+Veterans Bridge	-79.9934	40.4499	1	1	2015	66	6	0.000
+Pizza Sola_1	-79.9579	40.4413	1	1	2014	146	1	0.000
+Flag Pole Overlook, Grandview Avenue, Pittsburgh,PA USA	-80.0086	40.4325	1	1	2014	96	0	0.000
+Spaghetti Warehouse	-79.9793	40.4559	1	1	2015	301	3	0.000
+lets take a trip	-80.0721	40.3907	1	1	2015	44	5	0.000
+HBD to myself	-80.0700	40.4414	1	1	2015	97	2	0.000
+reunited	-79.9556	40.4362	1	1	2015	25	0	0.000
+The Boiler Room	-80.0306	40.4196	1	1	2015	299	1	0.000
+Washington Plaza	-79.9867	40.4406	1	1	2015	178	6	0.000
+Atlantic City New Jersey	-80.0150	40.3666	1	1	2014	300	1	0.000
+Paint Monkey 4020 Butler St	-79.9615	40.4692	1	1	2014	333	6	0.000
+Just Ducky Tours	-80.0049	40.4338	1	1	2015	178	6	0.000
+Pittsburgh International Airport	-80.0695	40.4112	1	1	2015	154	3	0.000
+Starbucks_4	-79.9348	40.4511	1	1	2014	67	6	0.000
+Everyday Noodles	-79.9201	40.4383	1	1	2015	58	5	0.000
+Beeler	-79.9346	40.4454	1	1	2014	67	6	0.000
+Howard's Park Place Pub	-79.8944	40.4411	1	1	2014	89	0	0.000
+Bicycle Heaven	-80.0321	40.4562	1	1	2015	264	1	0.452
+Pittsburgh Marriott City Center	-79.9921	40.4400	1	1	2014	92	3	0.000
+Berean Fellowship Church	-80.0886	40.3692	1	1	2014	68	0	0.000
+BOOM Concepts	-79.9414	40.4650	1	1	2014	185	5	0.000
+Sheraton Pittsburgh Hotel at Station Square	-80.0063	40.4348	1	1	2015	247	5	0.000
+Biergarten Hotel Monaco	-79.9963	40.4415	1	1	2015	157	6	0.000
+Arsenal Park in Lawrenceville	-79.9592	40.4662	1	1	2014	187	0	0.000
+piano slave for NHS	-79.9987	40.3684	1	1	2015	119	3	0.000
+Blush	-79.9984	40.4441	1	1	2015	112	3	0.000
+Nico's Recovery Room	-79.9489	40.4636	1	1	2014	161	2	0.000
+Liberty & 25th Ave	-79.9788	40.4537	1	1	2014	87	5	0.362
+Penn Ave Fish Company	-79.9820	40.4524	1	1	2014	97	1	0.000
+Nola On The Square	-80.0029	40.4410	1	1	2014	312	6	0.000
+Brighton Heights	-80.0330	40.4800	1	1	2015	47	1	0.000
+Forbes Tower	-79.9576	40.4403	1	1	2014	70	2	0.000
+On A Boat	-80.0057	40.4350	1	1	2014	172	6	0.000
+New Hazlett Theater	-80.0048	40.4530	1	1	2015	275	5	0.000
+EQT Pittsburgh 10 Miler	-79.9951	40.4506	1	1	2015	299	1	0.000
+My Comfort Zone My Bed	-80.0140	40.3996	1	1	2014	320	0	0.263
+Home_2	-80.0013	40.4560	1	1	2014	282	4	0.365
+zta formal	-80.0220	40.4374	1	1	2015	115	6	0.000
+The jacuzzi tub	-79.9785	40.4274	1	1	2015	12	1	0.000
+Primanti Bros_2	-79.9569	40.4418	1	1	2015	285	1	0.000
+Moore Park Soccer Field	-80.0126	40.4065	1	1	2015	21	3	0.000

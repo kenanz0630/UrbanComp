@@ -6,11 +6,70 @@ from sklearn.cluster import DBSCAN
 from collections import Counter
 
 '''MAIN FUNCTION'''
-def dbscan(tbname,eps,minPts,season=False,dbname='tweet_pgh',user='postgres'): #cluster non-auto pos tweet
+def dbscan_venue(fn_cls,fn_venue,eps,minPts,sep='\t'): #assign venue to sup clusters 
+	print 'Extract venues'
+	data=file('txt\\auto-tweet\\'+fn_venue+'.txt').readlines()[1:]
+	n=len(data)
+	data_venue=[data[i][:-1].split(sep) for i in xrange(n)]
+	coordi_venue=[[float(data_venue[i][1]),float(data_venue[i][2])] for i in xrange(n)]
+	clid_venue=[-1 for i in xrange(n)]
+	
+	print 'Extract tweet-cls'
+	data=file('txt\\'+fn_cls+'.txt').readlines()[1:]
+	n=len(data)
+	data=[data[i][:-1].split(sep) for i in xrange(n)]
+	data=[data[i] for i in xrange(n) if int(data[i][0])>-1]
+	n=len(data)
+	coordi=[[float(data[i][1]),float(data[i][2])] for i in xrange(n)]
+	clid=[int(data[i][0]) for i in xrange(n)]
+	k=max(clid)
+	coordi_cl=init_clusters(k,range(k))
+	for i in xrange(k):
+		coordi_cl[i]=[coordi[j] for j in xrange(n) if clid[j]==i]
+		
+
+	print 'Assign venue to sup-clusters through DBSCAN Clustering'
+	for i in xrange(k):
+		coordis=coordi_cl[i]+coordi_venue
+		[m,n]=[len(coordi_cl[i]),len(coordis)]
+		label=DBSCAN(eps=eps,min_samples=minPts).fit_predict(coordis)
+		if label[0]!=-1:		
+			for j in xrange(m,n):
+				if label[j]==label[0]:
+					clid_venue[j-m]=i
+			print 'Find %d venue in cluster%d'%(clid_venue.count(i),i)
+		else:
+			print 'Find 0 venue in cluster%d'%i
+
+	print 'Process venue cluster data'
+	n=len(clid_venue)
+	cls=init_clusters(k,range(k))
+	for i in xrange(k):
+		cls[i]=[data_venue[j] for j in xrange(n) if clid_venue[j]==i]
+		if len(cls[i])==0:
+			del cls[i]
+
+	if '4sq' in fn_venue:
+		name=['4sq']
+	if 'inst' in fn_venue:
+		name=['inst']
+
+	print 'Draw cluster map'
+	k=len(cls)
+	draw_venue_map(fn_venue,k,cls)
+
+	print 'Write shp file'
+	write_venue_shp(fn_venue,k,cls)
+
+	print 'Write results'
+	write_venue_txt(fn_venue,k,cls)
+
+
+def dbscan(tbname,eps,minPts,season=False,dbname='tweet_pgh',user='postgres'): #cluster genu pos tweet
 	print "Create pgcontroller"
 	pg=dbProcess.PgController(tbname,dbname,user)
 	
-	print 'Export non-auto tweets and normalize senti_val'
+	print 'Export genu-tweet and normalize senti_val'
 	data=export_tweet(pg,season)
 	n=len(data)
 	senti=[data[i][-1] for i in xrange(n)]
@@ -19,10 +78,10 @@ def dbscan(tbname,eps,minPts,season=False,dbname='tweet_pgh',user='postgres'): #
 		select avg(senti_val),stddev(senti_val) 
 		from %s where auto_tweet is Null;'''%pg.tbname)
 	(avg,std)=pg.cur.fetchall()[0]
-	print 'Non-auto tweet senti_val -- avg %0.4f std %0.4f'%(avg,std)
+	print 'Genu-tweet senti_val -- avg %0.4f std %0.4f'%(avg,std)
 	senti=[(senti[i]-avg)/std for i in xrange(n)]
 	data=[list(data[i])[:-1]+[senti[i]] for i in xrange(n) if senti[i]>1]
-	print 'Non-auto tweet -- all %d pos %d'%(n,len(data))
+	print 'Genu-tweet -- all %d pos %d'%(n,len(data))
 
 	print 'DBSCAN Clustering'
 	n=len(data)
@@ -49,7 +108,7 @@ def dbscan(tbname,eps,minPts,season=False,dbname='tweet_pgh',user='postgres'): #
 	cls[-1]=[data[i] for i in xrange(n) if label[i]==-1] #include noise to txt file
 	write_cluster_txt(tbname,k,cls,season)
 
-def dbscan_season(tbname,seasons,dbname='tweet_pgh',user='postgres'): #cluster non-auto pos tweet by season
+def dbscan_season(tbname,seasons,dbname='tweet_pgh',user='postgres'): #cluster genu pos tweet by season
 	for season in seasons:
 		[name,sta,end,eps,minPts]=season
 		print 'DBSCAN clustering -- %s from %d to %d'%(name,sta,end)
@@ -153,6 +212,7 @@ def cache_pre():
 	return unique_color
 
 '''------------------------------------------------------------------'''
+
 def export_tweet(pg,season):
 	if season:
 		[d_min,d_max]=season[1:]
@@ -209,6 +269,64 @@ def add_noise(cls,data_ns,cl,eps,minPts):
 
 
 '''------------------------------------------------------------------'''
+def draw_venue_map(fname,k,cls):
+	color=color_generator(k)
+	keys=cls.keys()
+	plt.figure()
+	for cl in cls:
+		data=cls[cl]
+		n=len(data)
+		x=[float(data[i][1]) for i in xrange(n)]
+		y=[float(data[i][2]) for i in xrange(n)]
+		plt.scatter(x,y,c=color[keys.index(cl)],marker='o')
+		print '-- draw %d points of Cluster%d'%(n,cl)
+
+	plt.xlabel('lon')
+	plt.ylabel('lat')
+	plt.xlim(-80.10,-79.86)
+	plt.ylim(40.36,40.51)
+	plt.title('Venue Clusters')
+
+	plt.savefig('png\\'+fname+'_cls.png')
+
+def write_venue_shp(fname,k,cls):
+	fields=[['ID','N',8],['CLUSTER','N',8],['VENUE','C',50],['CHECKIN','N',8],['USER','N',8]]
+	f=shapefile.Writer(shapeType=1)
+	f.autoBalance = 1
+	for field in fields:
+		f.field(field[0],field[1],field[2])
+
+	id=1
+	for cl in cls:
+		data=cls[cl]
+		n=len(data)
+		for i in xrange(n):
+			lon=float(data[i][1])
+			lat=float(data[i][2])
+			venue=data[i][0]
+			checkin=int(data[i][3])
+			user=int(data[i][4])
+			f.point(lon,lat)
+			f.record(ID=id,CLUSTER=cl,VENUE=venue,CHECKIN=checkin,USER=user)
+			id+=1
+
+	fname+='_cls'
+	
+	f.save('shp\\'+fname+'_cls.shp')	
+
+def write_venue_txt(fname,k,cls,sep='\t'):
+	f=os.open('txt\\auto-tweet\\'+fname+'_cls.txt',os.O_RDWR|os.O_CREAT)
+	os.write(f,'clid,venue,lon,lat,checkin_n,user_n,doy_mode,dow_mode,hour_mode\n'.replace(',',sep))
+
+	for cl in cls:
+		data=cls[cl]
+		n=len(data)
+		for i in xrange(n):
+			os.write(f,sep.join(['%d'%cl]+data[i][:-1])+'\n')
+
+	os.close(f)
+
+'''------------------------------------------------------------------'''
 def draw_cluster_map(fname,k,cls,ext):
 	color=color_generator(k)
 	plt.figure()
@@ -230,6 +348,7 @@ def draw_cluster_map(fname,k,cls,ext):
 	if ext:
 		fname+='_%s'%ext[0][:3]
 	plt.savefig('png\\'+fname+'.png')
+
 
 def write_cluster_shp(fname,k,cls,ext):
 	fields=[['ID','N',8],['CLUSTER','N',8],['USER','C',50]]
@@ -260,6 +379,7 @@ def write_cluster_shp(fname,k,cls,ext):
 	
 	f.save('shp\\'+fname+'.shp')	
 
+
 def write_cluster_txt(fname,k,cls,ext,sep='\t'): #data from database
 	fname+='_tweet_cls'
 	if ext:
@@ -279,6 +399,10 @@ def write_cluster_txt(fname,k,cls,ext,sep='\t'): #data from database
 				tag=''		
 			line='%d,%0.4f,%0.4f,%s,%s,%d,%d,%d,%d'\
 				%(cl,lon,lat,id,username,year,doy,dow,hour)
+			#replace 'amp' by '&'
+			if 'amp' in txt:
+				txt=txt.replace(' amp ',' & ')
+				term=term.replace(',amp,',',&,')
 			os.write(f,line.replace(',',sep)+sep+sep.join([txt,term,emoji,tag,'%0.3f'%senti])+'\n')
 
 	os.close(f) 

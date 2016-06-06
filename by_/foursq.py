@@ -2,7 +2,6 @@ import dbProcess, os, math, shapefile
 import numpy as np
 from scipy import stats
 import matplotlib.pyplot as plt
-import matplotlib.colors as colors
 
 
 
@@ -31,7 +30,7 @@ def foursq_tweet(tbname,dbname='tweet_pgh',user='postgres'):
 	for venue in venues:
 		venue_p=venue.replace("'","''")
 		pg.cur.execute('''
-			select username,year,doy,dow,hour,lon,lat,senti_val from %s 
+			select lon,lat,username,doy,dow,hour,senti_val from %s 
 			where auto_tweet='4sq' and txt like '%%I''m at %s%%';
 			'''%(pg.tbname,venue_p))
 		data[venue]=pg.cur.fetchall()
@@ -45,14 +44,14 @@ def foursq_tweet(tbname,dbname='tweet_pgh',user='postgres'):
 
 	print 'Write results'
 	f=os.open('txt\\'+tbname+'_4sq_tweet.txt',os.O_RDWR|os.O_CREAT)
-	os.write(f,'venue,user,year,doy,dow,hour,lon,lat,senti_val\n')
+	os.write(f,'venue,lon,lat,user,doy,dow,hour,senti_val\n')
 
 	for venue in venues:
 		n=len(data[venue])
 		print 'Venue: %s %d'%(venue,n)
 		for i in xrange(n):
 			(user,year,doy,dow,hour,lon,lat,senti_val)=data[venue][i]
-			os.write(f,'%s,%s,%d,%d,%d,%d,%0.4f,%0.4f,%0.3f\n'%(venue,user,year,doy,dow,hour,lon,lat,senti_val))
+			os.write(f,'%s,%0.4f,%0.4f,%s,%d,%d,%d,%0.3f\n'%(venue,lon,lat,user,year,doy,dow,hour,senti_val))
 
 	os.close(f) 
 
@@ -227,10 +226,10 @@ def process_venue_name(txt):
 '''------------------------------------------------------------------'''
 def find_diff_venue(data,d=0.01):
 	n=len(data)
-	coordi_0=(float(data[0][-3]),float(data[0][-2]))
+	coordi_0=(float(data[0][0]),float(data[0][1]))
 	i=1
 	while i<n:
-		coordi=(float(data[i][-3]),float(data[i][-2]))
+		coordi=(float(data[i][0]),float(data[i][1]))
 		if dist(coordi,coordi_0)>d:
 			return True
 		i+=1
@@ -239,12 +238,12 @@ def find_diff_venue(data,d=0.01):
 def redef_venue(book,venue,d=0.01):
 	data=book[venue]
 	n=len(data)
-	coordis=venue_coordis([(float(data[i][-3]),float(data[i][-2])) for i in xrange(n)],d)
+	coordis=venue_coordis([(float(data[i][0]),float(data[i][1])) for i in xrange(n)],d)
 	m=len(coordis)
 	for i in xrange(m):
 		coordi=coordis[i]
 		name='%s_%d'%(venue,i+1)
-		book[name]=[data[j] for j in xrange(n) if dist((float(data[j][-3]),float(data[j][-2])),coordi)<d]
+		book[name]=[data[j] for j in xrange(n) if dist((float(data[j][0]),float(data[j][1])),coordi)<d]
 	del book[venue]
 
 	return book,m
@@ -293,8 +292,8 @@ def process_venue_stats(data):
 	n=len(data)
 	(lon,lat)=venue_center(data)
 	checkin=n
-	user=len(list(set([data[i][0] for i in xrange(n)])))
-	[doy,dow,hour]=[stats.mode([int(data[i][j]) for i in xrange(n)])[0][0] for j in xrange(2,5)]
+	user=len(list(set([data[i][2] for i in xrange(n)])))
+	[doy,dow,hour]=[stats.mode([int(data[i][j]) for i in xrange(n)])[0][0] for j in xrange(3,6)]
 	senti=np.mean([float(data[i][-1]) for i in xrange(n)])
 
 	return [lon,lat,checkin,user,doy,dow,hour,senti]

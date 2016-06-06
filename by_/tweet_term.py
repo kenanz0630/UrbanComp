@@ -19,9 +19,9 @@ def process_term_cls(fname,sep='\t'): #process cluster-tweet terms into cobo of 
 	term=[data[i][idx].split(',') for i in xrange(n) if clid[i]!=-1] #exclude noise data
 	clid=[clid[i] for i in xrange(n) if clid[i]!=-1]
 
+	n=len(term)
 	print 'Process tweet terms'
-	tagger=PerceptronTagger()
-	n=len(term)	
+	tagger=PerceptronTagger()		
 	term=[process_term(term[i],tagger) for i in xrange(n)]
 
 	print 'Write results'
@@ -38,8 +38,9 @@ def common_term(fname,m,rand_n=400,sep='\t'):
 	data=file('txt\\'+fname+'.txt').readlines()[1:]
 	n=len(data)
 	data=[data[i][:-1].split(sep) for i in xrange(n)]
-	term=[data[i][1].split(',') for i in xrange(n)]
+	term=[data[i][1].split(',') for i in xrange(n)] 
 	clid=[int(data[i][0]) for i in xrange(n)]
+
 	k=max(clid)+1
 	term_cl=init_clusters(k+1,range(-1,k),[[term[i] for i in xrange(n) if clid[i]==j] for j in xrange(-1,k)])
 
@@ -54,7 +55,7 @@ def common_term(fname,m,rand_n=400,sep='\t'):
 	common=counter.most_common()[:m]
 
 	print 'Write results'
-	f=os.open('txt\\'+fname+'_common.txt', os.O_RDWR|os.O_CREAT)
+	f=os.open('txt\\'+fname+'_terms_common.txt', os.O_RDWR|os.O_CREAT)
 	os.write(f,'term,count\n')
 	for i in xrange(m):
 		os.write(f,'%s,%d\n'%(common[i][0],common[i][1]))
@@ -81,30 +82,25 @@ def common_term_cls(fname,m,cls=False,sep='\t'): #seach common/representative te
 	print 'Count term tf'
 	counter=Counter()
 	counter=tf_idf.tf(counter,term,'term')
-
+	
 	print 'Remove common terms'
 	data=file('txt\\'+fname+'_common.txt').readlines()[1:]
 	l=len(data)
 	data=[data[i][:-1].split(',') for i in xrange(l)]
 	common=set([data[i][0] for i in xrange(l)])
 	term_remove=[]
-	for t in counter.keys():
-		if t in common:
-			term_remove+=[t]
-	for t in term_remove:
-		del counter[t]
-
-	#print "'another alive in counter"
-	#print 'another alive' in counter
+	for key in counter.keys():
+		l=key.split(' ')
+		if l[0] in common or l[-1] in common: #first/last word is common term
+			term_remove+=[key]
+	for key in term_remove:
+		del counter[key]
 
 	print 'Calculate term tf-idf'
 	counter_cl=dict()
 	for cl in cls:
 		counter_i=copy.copy(counter)
 		counter_i.subtract(counter)
-		#if cl==17:
-			#print "'another alive in counter_i"
-			#print 'another alive' in counter_i
 		counter_cl[cl]=tf_idf.tf(counter_i,term_cl[cl],'term')
 	tfIdf=dict()
 	for cl in cls:
@@ -254,6 +250,9 @@ def common_term_senti(term,data):
 	return senti
 
 '''TEST FUNCTION'''
+'''
 tagger=PerceptronTagger()
 data=['peace','love','little','donuts']
 print process_term(data,tagger)
+'''
+

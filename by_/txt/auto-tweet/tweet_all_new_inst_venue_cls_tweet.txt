@@ -1,0 +1,1537 @@
+clid	venue	lon	lat	user	year	doy	dow	hour
+1	York Way	-79.9546	40.4381	tsismour	2015	27	2	2	0.000
+0	U.S. Steel Tower_1	-79.9947	40.4413	graydonlanduse	2015	292	1	15	0.000
+0	U.S. Steel Tower_1	-79.9947	40.4413	graydonlanduse	2015	292	1	15	0.000
+6	The BeerHive	-79.9828	40.4521	PuMpZorDuNkS	2014	43	3	1	0.000
+6	The BeerHive	-79.9828	40.4521	chrisPURE	2014	53	6	1	0.000
+6	The BeerHive	-79.9828	40.4521	PuMpZorDuNkS	2014	43	3	1	0.000
+15	The Livermore	-79.9250	40.4604	JoshLouie	2014	96	0	3	0.000
+15	The Livermore	-79.9250	40.4604	JoshLouie	2014	96	0	3	0.000
+0	First Presbyterian Church of Pittsburgh	-79.9989	40.4415	DJTMI	2014	34	1	21	0.000
+0	First Presbyterian Church of Pittsburgh	-79.9989	40.4415	Jordonooh	2015	242	0	16	0.000
+1	Carnegie Museum Of Art	-79.9494	40.4435	theBee_word	2014	72	4	4	0.000
+0	still looking 4 the zaddys	-80.0013	40.4386	AlenaLancia	2015	88	0	1	0.000
+0	still looking 4 the zaddys	-80.0013	40.4386	AlenaLancia	2015	88	0	1	0.000
+0	still looking 4 the zaddys	-80.0013	40.4386	AlenaLancia	2015	88	0	1	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	I_Macks	2014	209	1	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	cloughly	2014	334	0	3	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	Blakhopela	2014	225	3	21	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	fugimaster24	2014	275	4	3	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	techburgh	2014	317	4	2	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	Blakhopela	2014	225	3	21	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	fugimaster24	2014	275	4	3	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	techburgh	2014	317	4	2	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jessbrown	2014	319	6	21	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	NickAugusta	2014	301	2	2	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	AynMcGraw	2014	307	1	22	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	NickAugusta	2014	301	2	2	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	AynMcGraw	2014	307	1	22	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	NickAugusta	2014	301	2	2	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	AynMcGraw	2014	307	1	22	0.000
+0	City of Pittsburgh_3	-79.9924	40.4470	jjggz	2014	303	4	15	0.000
+0	City of Pittsburgh_2	-79.9932	40.4447	KMGKiewitSafe	2015	196	3	16	0.000
+0	City of Pittsburgh_2	-79.9932	40.4447	KMGKiewitSafe	2015	196	3	16	0.000
+0	City of Pittsburgh_2	-79.9932	40.4447	cccourtx3	2015	246	4	1	0.000
+3	Somewhere in Southside	-79.9720	40.4263	saamxoo	2015	10	6	14	0.000
+3	Somewhere in Southside	-79.9720	40.4263	saamxoo	2015	10	6	14	0.000
+0	tk	-80.0022	40.4424	obvi_g	2015	304	6	21	0.000
+10	Hamburg Hall - Carnegie Mellon University's Heinz College	-79.9450	40.4443	bluesource	2014	284	6	20	0.000
+10	Hamburg Hall - Carnegie Mellon University's Heinz College	-79.9450	40.4443	sky_xutianyu	2015	305	0	5	0.000
+10	Hamburg Hall - Carnegie Mellon University's Heinz College	-79.9450	40.4443	sky_xutianyu	2015	281	4	4	0.000
+10	Hamburg Hall - Carnegie Mellon University's Heinz College	-79.9450	40.4443	sky_xutianyu	2015	281	4	4	0.000
+10	Hamburg Hall - Carnegie Mellon University's Heinz College	-79.9450	40.4443	bluesource	2014	284	6	20	0.000
+10	Hamburg Hall - Carnegie Mellon University's Heinz College	-79.9450	40.4443	bluesource	2014	284	6	20	0.000
+10	Hamburg Hall - Carnegie Mellon University's Heinz College	-79.9450	40.4443	sky_xutianyu	2015	281	4	4	0.000
+6	Pittsburgh Public Market	-79.9803	40.4538	MrNeup	2015	269	6	19	0.000
+6	Pittsburgh Public Market	-79.9803	40.4538	MrNeup	2015	269	6	19	0.000
+6	Pittsburgh Public Market	-79.9803	40.4538	MrNeup	2015	269	6	19	0.000
+6	Pittsburgh Public Market	-79.9803	40.4538	MrNeup	2015	269	6	19	0.000
+0	Golds Gym	-80.0040	40.4409	Moss412	2014	120	3	3	0.000
+0	Golds Gym	-80.0040	40.4409	Moss412	2014	120	3	3	0.000
+0	Golds Gym	-80.0040	40.4409	Moss412	2014	120	3	3	0.000
+4	Smithfield United Church Of Christ_2	-80.0079	40.4490	taker3277	2014	80	5	23	0.286
+4	Smithfield United Church Of Christ_2	-80.0079	40.4490	hunter2979	2014	144	6	10	0.286
+4	Smithfield United Church Of Christ_2	-80.0079	40.4490	taker3277	2014	80	5	23	0.286
+4	Smithfield United Church Of Christ_2	-80.0079	40.4490	hunter2979	2014	144	6	10	0.286
+4	Smithfield United Church Of Christ_2	-80.0079	40.4490	cerebral2979	2014	177	4	21	0.286
+4	Smithfield United Church Of Christ_2	-80.0079	40.4490	taker3277	2014	31	5	13	0.286
+4	Smithfield United Church Of Christ_2	-80.0079	40.4490	taker3277	2014	80	5	21	0.286
+1	Kbox	-79.9490	40.4459	doubleorabbit	2015	184	5	5	0.000
+0	Smithfield United Church Of Christ_1	-79.9972	40.4418	taker3277	2014	30	4	0	0.286
+0	Smithfield United Church Of Christ_1	-79.9972	40.4418	taker3277	2014	30	4	0	0.286
+4	Soho	-80.0045	40.4483	coolc_412	2014	207	6	2	0.000
+4	Soho	-80.0045	40.4483	jrmpix	2014	94	5	0	0.000
+18	Shadyside	-79.9350	40.4500	sky_xutianyu	2015	247	5	23	0.000
+18	Shadyside	-79.9350	40.4500	maggiejmcgrath	2015	226	5	22	0.000
+0	Point State Park_2	-80.0074	40.4394	djakehayes	2014	306	0	16	0.000
+0	Point State Park_2	-80.0074	40.4394	ShawGalleries	2014	183	3	20	0.000
+0	Point State Park_2	-80.0074	40.4394	djakehayes	2014	306	0	16	0.000
+0	Point State Park_2	-80.0074	40.4394	ShawGalleries	2014	183	3	20	0.000
+0	Point State Park_2	-80.0074	40.4394	djakehayes	2014	306	0	16	0.000
+0	Point State Park_2	-80.0074	40.4394	ShawGalleries	2014	183	3	20	0.000
+3	The Smiling Moose	-79.9850	40.4288	BryanMcClaine	2014	28	2	21	0.375
+3	The Smiling Moose	-79.9850	40.4288	benkeen	2014	243	0	4	0.375
+3	The Smiling Moose	-79.9850	40.4288	VintsSalvatore	2015	77	3	5	0.375
+3	The Smiling Moose	-79.9850	40.4288	Tyleraelan	2014	224	2	1	0.375
+3	The Smiling Moose	-79.9850	40.4288	Tyleraelan	2014	224	2	1	0.375
+3	The Smiling Moose	-79.9850	40.4288	Jasonvoytek	2015	247	5	2	0.375
+3	The Smiling Moose	-79.9850	40.4288	Jasonvoytek	2015	247	5	2	0.375
+0	The ToonSeum	-79.9965	40.4436	patheticboy	2014	361	6	21	0.000
+0	The ToonSeum	-79.9965	40.4436	patheticboy	2014	361	6	21	0.000
+0	The ToonSeum	-79.9965	40.4436	patheticboy	2014	361	6	21	0.000
+0	The ToonSeum	-79.9965	40.4436	patheticboy	2014	361	6	21	0.000
+0	The ToonSeum	-79.9965	40.4436	patheticboy	2014	361	6	21	0.000
+0	The ToonSeum	-79.9965	40.4436	patheticboy	2014	361	6	21	0.000
+3	Rita's Italian Ice Southside	-79.9698	40.4279	mommyna77	2014	79	4	19	0.000
+3	Rita's Italian Ice Southside	-79.9698	40.4279	mommyna77	2014	79	4	19	0.000
+0	ODAR	-79.9934	40.4460	woods_hollylynn	2015	9	5	17	0.000
+0	ODAR	-79.9934	40.4460	woods_hollylynn	2015	9	5	17	0.000
+0	Eddie Merlots	-80.0036	40.4412	davidbowlin	2014	176	3	19	0.000
+0	Hampton Inn & Suites Pittsburgh Downtown	-79.9924	40.4470	TIMBARLAND691	2014	133	2	14	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	obvi_g	2015	30	5	3	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	TresheaWade	2015	32	0	22	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	CelinaPompeani	2015	247	5	23	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	Chiusy	2015	307	2	13	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	CelinaPompeani	2015	247	5	23	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	obvi_g	2015	30	5	3	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	TresheaWade	2015	32	0	22	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	schtar	2015	143	6	20	0.000
+0	Hotel Monaco Pittsburgh - A Kimpton Hotel	-79.9963	40.4416	CelinaPompeani	2015	247	5	23	0.000
+1	Carnegie Museum of Art and Natural History	-79.9498	40.4431	BryMiscoe	2014	136	5	21	0.217
+3	The jacuzzi tub	-79.9785	40.4274	MMartignetti	2015	12	1	18	0.000
+3	Nakama	-79.9820	40.4289	TannerGlaves	2014	165	6	19	0.000
+0	The Yard Market Square	-80.0027	40.4413	_jordanmariemc	2015	284	0	20	0.000
+16	Eclipse Lounge	-79.9647	40.4666	dj_Bamboo	2014	173	0	1	0.000
+16	Eclipse Lounge	-79.9647	40.4666	dj_Bamboo	2014	173	0	1	0.000
+16	Eclipse Lounge	-79.9647	40.4666	dj_Bamboo	2014	173	0	1	0.000
+3	PREGAME	-79.9834	40.4277	vanessadinardo	2014	278	0	14	0.000
+6	Hermanowski Wholesale	-79.9836	40.4505	AleitaH	2014	332	5	19	0.000
+6	Hermanowski Wholesale	-79.9836	40.4505	AleitaH	2014	332	5	19	0.000
+0	T Station	-80.0000	40.4423	iamseton	2014	188	1	3	0.000
+0	T Station	-80.0000	40.4423	iamseton	2014	188	1	3	0.000
+6	Smallman (The Strip	-79.9865	40.4504	Slimathee	2015	293	2	11	0.000
+6	Smallman (The Strip	-79.9865	40.4504	JoshLouie	2014	163	4	22	0.000
+6	Smallman (The Strip	-79.9865	40.4504	Slimathee	2015	293	2	11	0.000
+0	Arts Festival	-80.0063	40.4422	brittanytomasic	2015	159	1	0	0.444
+0	Arts Festival	-80.0063	40.4422	brittanytomasic	2015	159	1	0	0.444
+4	three rivers arts festival	-80.0042	40.4462	Julll_Car	2015	157	6	0	0.348
+4	three rivers arts festival	-80.0042	40.4462	Julll_Car	2015	157	6	0	0.348
+6	Pamela's P & G Diner - Strip District	-79.9835	40.4520	gia_ritch	2014	173	0	13	0.000
+6	Pamela's P & G Diner - Strip District	-79.9835	40.4520	aristotlejulep	2014	144	6	13	0.000
+6	Pamela's P & G Diner - Strip District	-79.9835	40.4520	gia_ritch	2014	173	0	13	0.000
+6	Pamela's P & G Diner - Strip District	-79.9835	40.4520	ShelleyDuffy	2014	207	6	15	0.000
+6	Pamela's P & G Diner - Strip District	-79.9835	40.4520	aristotlejulep	2014	144	6	13	0.000
+3	Ibiza Wine and Tapas Restaurant	-79.9735	40.4281	JohnnyStLethal	2015	25	0	5	0.000
+0	11 Stanwix Street	-80.0064	40.4392	Emily13Lebovitz	2015	247	5	19	0.000
+2	CONSOL Energy Center	-79.9894	40.4396	therealannawebb	2015	265	2	22	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	psu_char_99	2015	265	2	22	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	RyanDGreen	2015	269	6	22	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	ashlynniicolee	2014	82	0	16	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	george_birman	2014	83	1	17	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	kraym3r	2014	85	3	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	CatherineMarr	2014	107	4	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	Eli4short	2014	107	4	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	drawohmot	2014	72	4	14	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	george_birman	2014	81	6	20	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	kraym3r	2014	85	3	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	dj_Bamboo	2014	91	2	21	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	CatherineMarr	2014	107	4	3	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	ashlynniicolee	2014	82	0	16	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	george_birman	2014	83	1	17	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	kraym3r	2014	85	3	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	CatherineMarr	2014	107	4	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	Eli4short	2014	107	4	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	therealannawebb	2015	265	2	22	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	psu_char_99	2015	265	2	22	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	RyanDGreen	2015	269	6	22	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	Eli4short	2014	35	2	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	BantamDraper	2014	23	4	1	0.296
+2	CONSOL Energy Center	-79.9894	40.4396	8_nL	2014	39	6	0	0.296
+15	Top Gear Bicycle Shop	-79.9268	40.4593	Andy1Volz	2014	108	5	17	0.231
+5	Taylor Swift Concert	-80.0157	40.4465	kristen_morello	2015	158	0	0	0.265
+5	Taylor Swift Concert	-80.0157	40.4465	kristen_morello	2015	158	0	0	0.265
+6	Static Nightclub	-79.9870	40.4501	Markee_Ann	2015	1	4	17	0.000
+0	August Wilson Center for African American Culture	-79.9957	40.4433	iamseton	2014	195	1	3	0.000
+0	August Wilson Center for African American Culture	-79.9957	40.4433	iamseton	2014	195	1	3	0.000
+0	August Wilson Center for African American Culture	-79.9957	40.4433	iamseton	2014	195	1	3	0.000
+10	Kappa Sigma at CMU	-79.9417	40.4456	wentaoooo	2014	163	4	7	0.000
+10	Kappa Sigma at CMU	-79.9417	40.4456	wentaoooo	2014	163	4	7	0.000
+19	City of Pittsburgh_1	-80.0199	40.4156	Turki_3_O	2015	39	0	2	0.000
+0	Pop-Up Canada	-79.9969	40.4414	Andy1Volz	2014	113	3	15	0.000
+0	Pop-Up Canada	-79.9969	40.4414	Andy1Volz	2014	113	3	15	0.000
+9	Cathedral Of Learning Nationality Rooms Tour	-79.9494	40.4491	NadineLister	2015	202	2	17	0.000
+9	Cathedral Of Learning Nationality Rooms Tour	-79.9494	40.4491	NadineLister	2015	202	2	17	0.000
+9	Cathedral Of Learning Nationality Rooms Tour	-79.9494	40.4491	NadineLister	2015	202	2	17	0.000
+9	Cathedral Of Learning Nationality Rooms Tour	-79.9494	40.4491	NadineLister	2015	202	2	17	0.000
+9	Cathedral Of Learning Nationality Rooms Tour	-79.9494	40.4491	NadineLister	2015	202	2	17	0.000
+9	Cathedral Of Learning Nationality Rooms Tour	-79.9494	40.4491	NadineLister	2015	202	2	19	0.000
+0	Liberty Ave	-79.9967	40.4431	KeepPghDope	2015	308	3	22	0.459
+3	Mallorca Restaurant	-79.9734	40.4281	LeMIChar	2015	304	6	0	0.000
+3	Mallorca Restaurant	-79.9734	40.4281	LeMIChar	2015	304	6	1	0.000
+3	Mallorca Restaurant	-79.9734	40.4281	LeMIChar	2015	304	6	3	0.000
+3	Mallorca Restaurant	-79.9734	40.4281	LeMIChar	2015	304	6	3	0.000
+0	O'Reilly Theater	-80.0016	40.4432	becsmccart	2014	181	1	0	0.000
+3	Skybar Pittsburgh	-79.9826	40.4290	jasminedavis101	2014	234	5	15	0.000
+13	PITTSBURGH	-80.0062	40.4355	BadBitchGudPusC	2014	41	1	2	0.000
+6	Pittsburgh's Strip District_2	-79.9815	40.4533	aurelio02	2015	276	6	20	0.000
+6	Pittsburgh's Strip District_2	-79.9815	40.4533	aurelio02	2015	276	6	20	0.000
+6	Pittsburgh's Strip District_2	-79.9815	40.4533	aurelio02	2015	276	6	20	0.000
+6	Pittsburgh's Strip District_2	-79.9815	40.4533	aurelio02	2015	276	6	20	0.000
+6	Pittsburgh's Strip District_2	-79.9815	40.4533	aurelio02	2015	276	6	20	0.000
+1	Meyran Ave	-79.9548	40.4375	gabby_ooyoah	2015	26	1	22	0.000
+4	Hyde Park Steakhouse	-80.0085	40.4465	coolc_412	2014	120	3	6	0.000
+4	Hyde Park Steakhouse	-80.0085	40.4465	coolc_412	2014	120	3	6	0.000
+0	Wood Street	-79.9989	40.4429	LegacyAvenue	2015	27	2	0	0.000
+0	Wood Street	-79.9989	40.4429	LegacyAvenue	2015	27	2	0	0.000
+3	The Pub Chip Shop	-79.9794	40.4288	JoshLouie	2014	81	6	19	0.000
+0	Pizza Parma	-79.9983	40.4437	DJTMI	2014	33	0	18	0.000
+2	Consol Energy Center_2	-79.9902	40.4391	gracelaurell	2015	51	5	20	0.296
+2	Consol Energy Center_2	-79.9902	40.4391	corey_tags	2015	50	4	0	0.296
+0	Downtown Pittsburgh PA On 376 W	-79.9986	40.4368	PosdRotary	2015	299	1	17	0.000
+0	Downtown Pittsburgh PA On 376 W	-79.9986	40.4368	robertegblack	2015	111	2	16	0.000
+0	Downtown Pittsburgh PA On 376 W	-79.9986	40.4368	datdudechuck2	2015	112	3	16	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	BillPowell92	2015	45	6	0	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	ChrisMondi	2014	123	6	21	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	LeMIChar	2015	269	6	14	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	LeMIChar	2015	269	6	14	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	Snappbackkid	2014	273	2	17	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	Just_Sassy219	2014	60	6	1	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	SprolesLinda	2014	71	3	4	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	RulysFernadez	2014	159	0	0	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	Snappbackkid	2014	273	2	17	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	Just_Sassy219	2014	60	6	1	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	SprolesLinda	2014	71	3	4	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	BillPowell92	2015	45	6	0	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	ChrisMondi	2014	123	6	21	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	tmltml71_	2015	254	5	22	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	tmltml71_	2015	254	5	22	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	RulysFernadez	2014	159	0	0	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	TylerUlanowicz	2015	24	6	1	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	KemoBreezy	2014	116	6	23	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	TylerUlanowicz	2015	24	6	1	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	KemoBreezy	2014	116	6	23	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	TylerUlanowicz	2015	24	6	1	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	KemoBreezy	2014	116	6	23	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	LeMIChar	2015	269	6	14	0.000
+0	David L. Lawrence Convention Center	-79.9965	40.4457	LeMIChar	2015	269	6	14	0.000
+0	Ten Penny	-79.9958	40.4443	becsmccart	2014	181	1	0	0.000
+0	Ten Penny	-79.9958	40.4443	becsmccart	2014	181	1	0	0.000
+0	Ten Penny	-79.9958	40.4443	becsmccart	2014	181	1	0	0.000
+0	Ten Penny	-79.9958	40.4443	EmeraldLeigh723	2015	234	6	5	0.000
+3	Bobby Hendrix	-79.9768	40.4286	prager_sara	2014	306	0	6	0.000
+12	CrossFit Athletics	-79.9670	40.4261	AynMcGraw	2014	97	1	0	0.000
+5	Heinz Feild	-80.0151	40.4475	01sweetworld	2015	182	3	6	0.000
+5	Heinz Feild	-80.0151	40.4475	01sweetworld	2015	182	3	6	0.000
+5	Heinz Field_2	-80.0159	40.4461	Lou1EMT	2015	305	0	16	0.000
+5	Heinz Field_2	-80.0159	40.4461	wxrman	2015	305	0	17	0.000
+5	Heinz Field_2	-80.0159	40.4461	wxrman	2015	305	0	17	0.000
+5	Heinz Field_2	-80.0159	40.4461	wxrman	2015	305	0	17	0.000
+5	Heinz Field_2	-80.0159	40.4461	Camden_Seybert	2015	305	0	23	0.000
+5	Heinz Field_2	-80.0159	40.4461	Chiusy	2015	306	1	23	0.000
+3	Double Wide Grill	-79.9712	40.4284	Cas_lyn	2014	205	4	23	0.000
+3	Double Wide Grill	-79.9712	40.4284	tombilcze	2014	144	6	18	0.000
+3	Double Wide Grill	-79.9712	40.4284	mstevesmithjr	2014	362	0	16	0.000
+22	New Hazlett Theater	-80.0048	40.4530	neshacom1	2015	275	5	12	0.000
+0	21st Street Coffee and Tea	-80.0008	40.4411	21streetcoffee	2014	44	4	14	0.000
+1	Carlow University	-79.9633	40.4386	idfkels	2015	278	1	22	0.000
+1	Carlow University	-79.9633	40.4386	idfkels	2015	278	1	22	0.000
+1	Carlow University	-79.9633	40.4386	idfkels	2015	278	1	22	0.000
+0	Meat & Potatoes	-80.0006	40.4433	JoshLouie	2015	52	6	17	0.000
+1	61B	-79.9507	40.4404	Moss412	2014	25	6	17	0.000
+4	Pnc Ballpark	-80.0049	40.4466	timorlang	2014	220	5	23	0.000
+4	Pnc Ballpark	-80.0049	40.4466	kellygee10	2014	208	0	3	0.000
+4	Pnc Ballpark	-80.0049	40.4466	timorlang	2014	220	5	23	0.000
+4	Pnc Ballpark	-80.0049	40.4466	kellygee10	2014	208	0	3	0.000
+4	Pnc Ballpark	-80.0049	40.4466	jbjphoto	2014	114	4	18	0.000
+4	Pnc Ballpark	-80.0049	40.4466	kellygee10	2014	208	0	3	0.000
+3	Just posted a photo_4	-79.9702	40.4284	xXKGBXx	2014	49	2	14	0.000
+0	Macy's	-79.9984	40.4395	twisted_view	2015	245	3	15	0.000
+13	Mt. Washington Vista Point	-80.0065	40.4317	StephenKirk1	2014	248	5	13	0.000
+0	Katz Plaza	-80.0004	40.4432	The_Nettie	2014	171	5	21	0.000
+0	Katz Plaza	-80.0004	40.4432	The_Nettie	2014	171	5	21	0.000
+2	stop drop and roll	-79.9880	40.4353	diannaconte	2014	304	5	2	-0.462
+1	Caliban Book Shop	-79.9491	40.4449	grace_lee14	2015	80	6	22	0.000
+0	Speakeasy At the Omni William Penn	-79.9973	40.4410	SuzyB419	2014	283	5	21	0.000
+0	pixburg	-79.9948	40.4416	SNUBNOSECRUEL	2014	90	1	17	0.000
+9	Sherwood Towers Apts	-79.9511	40.4510	JocelynLiang	2015	166	1	23	0.000
+6	All Over Pittsburgh	-79.9828	40.4542	coolnofro	2014	116	6	18	0.000
+6	Peace, Love and Little Donuts	-79.9841	40.4521	TannerGlaves	2014	166	0	16	0.562
+6	Peace, Love and Little Donuts	-79.9841	40.4521	TannerGlaves	2014	166	0	16	0.562
+6	Peace, Love and Little Donuts	-79.9841	40.4521	BenzaBurgh	2014	361	6	13	0.562
+3	Kinky Friedman	-79.9866	40.4290	DrZpresents	2015	285	1	1	0.000
+4	US Post Office	-80.0052	40.4500	Babyprincessmom	2014	80	5	13	0.000
+0	Golden Triangle	-80.0004	40.4416	GeniaGor	2014	75	0	2	0.000
+0	Golden Triangle	-80.0004	40.4416	GeniaGor	2014	75	0	2	0.000
+21	Fallingwater Private Tours	-79.9773	40.4414	YmAlmansour	2014	159	0	0	0.000
+3	The Urban Tap	-79.9859	40.4288	laurenashlyy	2014	109	6	1	0.000
+3	The Urban Tap	-79.9859	40.4288	laurenashlyy	2014	109	6	1	0.000
+3	The Urban Tap	-79.9859	40.4288	BurghBlake	2014	60	6	0	0.000
+3	The Urban Tap	-79.9859	40.4288	EmilyKulaa	2014	177	4	3	0.000
+4	Holy Trinity Lutheran Church	-80.0082	40.4489	cerebral2979	2014	181	1	20	0.000
+0	Studio 41 Entertainment	-80.0028	40.4413	Studio41PGH	2015	200	0	1	0.359
+0	Studio 41 Entertainment	-80.0028	40.4413	Studio41PGH	2015	267	4	1	0.359
+0	Studio 41 Entertainment	-80.0028	40.4413	Studio41PGH	2015	241	6	20	0.359
+0	Studio 41 Entertainment	-80.0028	40.4413	Studio41PGH	2015	267	4	1	0.359
+0	Studio 41 Entertainment	-80.0028	40.4413	Studio41PGH	2015	241	6	20	0.359
+0	Room 401	-80.0022	40.4352	npaigex	2015	42	3	19	0.000
+0	Room 401	-80.0022	40.4352	npaigex	2015	42	3	19	0.000
+0	Greyhound Station Pittsburgh	-79.9938	40.4444	inferngreen	2014	279	1	5	0.000
+0	Greyhound Station Pittsburgh	-79.9938	40.4444	inferngreen	2014	279	1	5	0.000
+5	on the river at Heinz Field	-80.0142	40.4447	TAJClothiers	2014	234	5	14	0.000
+5	on the river at Heinz Field	-80.0142	40.4447	TAJClothiers	2014	234	5	14	0.000
+5	on the river at Heinz Field	-80.0142	40.4447	TAJClothiers	2014	234	5	14	0.000
+0	Peppi's	-80.0006	40.4371	EVLTNssoulbro	2014	241	5	15	0.000
+12	bd's Mongolian Grill - Pittsburgh	-79.9659	40.4282	KemoBreezy	2014	108	5	22	0.000
+0	The Rink at PPG Place	-80.0034	40.4397	DJTMI	2014	47	0	23	0.000
+0	The Rink at PPG Place	-80.0034	40.4397	DJTMI	2014	47	0	23	0.000
+0	The Rink at PPG Place	-80.0034	40.4397	DJTMI	2014	47	0	23	0.000
+0	The Rink at PPG Place	-80.0034	40.4397	DJTMI	2014	47	0	23	0.000
+3	Excuses Bar & Grill	-79.9687	40.4274	DrZpresents	2015	100	5	4	0.000
+6	Leaf and Bean in the Strip	-79.9821	40.4521	timorlang	2014	338	4	13	0.000
+6	Leaf and Bean in the Strip	-79.9821	40.4521	DrZpresents	2015	24	6	17	0.000
+6	Leaf and Bean in the Strip	-79.9821	40.4521	DrZpresents	2015	66	6	17	0.000
+0	Allegheny County Courthouse	-79.9962	40.4385	BenzaBurgh	2014	113	3	2	0.000
+4	russell senate office building	-80.0083	40.4488	SalenaZitoTrib	2015	61	1	17	0.000
+4	russell senate office building	-80.0083	40.4488	SalenaZitoTrib	2015	61	1	17	0.000
+0	Da Burgh	-80.0050	40.4429	Football_ma	2015	187	1	5	0.000
+0	Da Burgh	-80.0050	40.4429	Football_ma	2015	187	1	5	0.000
+0	Da Burgh	-80.0050	40.4429	Football_ma	2015	187	1	5	0.000
+0	Da Burgh	-80.0050	40.4429	Football_ma	2015	187	1	5	0.000
+0	Da Burgh	-80.0050	40.4429	Football_ma	2015	187	1	5	0.000
+0	Da Burgh	-80.0050	40.4429	Football_ma	2015	187	1	5	0.000
+0	Da Burgh	-80.0050	40.4429	Football_ma	2015	187	1	5	0.000
+0	Da Burgh	-80.0050	40.4429	Football_ma	2015	187	1	5	0.000
+13	Monongahela Incline. Pittsburgh, PA	-80.0059	40.4313	ctrabs8729	2014	55	1	21	0.000
+3	10th St. Bridge	-79.9885	40.4297	chintankamin	2015	179	0	21	0.000
+1	William Pitt Union	-79.9548	40.4435	DreanaKennedy	2015	265	2	16	0.000
+1	William Pitt Union	-79.9548	40.4435	Pitt_CLASA	2015	56	3	10	0.000
+1	William Pitt Union	-79.9548	40.4435	DreanaKennedy	2015	265	2	16	0.000
+6	16 Th Street Bridge	-79.9887	40.4498	JoshLouie	2014	93	4	21	0.000
+1	Carnegie Music Hall	-79.9513	40.4432	mattgalando	2015	178	6	13	0.000
+3	Phillips Elementary School	-79.9785	40.4278	remingtonbrooks	2014	131	0	3	0.000
+0	on a roof somewhere	-80.0013	40.4434	KaitlinParente	2015	183	4	2	0.000
+0	on a roof somewhere	-80.0013	40.4434	KaitlinParente	2015	183	4	2	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	chintankamin	2015	199	6	0	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	mommyna77	2015	308	3	21	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	mommyna77	2015	308	3	21	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	JoshLouie	2015	61	1	23	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	JoshLouie	2015	61	1	23	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	DGraff3220	2015	244	2	20	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	DGraff3220	2015	244	2	20	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	chintankamin	2015	199	6	0	0.000
+4	Three Rivers Heritage Trail	-80.0028	40.4469	chintankamin	2015	199	6	0	0.000
+0	Thayer Hall	-80.0021	40.4390	theBee_word	2014	33	0	22	0.000
+0	Thayer Hall	-80.0021	40.4390	theBee_word	2014	33	0	22	0.000
+0	Thayer Hall	-80.0021	40.4390	theBee_word	2014	33	0	22	0.000
+16	Tamari	-79.9661	40.4645	timorlang	2014	302	3	21	0.000
+16	Tamari	-79.9661	40.4645	timorlang	2014	76	1	19	0.000
+16	Tamari	-79.9661	40.4645	timorlang	2014	302	3	21	0.000
+16	Tamari	-79.9661	40.4645	timorlang	2014	76	1	19	0.000
+0	Nola On The Square	-80.0029	40.4410	Besser89	2014	312	6	4	0.000
+4	North Shore (Pittsburgh	-80.0090	40.4470	_YoureOnTV	2015	250	1	1	0.000
+6	Wholey's Fish Market	-79.9859	40.4501	Andy1Volz	2014	65	4	17	0.000
+2	Duquesne University	-79.9905	40.4368	diannaconte	2015	10	6	7	0.000
+2	Duquesne University	-79.9905	40.4368	deannadicesere	2015	245	3	23	0.000
+2	Duquesne University	-79.9905	40.4368	DateDetectives	2014	147	2	12	0.000
+2	Duquesne University	-79.9905	40.4368	ericabizjak	2015	85	4	0	0.000
+2	Duquesne University	-79.9905	40.4368	_mikexlynch	2015	76	2	16	0.000
+2	Duquesne University	-79.9905	40.4368	_mikexlynch	2015	76	2	16	0.000
+2	Duquesne University	-79.9905	40.4368	deannadicesere	2015	245	3	23	0.000
+2	Duquesne University	-79.9905	40.4368	ericabizjak	2015	85	4	0	0.000
+2	Duquesne University	-79.9905	40.4368	ericabizjak	2015	85	4	0	0.000
+2	Duquesne University	-79.9905	40.4368	ayeitscass_	2015	80	6	16	0.000
+3	Santa is coming to town	-79.9782	40.4286	BenzaBurgh	2014	278	0	3	0.000
+13	On the T	-80.0062	40.4342	ahmadrakwad	2015	247	5	23	0.000
+18	Stack'd	-79.9350	40.4512	dimascion	2014	57	3	4	0.000
+18	Stack'd	-79.9350	40.4512	dimascion	2014	57	3	4	0.000
+8	The Pete	-79.9620	40.4440	kidaruss	2015	120	4	11	0.000
+1	Bigelow Boulevard	-79.9537	40.4434	JoshLouie	2014	98	2	17	0.000
+1	Bigelow Boulevard	-79.9537	40.4434	JoshLouie	2014	98	2	17	0.000
+3	Beehive Coffeehouse	-79.9841	40.4289	senatorCK	2014	162	3	15	0.000
+3	Beehive Coffeehouse	-79.9841	40.4289	senatorCK	2014	162	3	15	0.000
+5	Steelers Heinz Stadium	-80.0128	40.4455	_halftree	2015	247	5	0	0.000
+5	Steelers Heinz Stadium	-80.0128	40.4455	mackskyy	2015	235	0	21	0.000
+6	Strip District, Pittsburgh_2	-79.9838	40.4527	SamArthrell	2014	361	6	18	0.000
+6	Strip District, Pittsburgh_1	-79.9850	40.4500	KeepPghDope	2015	306	1	3	0.000
+6	Strip District, Pittsburgh_1	-79.9850	40.4500	navajoo__	2015	241	6	19	0.000
+6	Strip District, Pittsburgh_1	-79.9850	40.4500	johndeneffff	2015	241	6	21	0.000
+6	Strip District, Pittsburgh_1	-79.9850	40.4500	navajoo__	2015	241	6	19	0.000
+6	Strip District, Pittsburgh_1	-79.9850	40.4500	johndeneffff	2015	241	6	21	0.000
+0	Penn Commons	-80.0028	40.4426	sherylrosem	2015	73	6	21	0.000
+0	Penn Commons	-80.0028	40.4426	sherylrosem	2015	73	6	21	0.000
+10	Carnegie Mellon School of Art	-79.9428	40.4419	buchino	2014	116	6	17	0.000
+1	Hilton Garden Inn Pittsburgh University Place	-79.9594	40.4394	DreanaKennedy	2015	263	0	23	0.000
+0	Piatt Place	-80.0000	40.4409	BenzaBurgh	2014	93	4	1	0.000
+0	Piatt Place	-80.0000	40.4409	BenzaBurgh	2014	93	4	1	0.000
+10	The Mac & Gold Truck	-79.9443	40.4455	corey_tags	2014	278	0	16	0.000
+10	The Mac & Gold Truck	-79.9443	40.4455	corey_tags	2014	278	0	16	0.000
+9	Craig Distributing	-79.9524	40.4521	mommyna77	2014	177	4	21	0.000
+3	Thunder Dome	-79.9715	40.4280	Jordankammerer	2014	114	4	3	0.000
+0	U.S.X. Tower	-79.9953	40.4410	_JenniferLynne	2015	193	0	16	0.000
+0	U.S.X. Tower	-79.9953	40.4410	_JenniferLynne	2015	193	0	16	0.000
+0	U.S.X. Tower	-79.9953	40.4410	_JenniferLynne	2015	193	0	16	0.000
+0	Downtown Pgh_2	-79.9999	40.4422	chuck629	2014	165	6	16	0.000
+0	Downtown Pgh_2	-79.9999	40.4422	DJTMI	2014	153	1	19	0.000
+0	Downtown Pgh_2	-79.9999	40.4422	DJTMI	2014	153	1	19	0.000
+0	Downtown Pgh_2	-79.9999	40.4422	DJTMI	2014	153	1	17	0.000
+0	Downtown Pgh_2	-79.9999	40.4422	DJTMI	2014	153	1	17	0.000
+13	Whim Pgh	-80.0034	40.4323	pschfr	2014	115	5	6	0.000
+0	Downtown Pgh_1	-80.0010	40.4415	luket0ner_	2015	196	3	21	0.000
+0	Downtown Pgh_1	-80.0010	40.4415	luket0ner_	2015	199	6	23	0.000
+0	Downtown Pgh_1	-80.0010	40.4415	mistertug	2014	117	0	0	0.000
+0	Downtown Pgh_1	-80.0010	40.4415	WillisSpencer1	2014	149	4	16	0.000
+0	Downtown Pgh_1	-80.0010	40.4415	luket0ner_	2015	196	3	21	0.000
+0	Downtown Pgh_1	-80.0010	40.4415	mistertug	2014	117	0	0	0.000
+0	Pittsburgh City-County Building	-79.9969	40.4381	BenzaBurgh	2014	113	3	2	0.000
+0	Seviche	-79.9969	40.4439	SalonikaImports	2015	264	1	2	0.000
+6	Pamela's P&G Diner	-79.9836	40.4519	laurenashleyb89	2014	60	6	15	0.000
+6	Pamela's P&G Diner	-79.9836	40.4519	laurenashleyb89	2014	60	6	15	0.000
+6	Pamela's P&G Diner	-79.9836	40.4519	laurenashleyb89	2014	60	6	15	0.000
+6	Pamela's P&G Diner	-79.9836	40.4519	laurenashleyb89	2014	60	6	15	0.000
+6	Pamela's P&G Diner	-79.9836	40.4519	laurenashleyb89	2014	60	6	15	0.000
+2	Brottier Hall	-79.9933	40.4375	the_Nard_Dog_	2015	186	0	10	0.000
+2	Brottier Hall	-79.9933	40.4375	amanda_bigi	2015	242	0	1	0.000
+2	Brottier Hall	-79.9933	40.4375	amanda_bigi	2015	242	0	1	0.000
+4	Allegheny Landing	-80.0037	40.4471	412Turbo	2014	152	0	21	0.000
+6	Penzeys Spices	-79.9853	40.4503	freebirdpaperie	2014	215	0	18	0.000
+6	Bar Marco	-79.9817	40.4526	tashiaw	2014	95	6	15	0.000
+6	Bar Marco	-79.9817	40.4526	zanndtorre	2015	269	6	0	0.000
+6	Bar Marco	-79.9817	40.4526	zanndtorre	2015	269	6	0	0.000
+6	Bar Marco	-79.9817	40.4526	tashiaw	2014	95	6	15	0.000
+6	Bar Marco	-79.9817	40.4526	tashiaw	2014	95	6	15	0.000
+6	Bar Marco	-79.9817	40.4526	tashiaw	2014	95	6	15	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2014	340	6	22	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2014	340	6	22	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2015	10	6	18	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2015	306	1	17	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2014	340	6	22	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2014	340	6	22	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2015	10	6	18	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2014	340	6	22	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2014	340	6	22	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2015	10	6	18	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2015	117	1	16	0.000
+23	Carnegie Library of Homestead	-79.9031	40.4072	techburgh	2015	117	1	15	0.000
+6	Luke Wholey's Wild Alaskan Grille	-79.9828	40.4518	FLAWLESSBYQI	2014	192	5	1	0.000
+6	Luke Wholey's Wild Alaskan Grille	-79.9828	40.4518	BenzaBurgh	2014	132	1	3	0.000
+6	Luke Wholey's Wild Alaskan Grille	-79.9828	40.4518	BenZhye	2015	241	6	23	0.000
+6	Luke Wholey's Wild Alaskan Grille	-79.9828	40.4518	BenZhye	2015	241	6	23	0.000
+2	TGI Friday's - Consol Energy	-79.9901	40.4389	coolc_412	2015	110	1	22	0.259
+13	Sheraton Pittsburgh Hotel at Station Square	-80.0063	40.4348	MHPhysique	2015	247	5	14	0.000
+5	ShalerHeinz Field	-80.0169	40.4477	tfranc_04	2014	298	6	23	0.000
+5	ShalerHeinz Field	-80.0169	40.4477	tfranc_04	2014	298	6	23	0.000
+4	The Warhol: Store	-80.0021	40.4486	BenzaBurgh	2014	81	6	3	0.000
+4	The Warhol: Store	-80.0021	40.4486	BenzaBurgh	2014	81	6	3	0.000
+4	The Warhol: Store	-80.0021	40.4486	BenzaBurgh	2014	81	6	3	0.000
+6	Contemporary Craft	-79.9843	40.4524	NicolePeeler	2015	159	1	17	0.000
+6	Contemporary Craft	-79.9843	40.4524	NicolePeeler	2015	159	1	17	0.000
+6	Contemporary Craft	-79.9843	40.4524	NicolePeeler	2015	159	1	17	0.000
+6	Liberty & 25th Ave	-79.9788	40.4537	jrmpix	2014	87	5	16	0.362
+2	City View Apartments	-79.9864	40.4401	ALi__Jawad	2015	281	4	18	0.000
+2	City View Apartments	-79.9864	40.4401	ALi__Jawad	2015	281	4	18	0.000
+2	City View Apartments	-79.9864	40.4401	ALi__Jawad	2015	281	4	18	0.000
+1	Bates Hill Apartments	-79.9527	40.4391	NJLansberry	2015	115	6	1	0.000
+1	Bates Hill Apartments	-79.9527	40.4391	NJLansberry	2015	115	6	1	0.000
+0	Three Rivers art Festival	-80.0034	40.4416	DANImals16	2015	161	3	1	0.348
+5	Tilted Kilt Pittsburgh	-80.0108	40.4459	SevTST	2014	111	1	22	0.000
+5	Tilted Kilt Pittsburgh	-80.0108	40.4459	SevTST	2014	111	1	22	0.000
+5	Tilted Kilt Pittsburgh	-80.0108	40.4459	campuscop2003	2015	284	0	21	0.000
+13	Just Ducky Tours	-80.0049	40.4338	JoeCal1969	2015	178	6	16	0.000
+3	Lava Lounge	-79.9744	40.4283	JohnnyStLethal	2014	303	4	0	0.000
+3	Lava Lounge	-79.9744	40.4283	JohnnyStLethal	2014	303	4	0	0.000
+3	Lava Lounge	-79.9744	40.4283	JohnnyStLethal	2014	303	4	0	0.000
+3	Lava Lounge	-79.9744	40.4283	JohnnyStLethal	2014	303	4	0	0.000
+6	IVY Pittsburgh	-79.9851	40.4509	412Turbo	2014	131	0	4	0.000
+6	IVY Pittsburgh	-79.9851	40.4509	djtmac412	2014	179	6	2	0.000
+6	IVY Pittsburgh	-79.9851	40.4509	412Turbo	2014	131	0	4	0.000
+6	IVY Pittsburgh	-79.9851	40.4509	412Turbo	2014	131	0	4	0.000
+6	IVY Pittsburgh	-79.9851	40.4509	412Turbo	2014	131	0	4	0.000
+12	Aerie	-79.9666	40.4274	emitche11	2015	44	5	19	0.000
+3	Pizza Sola_2	-79.9834	40.4289	corey_briggs	2014	42	2	2	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	wojzeh	2014	307	1	1	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	wojzeh	2014	307	1	1	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	aternazio	2015	72	5	15	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	willrupp	2014	189	2	16	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	wojzeh	2014	307	1	1	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	aternazio	2015	72	5	15	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	wojzeh	2014	307	1	1	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	DennisVu_	2015	183	4	21	0.000
+1	Saint Paul Cathedral	-79.9500	40.4472	DennisVu_	2015	183	4	21	0.000
+5	Heniz Feild	-80.0166	40.4470	SamBarall	2015	263	0	22	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+4	Heintz Field-Pittsburgh	-80.0085	40.4474	Teylore	2015	274	4	23	0.000
+6	Penn Ave Fish Company	-79.9820	40.4524	jrmpix	2014	97	1	16	0.000
+15	Plum Pan-Asian Kitchen	-79.9251	40.4594	jonathanedean	2014	55	1	23	0.000
+15	Plum Pan-Asian Kitchen	-79.9251	40.4594	jonathanedean	2014	55	1	23	0.000
+5	Art Rooney Ave	-80.0139	40.4458	LongQHong	2014	311	5	10	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	crodesch	2015	199	6	17	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	acideater	2014	316	3	17	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	kiralucille	2015	54	1	1	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	arniej_15	2015	310	5	20	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	MJanu09	2015	273	3	18	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	jeffcrossman	2014	56	2	22	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	josephcc	2014	89	0	17	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	NickNickwangxc	2015	239	4	12	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	MJanu09	2015	273	3	18	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	KevKloudMusic	2015	77	3	5	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	KevKloudMusic	2015	77	3	5	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	MJanu09	2015	273	3	18	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	onedrunkboy	2014	103	0	14	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	MJanu09	2015	273	3	18	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	giulesmarkz	2015	285	1	22	0.000
+10	Carnegie Mellon University	-79.9426	40.4437	NickNickwangxc	2015	239	4	12	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	NadineLister	2015	201	1	2	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	Ritakrx	2014	172	6	20	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	k_helmick97	2014	141	3	3	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	Katie_1226	2015	270	0	1	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	angelblas17	2014	247	4	18	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	Teylore	2014	193	6	23	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	joelongwashere	2015	87	6	19	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	michele_welker	2015	240	5	22	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	joelongwashere	2015	87	6	19	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	joelongwashere	2015	87	6	19	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	Katie_1226	2015	270	0	1	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	ttsvegas	2015	14	3	16	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	GinaReckart	2014	144	6	22	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	SexyAndreaQ	2015	227	6	3	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	SexyAndreaQ	2015	227	6	4	0.000
+13	Gateway Clipper Fleet	-80.0069	40.4361	michele_welker	2015	240	5	22	0.000
+8	UPMC Presbyterian Hospital	-79.9602	40.4427	bhoover76	2014	126	2	13	0.000
+0	Arcade Comedy Theater	-79.9985	40.4428	aaronkleiber	2014	193	6	16	0.333
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	svnanadiego	2014	126	2	0	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	notixx	2015	143	6	3	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	thejvo	2014	192	5	2	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	DJTMI	2015	186	0	21	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	DJTMI	2015	186	0	21	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	TOReese	2015	193	0	0	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	TOReese	2015	193	0	0	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	veronicanventre	2015	283	6	22	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	veronicanventre	2015	283	6	22	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	DJTMI	2015	186	0	21	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	DJTMI	2015	186	0	21	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	DJTMI	2015	186	0	21	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	DJTMI	2015	186	0	21	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	DJTMI	2015	186	0	21	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	DJTMI	2015	186	0	21	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	TOReese	2015	193	0	0	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	thejvo	2014	192	5	2	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	veronicanventre	2015	283	6	22	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	veronicanventre	2015	283	6	22	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	thejvo	2014	192	5	2	0.000
+12	Hofbrauhaus Pittsburgh	-79.9645	40.4287	svnanadiego	2014	126	2	0	0.000
+2	hub	-79.9851	40.4372	BLASTED_	2015	78	4	3	0.000
+1	Pizza Sola_1	-79.9579	40.4413	DearTristaMaria	2014	146	1	1	0.000
+3	The Milk Shake Factory	-79.9818	40.4289	techburgh	2015	146	2	22	-0.221
+3	The Milk Shake Factory	-79.9818	40.4289	techburgh	2015	146	2	22	-0.221
+3	The Milk Shake Factory	-79.9818	40.4289	BridgetteAlexis	2014	67	6	22	-0.221
+3	The Milk Shake Factory	-79.9818	40.4289	BridgetteAlexis	2014	67	6	22	-0.221
+3	The Milk Shake Factory	-79.9818	40.4289	techburgh	2015	146	2	22	-0.221
+16	Franktuary	-79.9641	40.4670	SilasOrteza	2014	113	3	21	0.000
+16	Franktuary	-79.9641	40.4670	SilasOrteza	2014	113	3	21	0.000
+3	Club Cafe	-79.9865	40.4289	DrZpresents	2015	111	2	21	0.000
+3	Club Cafe	-79.9865	40.4289	DrZpresents	2015	45	6	3	0.000
+0	Sienna Mercato	-79.9964	40.4441	JoshLouie	2015	60	0	5	0.000
+0	Sienna Mercato	-79.9964	40.4441	NicholasPoliti	2014	223	1	2	0.000
+0	Sienna Mercato	-79.9964	40.4441	johntarasi	2014	320	0	2	0.000
+0	Sienna Mercato	-79.9964	40.4441	JoshLouie	2014	172	6	3	0.000
+0	Sienna Mercato	-79.9964	40.4441	JoshLouie	2015	60	0	5	0.000
+1	Pittsburgh International Children's Festival	-79.9519	40.4426	badley_bratt	2014	136	5	17	0.348
+1	reunited	-79.9556	40.4362	diannaconte	2015	25	0	4	0.000
+2	Washington Plaza	-79.9867	40.4406	ThatNerdBastard	2015	178	6	23	0.000
+15	Casa Rasta - East Liberty	-79.9254	40.4602	Local_pgh	2014	288	3	22	0.362
+15	Casa Rasta - East Liberty	-79.9254	40.4602	Local_pgh	2014	288	3	22	0.362
+3	Lin's Asian Fusion	-79.9768	40.4286	gabri_pierre	2014	290	5	23	0.000
+6	Prague	-79.9837	40.4542	mikebrono	2014	286	1	1	0.000
+6	Prague	-79.9837	40.4542	mikebrono	2014	286	1	1	0.000
+6	Prague	-79.9837	40.4542	mikebrono	2014	286	1	1	0.000
+6	Prague	-79.9837	40.4542	mikebrono	2014	286	1	1	0.000
+6	DeLuca's Diner	-79.9837	40.4515	brandon_curtis	2015	305	0	18	0.000
+6	DeLuca's Diner	-79.9837	40.4515	brandon_curtis	2015	305	0	18	0.000
+10	Carnegie Mellon School of Computer Science - SCS	-79.9444	40.4437	kartikperisetla	2015	26	1	22	0.000
+0	The Art Institute of Pittsburgh	-79.9995	40.4376	BenzaBurgh	2014	94	5	5	0.000
+0	The Art Institute of Pittsburgh	-79.9995	40.4376	Alexa2freeman	2014	309	3	21	0.000
+0	The Art Institute of Pittsburgh	-79.9995	40.4376	Alexa2freeman	2014	309	3	21	0.000
+0	The Art Institute of Pittsburgh	-79.9995	40.4376	Alexa2freeman	2014	309	3	21	0.000
+9	Earth	-79.9511	40.4526	petewargo	2015	225	4	14	0.000
+0	Dick's Sporting Goods Pittsburgh Marathon Finish Line	-80.0050	40.4396	La1289	2014	124	0	16	0.000
+0	Dick's Sporting Goods Pittsburgh Marathon Finish Line	-80.0050	40.4396	La1289	2014	124	0	16	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	lucastcmh	2015	19	1	17	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	Kobaltblu13	2015	46	0	21	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	JakeEmber	2014	328	1	22	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	artbaselcroptop	2014	200	6	20	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	Kobaltblu13	2015	46	0	21	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	KevinPopovic	2015	53	0	18	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	inumillati	2015	85	4	21	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	AndyBNYC	2015	169	4	17	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	inumillati	2015	85	4	21	0.000
+1	Carnegie Museum of Art	-79.9494	40.4436	inumillati	2015	85	4	21	0.000
+6	Cioppino	-79.9829	40.4542	BenzaBurgh	2014	361	6	13	0.000
+6	Cioppino	-79.9829	40.4542	BenzaBurgh	2014	361	6	13	0.000
+3	The Strip_1	-79.9782	40.4287	BenzaBurgh	2014	284	6	22	0.000
+6	The Strip_2	-79.9832	40.4517	chuck629	2015	262	6	16	0.000
+6	The Strip_2	-79.9832	40.4517	Amanda__2017	2015	246	4	14	0.000
+0	Three River's Arts Festival	-80.0055	40.4416	bredamiani	2014	161	2	19	0.348
+6	Roland's Seafood Grill	-79.9844	40.4508	La1289	2014	186	6	1	0.000
+6	Roland's Seafood Grill	-79.9844	40.4508	carriejac1	2015	73	6	22	0.000
+6	Roland's Seafood Grill	-79.9844	40.4508	carriejac1	2015	73	6	22	0.000
+3	Wings Over Pittsburgh	-79.9686	40.4277	MsCHARISEbaby	2014	221	6	6	0.000
+18	Shadyside Inn Suites	-79.9340	40.4487	EVLTNssoulbro	2015	3	6	20	0.000
+18	Shadyside Inn Suites	-79.9340	40.4487	EVLTNssoulbro	2015	3	6	20	0.000
+1	The Porch at Schenley	-79.9530	40.4429	AlexandruAleman	2015	277	0	20	0.000
+1	The Porch at Schenley	-79.9530	40.4429	AlexandruAleman	2015	277	0	20	0.000
+1	The Porch at Schenley	-79.9530	40.4429	AlexandruAleman	2015	277	0	20	0.000
+1	The Porch at Schenley	-79.9530	40.4429	AlexandruAleman	2015	277	0	20	0.000
+10	Margaret Morrison Carnegie Hall	-79.9412	40.4421	erydayzaHOLiday	2014	35	2	2	0.000
+0	Two PNC Plaza	-80.0008	40.4417	pgh1934	2015	310	5	14	0.000
+6	Pittsburgh Opera	-79.9797	40.4533	Cas_lyn	2015	270	0	20	0.000
+6	Pittsburgh Opera	-79.9797	40.4533	Cas_lyn	2015	270	0	20	0.000
+6	Pittsburgh Opera	-79.9797	40.4533	Cas_lyn	2015	270	0	20	0.000
+5	Miniature Railroad & Village	-80.0184	40.4460	Charizardi	2014	344	3	15	0.000
+5	Miniature Railroad & Village	-80.0184	40.4460	Charizardi	2014	344	3	15	0.000
+5	Miniature Railroad & Village	-80.0184	40.4460	Charizardi	2014	344	3	15	0.000
+5	Miniature Railroad & Village	-80.0184	40.4460	Charizardi	2014	344	3	15	0.000
+2	Duquesne Student Union	-79.9909	40.4368	GhadiTaY	2014	23	4	21	0.000
+0	Mellon Garage	-79.9978	40.4409	JoshLouie	2015	182	3	21	0.000
+0	Mellon Garage	-79.9978	40.4409	JoshLouie	2015	182	3	21	0.000
+4	Federal Street_2	-80.0042	40.4478	JoeCal1969	2015	180	1	2	0.000
+4	Federal Street_2	-80.0042	40.4478	JoeCal1969	2015	180	1	2	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	JoshLouie	2014	214	6	21	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	Liberryterry	2015	28	3	0	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	Liberryterry	2015	28	3	0	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	Chiusy	2015	307	2	13	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	CodySiwicki	2014	189	2	15	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	Jay_MileHigh	2014	219	4	2	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	DJTMI	2014	92	3	21	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	CodySiwicki	2014	189	2	15	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	Jay_MileHigh	2014	219	4	2	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	DJTMI	2014	92	3	21	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	scottdavidcohen	2014	240	4	3	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	DJTMI	2014	92	3	21	0.000
+4	Roberto Clemente Bridge_1	-80.0033	40.4456	Besser89	2015	242	0	17	0.000
+18	Le Mardi Gras	-79.9347	40.4513	ATSmithJr	2015	284	0	1	0.000
+18	Le Mardi Gras	-79.9347	40.4513	ATSmithJr	2015	284	0	1	0.000
+4	Roberto Clemente Bridge_2	-80.0032	40.4449	AppleGuru22	2014	95	6	19	0.000
+4	Roberto Clemente Bridge_2	-80.0032	40.4449	AppleGuru22	2014	95	6	19	0.000
+4	Roberto Clemente Bridge_2	-80.0032	40.4449	BenzaBurgh	2014	81	6	3	0.000
+4	General Robinson & Federal	-80.0044	40.4482	JoshLouie	2014	176	3	20	0.000
+13	Monogahela Incline	-80.0048	40.4343	D_rayyyyyy	2014	298	6	3	0.000
+6	Thin Man Sandwich Shop	-79.9839	40.4521	werbette	2014	196	2	22	0.000
+6	Thin Man Sandwich Shop	-79.9839	40.4521	werbette	2014	196	2	22	0.000
+13	The Duquesne Incline_1	-80.0060	40.4314	NicoleACasio	2014	207	6	17	0.000
+13	The Duquesne Incline_1	-80.0060	40.4314	heyyitsjared	2014	242	6	2	0.000
+13	The Duquesne Incline_1	-80.0060	40.4314	BenzaBurgh	2014	297	5	2	0.000
+13	The Duquesne Incline_1	-80.0060	40.4314	BenzaBurgh	2014	297	5	2	0.000
+13	The Duquesne Incline_1	-80.0060	40.4314	josheanderson	2014	336	2	16	0.000
+3	East Carson Street Pittsburgh	-79.9819	40.4286	LegacyAvenue	2015	227	6	0	0.000
+3	East Carson Street Pittsburgh	-79.9819	40.4286	LegacyAvenue	2015	227	6	0	0.000
+3	East Carson Street Pittsburgh	-79.9819	40.4286	Daanielleee_1	2015	68	1	22	0.000
+0	Amtrak Station	-79.9924	40.4447	Liberryterry	2015	29	4	20	0.000
+0	Amtrak Station	-79.9924	40.4447	DJTMI	2014	132	1	23	0.000
+0	Amtrak Station	-79.9924	40.4447	DJTMI	2014	132	1	23	0.000
+0	Amtrak Station	-79.9924	40.4447	DJTMI	2014	132	1	23	0.000
+0	Amtrak Station	-79.9924	40.4447	DJTMI	2014	133	2	0	0.000
+0	Amtrak Station	-79.9924	40.4447	DJTMI	2014	133	2	0	0.000
+0	Amtrak Station	-79.9924	40.4447	cgranniss08	2014	287	2	11	0.000
+0	Amtrak Station	-79.9924	40.4447	DJTMI	2014	133	2	0	0.000
+0	Amtrak Station	-79.9924	40.4447	DJTMI	2014	132	1	23	0.000
+0	Amtrak Station	-79.9924	40.4447	cgranniss08	2014	287	2	11	0.000
+0	Amtrak Station	-79.9924	40.4447	DJTMI	2014	132	1	23	0.000
+0	S.W. Randall Toyes and Giftes	-79.9969	40.4422	davidbowlin	2014	354	6	17	0.000
+0	S.W. Randall Toyes and Giftes	-79.9969	40.4422	davidbowlin	2014	354	6	17	0.000
+0	S.W. Randall Toyes and Giftes	-79.9969	40.4422	davidbowlin	2014	354	6	17	0.000
+0	S.W. Randall Toyes and Giftes	-79.9969	40.4422	davidbowlin	2014	354	6	17	0.000
+13	Bar Louie Station Square	-80.0049	40.4346	dsandherr	2014	145	0	18	0.000
+0	S Q U A D	-80.0032	40.4442	Hilla_Rae	2015	143	6	23	0.000
+0	At the corner of bad&bitches	-80.0013	40.4386	AlenaLancia	2015	79	5	23	0.000
+0	At the corner of bad&bitches	-80.0013	40.4386	AlenaLancia	2015	79	5	23	0.000
+0	At the corner of bad&bitches	-80.0013	40.4386	AlenaLancia	2015	79	5	23	0.000
+0	At the corner of bad&bitches	-80.0013	40.4386	AlenaLancia	2015	80	6	0	0.000
+12	The Cheesecake Factory	-79.9655	40.4281	CaseyBence	2015	206	6	23	0.000
+12	The Cheesecake Factory	-79.9655	40.4281	AdamVictoria114	2015	305	0	19	0.000
+12	The Cheesecake Factory	-79.9655	40.4281	sophiajbrooks	2014	327	0	7	0.000
+12	The Cheesecake Factory	-79.9655	40.4281	maxvolkguitar	2014	338	4	22	0.000
+12	The Cheesecake Factory	-79.9655	40.4281	DrHazmi	2015	38	6	19	0.000
+12	The Cheesecake Factory	-79.9655	40.4281	DrHazmi	2015	38	6	19	0.000
+12	The Cheesecake Factory	-79.9655	40.4281	xxashleyhoakxx	2015	283	6	22	0.000
+12	The Cheesecake Factory	-79.9655	40.4281	xxashleyhoakxx	2015	283	6	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	camweinert	2015	199	6	17	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	gillygillyboy	2015	202	2	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	NJLansberry	2015	205	5	3	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	MaKaylaBrownn	2015	307	2	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	oooojoooo	2015	242	0	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	DarylkMapson	2015	151	0	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	des_santo	2015	151	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	302	4	19	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	302	4	14	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Chiusy	2015	307	2	13	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	nicolllekellly	2015	305	0	0	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	mylifeasviols	2015	305	0	1	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	wxrman	2015	305	0	17	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	wxrman	2015	305	0	17	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	wxrman	2015	305	0	17	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	vleaumeus1	2015	305	0	18	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	307	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	308	3	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	308	3	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	309	4	18	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	306	1	18	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Chiusy	2015	306	1	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	DarylkMapson	2015	151	0	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	des_santo	2015	151	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Conk36	2015	263	0	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Revo_lutionMan	2015	265	2	4	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	tessfalcone	2015	267	4	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	asouljalykeme	2015	268	5	3	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	yungxtuna	2015	268	5	13	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	tone724	2015	269	6	6	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	tone724	2015	269	6	6	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	tone724	2015	269	6	6	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	hannah_mowod	2015	269	6	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	krisciesielka	2015	269	6	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	KadieCarrigan	2015	270	0	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	channing563	2015	270	0	5	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	kaittmorris	2015	270	0	15	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	zuni315	2015	270	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	zuni315	2015	270	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	hbswampy	2015	271	1	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	272	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	272	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	dj_two	2015	273	3	4	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	273	3	19	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	274	4	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	275	5	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	beefstu325	2015	65	5	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	emmapenrod	2014	187	0	1	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	theramirez21	2015	196	3	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	george_birman	2015	47	1	13	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	jbalinski	2015	68	1	0	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	smithwhitney	2014	82	0	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	stephenwildenyc	2014	100	4	17	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	marykleigerrr	2014	148	3	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	C_Treaddds	2014	157	5	17	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Lysssaaa_xo	2014	180	0	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	DrDMBusch_DMDPA	2014	244	1	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	acideater	2014	319	6	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	310	5	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	d7ooom184	2015	116	0	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	mattmetrovich	2015	117	1	0	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	mattmetrovich	2015	118	2	19	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Joriiea	2015	257	1	18	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	WholeRen	2015	300	2	15	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	danny_pods	2015	87	6	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Sdronez	2015	241	6	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	HaidyAlva	2015	251	2	0	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	theramirez21	2015	196	3	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	272	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	272	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	dj_two	2015	273	3	4	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	273	3	19	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	274	4	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	275	5	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	jennadiplacido	2015	277	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	mgamberdelli3	2015	278	1	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	daniellel33x0	2015	278	1	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	allerme	2015	282	5	13	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	ATSmithJr	2015	283	6	11	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	kajalpatel97	2015	283	6	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	dnywlsh	2015	76	2	12	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	dnywlsh	2015	76	2	12	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	zuni315	2015	270	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	zuni315	2015	270	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	hbswampy	2015	271	1	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	272	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	272	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	dj_two	2015	273	3	4	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	273	3	19	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	274	4	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	275	5	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	jennadiplacido	2015	277	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	mgamberdelli3	2015	278	1	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	daniellel33x0	2015	278	1	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	allerme	2015	282	5	13	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	ATSmithJr	2015	283	6	11	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	beefstu325	2015	65	5	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	emmapenrod	2014	187	0	1	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	DarylkMapson	2015	151	0	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	des_santo	2015	151	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	jenwarner2012	2014	323	3	8	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	TinaQuinnMarie	2014	185	5	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	danny_pods	2015	87	6	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	danny_pods	2015	87	6	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	d7ooom184	2015	116	0	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	mattmetrovich	2015	117	1	0	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	tessfalcone	2015	267	4	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	asouljalykeme	2015	268	5	3	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	yungxtuna	2015	268	5	13	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	tone724	2015	269	6	6	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	tone724	2015	269	6	6	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	tone724	2015	269	6	6	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	hannah_mowod	2015	269	6	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	krisciesielka	2015	269	6	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	KadieCarrigan	2015	270	0	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	channing563	2015	270	0	5	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	kaittmorris	2015	270	0	15	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	zuni315	2015	270	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	zuni315	2015	270	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	hbswampy	2015	271	1	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	272	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	272	2	16	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	dj_two	2015	273	3	4	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	273	3	19	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	274	4	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	275	5	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	jennadiplacido	2015	277	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Joriiea	2015	257	1	18	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	274	4	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	LegacyAvenue	2015	275	5	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	jennadiplacido	2015	277	0	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	mgamberdelli3	2015	278	1	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	daniellel33x0	2015	278	1	23	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	allerme	2015	282	5	13	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	ATSmithJr	2015	283	6	11	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	kajalpatel97	2015	283	6	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	JacobRoberts_	2015	284	0	17	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	awmerchant	2015	285	1	0	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	sky_xutianyu	2015	285	1	4	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	liamrodgers3	2015	285	1	19	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	smithjo	2015	285	1	0	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	alharethAj	2014	196	2	18	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Urbindex	2014	206	5	17	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	mani_balan	2014	214	6	15	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	jenwarner2012	2014	323	3	8	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	bhhenrique	2014	242	6	13	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	george_birman	2015	46	0	15	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	oooojoooo	2015	242	0	2	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Chiusy	2015	306	1	21	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	rnfgio	2015	235	0	22	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Sdronez	2015	241	6	20	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	Domi_DooWop	2015	79	5	15	0.000
+21	Pittsburgh, Pennsylvania_1	-79.9773	40.4414	smithjo	2015	285	1	0	0.000
+0	Pittsburgh, Pennsylvania_2	-79.9961	40.4406	trelles09	2014	362	0	3	0.000
+0	Pittsburgh, Pennsylvania_2	-79.9961	40.4406	trelles09	2014	362	0	3	0.000
+1	Saint Nicholas Greek Orthodox Cathedral, Pittsburgh, PA	-79.9499	40.4449	timorlang	2014	121	4	16	0.000
+1	Saint Nicholas Greek Orthodox Cathedral, Pittsburgh, PA	-79.9499	40.4449	timorlang	2014	144	6	22	0.000
+1	Saint Nicholas Greek Orthodox Cathedral, Pittsburgh, PA	-79.9499	40.4449	timorlang	2014	144	6	22	0.000
+0	Theater Square Parking Garage in Downtown Pittsburgh	-80.0009	40.4432	JohnnieMetal	2015	239	4	4	0.000
+0	Theater Square Parking Garage in Downtown Pittsburgh	-80.0009	40.4432	JohnnieMetal	2015	239	4	4	0.000
+3	Hookah Bookah	-79.9694	40.4277	Khalaf22	2014	208	0	1	0.000
+8	Petersen Events Center	-79.9621	40.4442	senatorCK	2014	365	3	0	0.000
+8	Petersen Events Center	-79.9621	40.4442	senatorCK	2014	365	3	0	0.000
+3	Primanti Brothers_2	-79.9889	40.4300	gillygillyboy	2015	202	2	21	0.000
+0	Primanti Brothers_1	-80.0027	40.4403	BenzaBurgh	2014	83	1	17	0.000
+0	Primanti Brothers_1	-80.0027	40.4403	BenzaBurgh	2014	83	1	17	0.000
+0	Primanti Brothers_1	-80.0027	40.4403	BenzaBurgh	2014	83	1	17	0.000
+5	Downtown/ Northshore	-80.0131	40.4450	01sweetworld	2015	182	3	4	0.000
+5	Downtown/ Northshore	-80.0131	40.4450	01sweetworld	2015	182	3	4	0.000
+6	Wigle Whiskey	-79.9813	40.4544	CaznRubyzDad	2014	108	5	23	0.000
+6	Wigle Whiskey	-79.9813	40.4544	CaznRubyzDad	2014	108	5	23	0.000
+6	Wigle Whiskey	-79.9813	40.4544	CaznRubyzDad	2014	108	5	23	0.000
+6	Wigle Whiskey	-79.9813	40.4544	CaznRubyzDad	2014	108	5	23	0.000
+6	Wigle Whiskey	-79.9813	40.4544	CaznRubyzDad	2014	108	5	23	0.000
+6	Wigle Whiskey	-79.9813	40.4544	JoshLouie	2014	298	6	18	0.000
+6	Wigle Whiskey	-79.9813	40.4544	JoshLouie	2014	298	6	18	0.000
+0	US Steel Tower	-79.9949	40.4407	llobster	2014	121	4	3	0.000
+0	US Steel Tower	-79.9949	40.4407	llobster	2014	121	4	3	0.000
+0	Carnegie Library-Downtown	-79.9974	40.4417	KeepPghDope	2015	306	1	3	0.000
+6	Our Home Cubovia	-79.9856	40.4509	mommyna77	2015	280	3	23	0.000
+6	Our Home Cubovia	-79.9856	40.4509	mommyna77	2015	280	3	23	0.000
+6	Our Home Cubovia	-79.9856	40.4509	mommyna77	2015	280	3	23	0.000
+6	CAVO Restaurant Lounge Nightclub	-79.9845	40.4513	LitoCorpuz	2014	286	1	2	0.000
+6	CAVO Restaurant Lounge Nightclub	-79.9845	40.4513	AnnLaRee	2014	340	6	5	0.000
+6	CAVO Restaurant Lounge Nightclub	-79.9845	40.4513	LitoCorpuz	2014	286	1	2	0.000
+6	CAVO Restaurant Lounge Nightclub	-79.9845	40.4513	LitoCorpuz	2014	286	1	2	0.000
+0	Three Rivers Art Festival Pittsburgh Pa	-80.0058	40.4424	AmyCapComedy	2015	157	6	18	0.286
+0	Three Rivers Art Festival Pittsburgh Pa	-80.0058	40.4424	AmyCapComedy	2015	157	6	18	0.286
+15	Cathedral of Hope	-79.9256	40.4610	iamjocco	2015	110	1	21	0.367
+18	Steel Cactus Mexican Restaurante & Cantina	-79.9335	40.4513	Mally089	2014	124	0	2	0.000
+18	Steel Cactus Mexican Restaurante & Cantina	-79.9335	40.4513	Mally089	2014	124	0	2	0.000
+3	Amazing Cafe	-79.9832	40.4287	Therealmandyy	2015	53	0	15	0.487
+3	Amazing Cafe	-79.9832	40.4287	Andy1Volz	2014	112	2	17	0.487
+3	Amazing Cafe	-79.9832	40.4287	Andy1Volz	2014	112	2	17	0.487
+1	Holland Hall at Pitt	-79.9560	40.4431	ryleighalysonn	2015	237	2	2	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	suzieemanuel	2015	146	2	0	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	Court_Leigh24	2015	277	0	20	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	DrewLudwig	2015	280	3	22	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	Court_Leigh24	2015	277	0	20	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	DrewLudwig	2015	280	3	22	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	suzieemanuel	2015	141	4	0	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	suzieemanuel	2015	146	2	0	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	suzieemanuel	2015	141	4	0	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	Court_Leigh24	2015	277	0	20	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	Court_Leigh24	2015	277	0	20	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	DrewLudwig	2015	280	3	22	0.000
+4	Pittsburgh Pirates Baseball - PNC Park	-80.0059	40.4466	suzieemanuel	2015	141	4	0	0.000
+5	Police Memorial	-80.0135	40.4450	BCardis1	2015	271	1	11	0.000
+5	Police Memorial	-80.0135	40.4450	BCardis1	2015	271	1	11	0.000
+5	Police Memorial	-80.0135	40.4450	BCardis1	2015	271	1	11	0.000
+5	Carnegie Science Center	-80.0182	40.4459	tjmkgray	2015	59	6	19	0.000
+5	Carnegie Science Center	-80.0182	40.4459	danh1126	2015	270	0	14	0.000
+5	Carnegie Science Center	-80.0182	40.4459	starcat81	2014	97	1	20	0.000
+5	Carnegie Science Center	-80.0182	40.4459	starcat81	2014	97	1	20	0.000
+5	Carnegie Science Center	-80.0182	40.4459	Juunoswow	2014	99	3	17	0.000
+5	Carnegie Science Center	-80.0182	40.4459	tjmkgray	2015	59	6	19	0.000
+5	Carnegie Science Center	-80.0182	40.4459	starcat81	2014	97	1	20	0.000
+5	Carnegie Science Center	-80.0182	40.4459	emily4732	2015	38	6	0	0.000
+5	Carnegie Science Center	-80.0182	40.4459	emily4732	2015	19	1	19	0.000
+5	Carnegie Science Center	-80.0182	40.4459	emily4732	2015	38	6	0	0.000
+5	Carnegie Science Center	-80.0182	40.4459	emily4732	2015	19	1	19	0.000
+5	Carnegie Science Center	-80.0182	40.4459	starcat81	2014	97	1	20	0.000
+5	Carnegie Science Center	-80.0182	40.4459	Juunoswow	2014	99	3	17	0.000
+5	Carnegie Science Center	-80.0182	40.4459	tjmkgray	2015	59	6	19	0.000
+5	Carnegie Science Center	-80.0182	40.4459	danh1126	2015	270	0	14	0.000
+6	Primanti Bros_1	-79.9855	40.4508	rrLoganLloyd	2015	156	5	16	0.000
+6	Primanti Bros_1	-79.9855	40.4508	HeathaMarie3490	2015	286	2	15	0.000
+6	Primanti Bros_1	-79.9855	40.4508	becervino	2015	306	1	2	0.000
+6	Primanti Bros_1	-79.9855	40.4508	rrLoganLloyd	2015	156	5	16	0.000
+6	Primanti Bros_1	-79.9855	40.4508	adeltorocs	2014	205	4	0	0.000
+6	Primanti Bros_1	-79.9855	40.4508	BenzaBurgh	2014	276	5	1	0.000
+6	Primanti Bros_1	-79.9855	40.4508	MabeMatt	2014	99	3	18	0.000
+6	Primanti Bros_1	-79.9855	40.4508	joellexawsm	2014	170	4	4	0.000
+6	Primanti Bros_1	-79.9855	40.4508	adeltorocs	2014	205	4	0	0.000
+6	Primanti Bros_1	-79.9855	40.4508	BenzaBurgh	2014	276	5	1	0.000
+6	Primanti Bros_1	-79.9855	40.4508	MabeMatt	2014	99	3	18	0.000
+6	Primanti Bros_1	-79.9855	40.4508	joellexawsm	2014	170	4	4	0.000
+6	Primanti Bros_1	-79.9855	40.4508	joellexawsm	2014	170	4	4	0.000
+6	Primanti Bros_1	-79.9855	40.4508	HeathaMarie3490	2015	286	2	15	0.000
+6	Primanti Bros_1	-79.9855	40.4508	joellexawsm	2014	170	4	4	0.000
+6	Primanti Bros_1	-79.9855	40.4508	joellexawsm	2014	170	4	4	0.000
+6	Primanti Bros_1	-79.9855	40.4508	HeathaMarie3490	2015	286	2	15	0.000
+1	Primanti Bros_2	-79.9569	40.4418	allisin	2015	285	1	14	0.000
+0	InterPark	-80.0048	40.4432	al2o3cr	2014	48	1	16	0.000
+0	InterPark	-80.0048	40.4432	al2o3cr	2014	48	1	16	0.000
+0	Courthouse Tavern	-80.0004	40.4400	Andy1Volz	2014	113	3	16	0.000
+0	Courthouse Tavern	-80.0004	40.4400	Andy1Volz	2014	113	3	16	0.000
+0	Courthouse Tavern	-80.0004	40.4400	Andy1Volz	2014	113	3	16	0.000
+0	Penn Station	-79.9922	40.4442	BenzaBurgh	2014	79	4	14	0.000
+0	Penn Station	-79.9922	40.4442	DJTMI	2014	43	3	20	0.000
+1	The Union Grill	-79.9487	40.4447	PaulFogle	2014	120	3	22	0.000
+1	The Union Grill	-79.9487	40.4447	PaulFogle	2014	120	3	22	0.000
+4	Mullen's Bar & Grill - Pittsburgh	-80.0040	40.4484	Dr_Cynical_Izin	2015	241	6	2	0.000
+4	Mullen's Bar & Grill - Pittsburgh	-80.0040	40.4484	Dr_Cynical_Izin	2015	241	6	2	0.000
+12	Hofbruhaus Pittsburgh	-79.9646	40.4286	bowtieforblaine	2014	111	1	23	0.000
+3	Primanti Brothers South Side	-79.9792	40.4284	ltmiles	2014	306	0	6	0.000
+0	The Verve 360	-80.0024	40.4431	jessbrown	2015	115	6	0	0.000
+6	ALTAR BAR	-79.9868	40.4492	symarasux	2015	203	3	3	0.000
+6	ALTAR BAR	-79.9868	40.4492	johntarasi	2015	18	0	5	0.000
+6	ALTAR BAR	-79.9868	40.4492	benkeen	2014	277	6	1	0.000
+6	ALTAR BAR	-79.9868	40.4492	MayaAnnger412	2015	119	3	0	0.000
+6	ALTAR BAR	-79.9868	40.4492	benkeen	2014	277	6	1	0.000
+6	ALTAR BAR	-79.9868	40.4492	MckenzieYackey	2014	121	4	22	0.000
+6	ALTAR BAR	-79.9868	40.4492	MckenzieYackey	2014	121	4	22	0.000
+6	ALTAR BAR	-79.9868	40.4492	johntarasi	2015	18	0	5	0.000
+6	ALTAR BAR	-79.9868	40.4492	MckenzieYackey	2014	121	4	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	196	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	anaconda_9	2015	265	2	15	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	196	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	1	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	190	4	2	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	190	4	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	1	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	190	4	2	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	190	4	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	196	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	196	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	1	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	190	4	2	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	1	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	1	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	18	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	189	3	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	190	4	2	0.000
+11	Blvd of the Allies	-79.9637	40.4356	LegacyAvenue	2015	190	4	22	0.000
+11	Blvd of the Allies	-79.9637	40.4356	anaconda_9	2015	265	2	15	0.000
+0	Kiddapoloza	-79.9957	40.4458	Jhogue25	2014	88	6	20	0.000
+0	Kiddapoloza	-79.9957	40.4458	Jhogue25	2014	88	6	20	0.000
+0	Kiddapoloza	-79.9957	40.4458	Jhogue25	2014	88	6	20	0.000
+15	Casbah	-79.9249	40.4582	Cupcake2616	2014	171	5	12	0.000
+15	Casbah	-79.9249	40.4582	Cupcake2616	2014	171	5	12	0.000
+15	Casbah	-79.9249	40.4582	Cupcake2616	2014	171	5	12	0.000
+1	Frick Fine Arts Building	-79.9512	40.4417	GideonShils	2015	267	4	18	0.231
+1	Frick Fine Arts Building	-79.9512	40.4417	GideonShils	2015	246	4	20	0.231
+1	Frick Fine Arts Building	-79.9512	40.4417	GideonShils	2015	267	4	18	0.231
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	MattyIkes	2014	241	5	23	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	jbrunie	2014	207	6	20	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	Barrettism	2014	240	4	18	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	Findlayy24	2014	207	6	22	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	MattyIkes	2014	241	5	23	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	jbrunie	2014	207	6	20	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	Barrettism	2014	240	4	18	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	Amanda_Pawluk	2014	187	0	14	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	cjredding76	2014	202	1	23	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	Billybaroo17	2014	219	4	21	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	ETMonkeyFinger	2014	222	0	3	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	Henruchis09	2014	222	0	18	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	janallen00	2014	180	0	0	0.000
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476	Amanda_Pawluk	2014	187	0	14	0.000
+0	Dequesne Club, Pittsburgh	-79.9989	40.4426	MichaelStark22	2014	123	6	21	0.000
+4	The Beer Market	-80.0041	40.4478	skrutop	2014	74	6	19	0.000
+4	The Beer Market	-80.0041	40.4478	Russell_Lucas	2014	205	4	2	0.000
+4	The Beer Market	-80.0041	40.4478	Russell_Lucas	2014	205	4	2	0.000
+0	Gateway Station (PAT	-80.0043	40.4417	DJTMI	2014	60	6	2	0.000
+0	Gateway Station (PAT	-80.0043	40.4417	DJTMI	2014	60	6	2	0.000
+0	Gateway Station (PAT	-80.0043	40.4417	DJTMI	2014	60	6	2	0.000
+0	Gateway Station (PAT	-80.0043	40.4417	DJTMI	2014	60	6	2	0.000
+0	Gateway Station (PAT	-80.0043	40.4417	DJTMI	2014	60	6	2	0.000
+0	Gateway Station (PAT	-80.0043	40.4417	DJTMI	2014	60	6	2	0.000
+0	Byham Theater	-80.0025	40.4439	annieljones	2014	356	1	0	0.000
+23	Carnegie Library Music Hall of Homestead	-79.9028	40.4070	DrZpresents	2015	41	2	2	0.000
+23	Carnegie Library Music Hall of Homestead	-79.9028	40.4070	HippyHeartnSoul	2015	298	0	23	0.000
+23	Carnegie Library Music Hall of Homestead	-79.9028	40.4070	DrZpresents	2015	41	2	2	0.000
+23	Carnegie Library Music Hall of Homestead	-79.9028	40.4070	DrZpresents	2015	41	2	2	0.000
+23	Carnegie Library Music Hall of Homestead	-79.9028	40.4070	Kaydee4154	2015	282	5	23	0.000
+23	Carnegie Library Music Hall of Homestead	-79.9028	40.4070	Kaydee4154	2015	282	5	23	0.000
+23	Carnegie Library Music Hall of Homestead	-79.9028	40.4070	Kaydee4154	2015	282	5	23	0.000
+4	River Walk	-80.0083	40.4455	bdarby402	2014	106	3	14	0.000
+3	Jimmy D's on Carson	-79.9816	40.4290	Emily13Lebovitz	2015	269	6	5	0.000
+3	Jimmy D's on Carson	-79.9816	40.4290	Emily13Lebovitz	2015	269	6	5	0.000
+12	Shop 412	-79.9658	40.4284	ZTNoel	2014	243	0	19	0.000
+12	Shop 412	-79.9658	40.4284	BLASTED_	2015	77	3	3	0.000
+12	Shop 412	-79.9658	40.4284	BLASTED_	2015	77	3	3	0.000
+0	Butcher and the Rye	-80.0020	40.4423	jrmpix	2014	98	2	23	0.000
+0	Butcher and the Rye	-80.0020	40.4423	jrmpix	2014	98	2	23	0.000
+3	Delanie's Coffee	-79.9807	40.4290	dj_Bamboo	2014	142	4	19	0.000
+3	Delanie's Coffee	-79.9807	40.4290	fafafaust	2015	280	3	22	0.000
+3	Delanie's Coffee	-79.9807	40.4290	fafafaust	2015	281	4	18	0.000
+3	Delanie's Coffee	-79.9807	40.4290	fafafaust	2015	280	3	22	0.000
+3	Delanie's Coffee	-79.9807	40.4290	fafafaust	2015	281	4	18	0.000
+3	Delanie's Coffee	-79.9807	40.4290	fafafaust	2015	280	3	22	0.000
+3	Delanie's Coffee	-79.9807	40.4290	fafafaust	2015	281	4	18	0.000
+0	Gallery Crawl-Pittsburgh Cultural Trust	-79.9988	40.4429	MairinAnna	2015	269	6	0	0.355
+0	Gallery Crawl-Pittsburgh Cultural Trust	-79.9988	40.4429	MairinAnna	2015	269	6	0	0.355
+0	Point Park University	-80.0020	40.4386	allievilasi	2015	298	0	22	0.000
+0	Point Park University	-80.0020	40.4386	KeepPghDope	2015	306	1	4	0.000
+0	Point Park University	-80.0020	40.4386	CodySiwicki	2015	307	2	19	0.000
+0	Point Park University	-80.0020	40.4386	koch_kylie	2015	307	2	22	0.000
+0	Point Park University	-80.0020	40.4386	lexie_sherman	2015	60	0	20	0.000
+0	Point Park University	-80.0020	40.4386	ALi__Jawad	2015	40	1	19	0.000
+0	Point Park University	-80.0020	40.4386	CodySiwicki	2015	252	3	20	0.000
+0	Point Park University	-80.0020	40.4386	CodySiwicki	2015	252	3	20	0.000
+0	Point Park University	-80.0020	40.4386	CodySiwicki	2015	252	3	20	0.000
+3	Fat Head's Saloon	-79.9803	40.4289	SeanieDrums	2015	37	5	20	0.000
+3	Fat Head's Saloon	-79.9803	40.4289	JoshLouie	2014	81	6	18	0.000
+3	Fat Head's Saloon	-79.9803	40.4289	JoshLouie	2014	81	6	18	0.000
+3	Fat Head's Saloon	-79.9803	40.4289	kayespector	2014	148	3	3	0.000
+0	Eleven	-79.9935	40.4459	M_Allan_Tinor	2014	348	0	1	0.000
+0	Eleven	-79.9935	40.4459	M_Allan_Tinor	2014	348	0	1	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	ABananaPepper	2015	298	0	20	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	mfen87	2015	166	1	11	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	mfen87	2015	267	4	2	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	LeMIChar	2015	270	0	11	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	LeMIChar	2015	270	0	11	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	LeMIChar	2015	270	0	13	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	jtimberger	2015	13	2	15	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	DHaoliang	2015	241	6	6	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	Pwake	2015	279	2	14	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	Pwake	2015	279	2	14	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	AndyBNYC	2015	169	4	18	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	ameblaz	2015	236	1	21	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	mfen87	2015	267	4	2	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	LeMIChar	2015	270	0	11	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	LeMIChar	2015	270	0	11	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	LeMIChar	2015	270	0	13	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	Pwake	2015	279	2	14	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	GideonShils	2015	284	0	22	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	moconnor815	2015	226	5	19	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	MauricioVilo	2015	233	5	22	0.000
+1	University of Pittsburgh_2	-79.9527	40.4446	DHaoliang	2015	241	6	6	0.000
+6	Stout Training Pittsburgh	-79.9837	40.4520	AndyAndersonBJJ	2014	73	5	21	0.254
+6	Stout Training Pittsburgh	-79.9837	40.4520	AndyAndersonBJJ	2014	73	5	21	0.254
+1	doubetree orlando seaworld	-79.9592	40.4394	jenwarner2012	2015	159	1	5	0.000
+1	doubetree orlando seaworld	-79.9592	40.4394	jenwarner2012	2015	159	1	5	0.000
+0	Smithfield Street Bridge	-80.0020	40.4350	JoshLouie	2014	195	1	1	0.000
+0	Smithfield Street Bridge	-80.0020	40.4350	TheChirpingCup	2014	69	1	0	0.000
+0	Penn Ave	-79.9961	40.4455	JoshLouie	2014	115	5	20	0.000
+0	Penn Ave	-79.9961	40.4455	JoshLouie	2014	115	5	20	0.000
+0	Penn Ave	-79.9961	40.4455	JoshLouie	2014	115	5	20	0.000
+4	Three Rivers Water Steps	-80.0085	40.4456	jessnavarropana	2015	250	1	1	0.000
+3	The Cuckoo's Nest Magic Shop	-79.9729	40.4281	MJanu09	2015	239	4	11	0.000
+18	Jam on Walnut	-79.9337	40.4517	Danica815	2015	235	0	14	0.000
+5	promise im not naked	-80.0134	40.4452	elizsmiz	2015	157	6	23	0.277
+5	promise im not naked	-80.0134	40.4452	elizsmiz	2015	157	6	23	0.277
+0	City Cafe	-79.9960	40.4434	badley_bratt	2014	127	3	14	0.000
+0	City Cafe	-79.9960	40.4434	badley_bratt	2014	127	3	14	0.000
+0	City Cafe	-79.9960	40.4434	badley_bratt	2014	127	3	14	0.000
+1	Lulu's Noodles	-79.9488	40.4453	Russell_Lucas	2014	285	0	16	0.000
+4	Roberto Clemente Statue	-80.0041	40.4470	Chiusy	2015	307	2	13	0.000
+3	Branding Brand	-79.9724	40.4284	LeesonBrown	2015	240	5	12	0.000
+3	Branding Brand	-79.9724	40.4284	LeesonBrown	2015	240	5	12	0.000
+4	North Shore Bike Trail	-80.0024	40.4474	JoshLouie	2014	246	3	0	0.000
+4	North Shore Bike Trail	-80.0024	40.4474	JoshLouie	2014	246	3	0	0.000
+10	The Gates Center for Computer Science	-79.9446	40.4436	NickNickwangxc	2015	267	4	4	0.000
+10	The Gates Center for Computer Science	-79.9446	40.4436	triiku	2015	244	2	0	0.000
+10	The Gates Center for Computer Science	-79.9446	40.4436	NickNickwangxc	2015	267	4	4	0.000
+0	Gateway Center	-80.0049	40.4421	MattRooobison	2014	197	3	10	0.000
+0	Gateway Center	-80.0049	40.4421	shaneculgan	2015	161	3	0	0.000
+0	Gateway Center	-80.0049	40.4421	MattRooobison	2014	197	3	10	0.000
+0	Gateway Center	-80.0049	40.4421	senatorCK	2014	163	4	20	0.000
+0	Gateway Center	-80.0049	40.4421	senatorCK	2014	163	4	20	0.000
+2	Cambria Suites Pittsburgh	-79.9880	40.4403	BritPensFanClub	2014	326	6	22	0.000
+1	Mellon Institute Carnegie Mellon University	-79.9515	40.4467	willrupp	2014	182	2	0	0.000
+1	Mellon Institute Carnegie Mellon University	-79.9515	40.4467	willrupp	2014	182	2	0	0.000
+9	Camelot Apartments	-79.9526	40.4509	NickNickwangxc	2015	307	2	15	0.000
+3	Acacia	-79.9759	40.4286	JoshLouie	2014	68	0	2	0.000
+5	Living the suite life	-80.0130	40.4482	kaytee_oliver	2014	363	1	0	0.000
+0	DoubleTree By Hilton Pittsburgh Downtown	-79.9940	40.4405	SexyAndreaQ	2015	226	5	20	0.000
+11	KAPPA KAPPA COPA	-79.9617	40.4353	heyyitsjared	2015	81	0	2	0.000
+0	Jimmy John's	-80.0033	40.4415	ellenspriggle	2015	206	6	17	0.000
+3	Surf Pittsburgh	-79.9838	40.4290	JoshLouie	2014	148	3	20	0.000
+1	Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	wojzeh	2014	309	3	12	0.248
+1	Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	wojzeh	2014	309	3	12	0.248
+1	Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	badley_bratt	2014	347	6	23	0.248
+1	Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	badley_bratt	2014	348	0	0	0.248
+1	Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	BenzaBurgh	2014	226	4	4	0.248
+1	Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	105191953	2014	244	1	2	0.248
+1	Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	BenzaBurgh	2014	226	4	4	0.248
+1	Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	105191953	2014	244	1	2	0.248
+5	Mr. Rogers Memorial	-80.0121	40.4456	BCardis1	2015	271	1	11	0.000
+5	Mr. Rogers Memorial	-80.0121	40.4456	BCardis1	2015	271	1	11	0.000
+5	Mr. Rogers Memorial	-80.0121	40.4456	BCardis1	2015	271	1	11	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	Slimathee	2015	152	1	21	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	Chiusy	2015	307	2	13	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	Chiusy	2015	307	2	13	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	Slimathee	2015	152	1	21	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	Conk36	2015	264	1	0	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	Conk36	2015	264	1	0	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	mattcastb	2015	275	5	5	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	DJTMI	2014	153	1	19	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	mattcastb	2015	275	5	5	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	mattcastb	2015	275	5	5	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	Slimathee	2015	152	1	21	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	karkel59	2015	115	6	22	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	mattcastb	2015	275	5	5	0.000
+0	Omni William Penn Hotel	-79.9967	40.4407	mattcastb	2015	275	5	5	0.000
+6	Artisan Market In The Strip	-79.9842	40.4512	ginaabae_	2014	158	6	20	0.000
+6	La Prima Espresso Co	-79.9830	40.4516	BenzaBurgh	2014	123	6	2	0.000
+6	La Prima Espresso Co	-79.9830	40.4516	BenzaBurgh	2014	123	6	2	0.000
+10	Carnegie Mellon University (Pittsburgh Campus	-79.9424	40.4433	capwack	2014	303	4	18	0.000
+10	Carnegie Mellon University (Pittsburgh Campus	-79.9424	40.4433	kiralucille	2015	57	4	7	0.000
+10	Carnegie Mellon University (Pittsburgh Campus	-79.9424	40.4433	kiralucille	2015	57	4	7	0.000
+2	my squirrel sistas	-79.9928	40.4369	kaytee_oliver	2015	111	2	18	0.000
+6	Prestogeorge Coffee & Tea	-79.9856	40.4501	chuck629	2014	277	6	16	0.000
+6	Prestogeorge Coffee & Tea	-79.9856	40.4501	chuck629	2014	277	6	16	0.000
+6	Prestogeorge Coffee & Tea	-79.9856	40.4501	chuck629	2014	277	6	16	0.000
+6	Prestogeorge Coffee & Tea	-79.9856	40.4501	chuck629	2014	277	6	16	0.000
+3	Local Bar + Kitchen	-79.9828	40.4289	shortstack68	2015	155	4	20	0.000
+3	Local Bar + Kitchen	-79.9828	40.4289	shortstack68	2015	155	4	20	0.000
+3	Local Bar + Kitchen	-79.9828	40.4289	remingtonbrooks	2014	103	0	4	0.000
+3	Local Bar + Kitchen	-79.9828	40.4289	remingtonbrooks	2014	103	0	3	0.000
+3	Local Bar + Kitchen	-79.9828	40.4289	CraigHatok	2015	81	0	4	0.000
+3	Local Bar + Kitchen	-79.9828	40.4289	meglynnjohnson	2014	360	5	22	0.000
+0	The Steel City	-79.9932	40.4471	wiltonpsmith	2014	165	6	15	0.000
+6	Kaya	-79.9845	40.4516	lombardi2195	2015	144	0	19	0.000
+6	Kaya	-79.9845	40.4516	angela_stull	2015	145	1	0	0.000
+6	Kaya	-79.9845	40.4516	lombardi2195	2015	144	0	19	0.000
+6	Kaya	-79.9845	40.4516	angela_stull	2015	145	1	0	0.000
+3	Carson City Saloon	-79.9840	40.4289	Danica815	2015	199	6	22	0.000
+3	Carson City Saloon	-79.9840	40.4289	blo168	2015	73	6	16	0.000
+3	Carson City Saloon	-79.9840	40.4289	leen_cuisine27	2015	179	0	19	0.000
+3	Carson City Saloon	-79.9840	40.4289	leen_cuisine27	2015	179	0	19	0.000
+3	Carson City Saloon	-79.9840	40.4289	blo168	2015	73	6	16	0.000
+3	Carson City Saloon	-79.9840	40.4289	Monica_DAngelo_	2014	127	3	3	0.000
+3	Carson City Saloon	-79.9840	40.4289	marykatebilly	2015	32	0	6	0.000
+13	Buckhead Saloon	-80.0061	40.4343	Mally089	2014	89	0	4	0.000
+0	The Westin Convention Center Pittsburgh	-79.9953	40.4441	timron1999	2014	233	4	22	0.000
+0	The Westin Convention Center Pittsburgh	-79.9953	40.4441	bblizzy11	2015	268	5	18	0.000
+0	The Westin Convention Center Pittsburgh	-79.9953	40.4441	timron1999	2014	233	4	22	0.000
+0	The Westin Convention Center Pittsburgh	-79.9953	40.4441	VickiLVillanova	2014	298	6	20	0.000
+0	The Westin Convention Center Pittsburgh	-79.9953	40.4441	BenzaBurgh	2014	86	4	4	0.000
+0	The Westin Convention Center Pittsburgh	-79.9953	40.4441	bblizzy11	2015	268	5	18	0.000
+15	Zeke's Coffee Pittsburgh	-79.9246	40.4612	LRK2	2014	246	3	19	0.000
+6	16th Street Bridge	-79.9888	40.4499	JoshLouie	2015	196	3	22	0.000
+6	16th Street Bridge	-79.9888	40.4499	JoshLouie	2015	196	3	22	0.000
+6	16th Street Bridge	-79.9888	40.4499	JoshLouie	2014	205	4	21	0.000
+13	The Melting Pot - Pittsburgh	-80.0041	40.4330	KalynLow	2015	205	5	3	0.000
+3	Chicago Illinois	-79.9815	40.4298	ayesha_jah	2014	218	3	1	0.000
+20	Mizu Japanese Restaurant	-80.0653	40.3630	nmcotelesse	2014	120	3	23	0.000
+20	Mizu Japanese Restaurant	-80.0653	40.3630	nmcotelesse	2014	120	3	23	0.000
+0	Weiner World	-79.9970	40.4419	SilkQuilt	2014	116	6	21	0.000
+0	Weiner World	-79.9970	40.4419	SilkQuilt	2014	116	6	21	0.000
+0	Weiner World	-79.9970	40.4419	SilkQuilt	2014	116	6	21	0.000
+16	Graham's Barber Shop	-79.9638	40.4672	nomadjames	2015	255	6	17	0.000
+16	Espresso A Mano	-79.9649	40.4660	Andy1Volz	2014	65	4	18	0.000
+16	Espresso A Mano	-79.9649	40.4660	Andy1Volz	2014	65	4	18	0.000
+16	Espresso A Mano	-79.9649	40.4660	Andy1Volz	2014	65	4	18	0.000
+6	Yinzers in the Burgh	-79.9826	40.4524	snyderalicia	2015	3	6	19	0.000
+6	Yinzers in the Burgh	-79.9826	40.4524	snyderalicia	2015	3	6	19	0.000
+6	Little Bangkok in the strip	-79.9843	40.4509	timorlang	2014	308	2	16	0.000
+12	SouthSide Works	-79.9658	40.4278	I_AmOfTheTower	2015	193	0	20	0.000
+12	SouthSide Works	-79.9658	40.4278	I_AmOfTheTower	2015	193	0	20	0.000
+12	SouthSide Works	-79.9658	40.4278	MJanu09	2015	244	2	11	0.000
+12	SouthSide Works	-79.9658	40.4278	I_AmOfTheTower	2015	193	0	20	0.000
+0	Nikki's Thai Downtown	-79.9983	40.4438	SpencerJ84	2015	60	0	2	0.000
+0	Nikki's Thai Downtown	-79.9983	40.4438	SpencerJ84	2015	60	0	2	0.000
+3	Waffles Incaffienated, SouthSide	-79.9694	40.4279	QuinnPalko	2015	143	6	14	0.000
+3	Waffles Incaffienated, SouthSide	-79.9694	40.4279	philip_my_cup16	2015	298	0	18	0.000
+3	Waffles Incaffienated, SouthSide	-79.9694	40.4279	Loechner1017	2015	276	6	17	0.000
+3	Waffles Incaffienated, SouthSide	-79.9694	40.4279	Loechner1017	2015	276	6	17	0.000
+3	Waffles Incaffienated, SouthSide	-79.9694	40.4279	Loechner1017	2015	276	6	17	0.000
+3	Waffles Incaffienated, SouthSide	-79.9694	40.4279	Loechner1017	2015	276	6	17	0.000
+3	Waffles Incaffienated, SouthSide	-79.9694	40.4279	Loechner1017	2015	276	6	17	0.000
+0	6th Street Bridge	-80.0030	40.4446	JoeCal1969	2015	177	5	11	0.000
+1	Pinstripe	-79.9613	40.4388	SilasOrteza	2014	122	5	21	0.000
+1	Pinstripe	-79.9613	40.4388	SilasOrteza	2014	122	5	21	0.000
+0	Wintergarden Ppg	-80.0032	40.4398	jcourtemanche25	2014	341	0	17	0.000
+0	Wintergarden Ppg	-80.0032	40.4398	jcourtemanche25	2014	341	0	17	0.000
+0	Wintergarden Ppg	-80.0032	40.4398	dsapata	2014	349	1	14	0.000
+0	Wintergarden Ppg	-80.0032	40.4398	jcourtemanche25	2014	341	0	17	0.000
+13	Duquesne Incline (Mt. Washington	-80.0043	40.4325	hnmcd42	2015	194	1	15	0.000
+13	Duquesne Incline (Mt. Washington	-80.0043	40.4325	hnmcd42	2015	194	1	15	0.000
+0	Starbucks_1	-79.9949	40.4414	mexi_can_do	2015	265	2	16	0.000
+0	Starbucks_1	-79.9949	40.4414	mexi_can_do	2015	265	2	16	0.000
+18	Starbucks_4	-79.9348	40.4511	Andy1Volz	2014	67	6	14	0.000
+18	Eden	-79.9347	40.4511	bellalaquatra	2014	54	0	2	0.000
+18	Eden	-79.9347	40.4511	bellalaquatra	2014	54	0	2	0.000
+12	The Claddagh - Pittsburgh	-79.9647	40.4281	LiLMo7ammed	2015	157	6	21	0.000
+12	The Claddagh - Pittsburgh	-79.9647	40.4281	LiLMo7ammed	2015	157	6	21	0.000
+1	National Best Friend Day	-79.9626	40.4394	brittanytomasic	2015	159	1	18	0.597
+1	National Best Friend Day	-79.9626	40.4394	brittanytomasic	2015	159	1	18	0.597
+13	On A Boat	-80.0057	40.4350	JoshLouie	2014	172	6	20	0.000
+1	Forbes Tower	-79.9576	40.4403	svencarl1971	2014	70	2	20	0.000
+0	Madonna's Restaurant	-79.9993	40.4390	shitbreak13	2015	43	4	17	0.000
+0	Sal's City Deli	-80.0001	40.4426	erinomalley	2015	192	6	3	0.000
+0	Sal's City Deli	-80.0001	40.4426	erinomalley	2015	192	6	3	0.000
+0	Sal's City Deli	-80.0001	40.4426	erinomalley	2015	192	6	3	0.000
+0	Blush	-79.9984	40.4441	gypsyExotdancer	2015	112	3	0	0.000
+1	Popeyes	-79.9582	40.4415	DJTMI	2014	216	1	0	0.000
+1	Popeyes	-79.9582	40.4415	DJTMI	2014	216	1	0	0.000
+1	Popeyes	-79.9582	40.4415	DJTMI	2014	216	1	0	0.000
+1	Popeyes	-79.9582	40.4415	DJTMI	2014	216	1	0	0.000
+5	Century 3 Mall	-80.0156	40.4463	cerebral2979	2014	180	0	12	0.000
+5	Century 3 Mall	-80.0156	40.4463	cerebral2979	2014	180	0	12	0.000
+1	Schenley Plaza	-79.9525	40.4428	Timmy_186	2014	136	5	21	0.000
+1	Schenley Plaza	-79.9525	40.4428	Timmy_186	2014	136	5	21	0.000
+1	Schenley Plaza	-79.9525	40.4428	techburgh	2015	178	6	21	0.000
+1	Schenley Plaza	-79.9525	40.4428	techburgh	2015	178	6	22	0.000
+1	Schenley Plaza	-79.9525	40.4428	techburgh	2015	178	6	21	0.000
+5	Heinz Stadium Gold Lot 1	-80.0127	40.4473	wendymo6	2015	275	5	0	0.000
+5	Heinz Stadium Gold Lot 1	-80.0127	40.4473	wendymo6	2015	275	5	0	0.000
+5	Heinz Stadium Gold Lot 1	-80.0127	40.4473	wendymo6	2015	275	5	0	0.000
+5	Heinz Stadium Gold Lot 1	-80.0127	40.4473	wendymo6	2015	275	5	0	0.000
+5	Heinz Stadium Gold Lot 1	-80.0127	40.4473	wendymo6	2015	275	5	0	0.000
+1	Carnegie Museums of Pittsburgh	-79.9506	40.4428	npaigex	2015	187	1	2	0.000
+1	Carnegie Museums of Pittsburgh	-79.9506	40.4428	npaigex	2015	187	1	2	0.000
+1	Carnegie Museums of Pittsburgh	-79.9506	40.4428	npaigex	2015	187	1	2	0.000
+1	Carnegie Museums of Pittsburgh	-79.9506	40.4428	npaigex	2015	187	1	2	0.000
+1	Carnegie Museums of Pittsburgh	-79.9506	40.4428	npaigex	2015	187	1	2	0.000
+0	Mary kay career conference	-79.9957	40.4453	Alexus_Regine	2014	81	6	20	0.000
+0	Mary kay career conference	-79.9957	40.4453	Alexus_Regine	2014	81	6	20	0.000
+0	Space Art Gallery	-79.9984	40.4428	JoshLouie	2014	67	6	20	0.000
+0	Space Art Gallery	-79.9984	40.4428	JoshLouie	2014	67	6	20	0.000
+0	Space Art Gallery	-79.9984	40.4428	JoshLouie	2014	67	6	20	0.000
+0	Space Art Gallery	-79.9984	40.4428	JoshLouie	2014	67	6	20	0.000
+0	Space Art Gallery	-79.9984	40.4428	JoshLouie	2014	67	6	20	0.000
+0	Space Art Gallery	-79.9984	40.4428	JoshLouie	2014	67	6	20	0.000
+0	Hot Mass	-79.9929	40.4457	julianhicks	2015	200	0	6	0.000
+0	Hot Mass	-79.9929	40.4457	dj_Bamboo	2015	206	6	9	0.000
+0	Hot Mass	-79.9929	40.4457	dj_Bamboo	2015	204	4	16	0.000
+0	Hot Mass	-79.9929	40.4457	dj_Bamboo	2015	204	4	16	0.000
+0	Hot Mass	-79.9929	40.4457	dj_Bamboo	2015	204	4	16	0.000
+15	Mad Mex Shadyside	-79.9251	40.4583	MissAbutter	2014	216	1	0	-0.390
+15	Mad Mex Shadyside	-79.9251	40.4583	MissAbutter	2014	246	3	3	-0.390
+15	Mad Mex Shadyside	-79.9251	40.4583	LeroySquiggles	2014	298	6	5	-0.390
+15	Mad Mex Shadyside	-79.9251	40.4583	MissAbutter	2014	216	1	0	-0.390
+15	Mad Mex Shadyside	-79.9251	40.4583	MissAbutter	2014	216	1	0	-0.390
+15	Mad Mex Shadyside	-79.9251	40.4583	MissAbutter	2014	246	3	3	-0.390
+15	Mad Mex Shadyside	-79.9251	40.4583	MissAbutter	2014	216	1	0	-0.390
+15	Mad Mex Shadyside	-79.9251	40.4583	MissAbutter	2014	246	3	3	-0.390
+15	Mad Mex Shadyside	-79.9251	40.4583	LeroySquiggles	2014	298	6	5	-0.390
+1	Carnegie Library of Pittsburgh - Teen Services	-79.9488	40.4434	LaurenDiana228	2015	158	0	17	0.000
+1	Carnegie Library of Pittsburgh - Teen Services	-79.9488	40.4434	LaurenDiana228	2015	158	0	17	0.000
+0	1 PPG Place Downtown Pittsburgh	-80.0029	40.4408	weare_golden	2014	197	3	17	0.000
+22	selfie	-80.0045	40.4529	Ahmed_Alshewish	2014	172	6	1	0.000
+1	Carnegie Museum of Natural History	-79.9493	40.4433	BenzaBurgh	2014	291	6	1	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	Camilyarde	2014	323	3	3	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	ywy23	2014	312	6	2	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	mculyba	2014	360	5	19	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	lucastcmh	2015	19	1	18	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	j13harter	2015	46	0	21	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	emily4732	2015	51	5	21	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	ywy23	2014	312	6	2	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	mculyba	2014	360	5	19	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	joey_thrift	2015	38	6	20	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	Camilyarde	2014	322	2	2	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	jjggz	2014	305	6	3	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	steponmemaysick	2014	360	5	20	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	elizsmiz	2015	15	4	18	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	abbynormalemily	2015	311	6	21	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	KevinPopovic	2015	53	0	18	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	abbynormalemily	2015	311	6	21	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	_trisaratops11	2015	195	2	1	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	Camilyarde	2014	322	2	2	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	jjggz	2014	305	6	3	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	steponmemaysick	2014	360	5	20	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	elizsmiz	2015	15	4	18	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	abbynormalemily	2015	311	6	21	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	_trisaratops11	2015	195	2	1	0.263
+1	Carnegie Museum of Natural History	-79.9493	40.4433	abbynormalemily	2015	311	6	21	0.263
+3	Primanti Bros. - South Side	-79.9792	40.4286	Varites	2014	153	1	23	0.000
+13	Patrick T. Fagan Overlook	-80.0065	40.4317	renise99	2014	243	0	21	0.000
+15	PA Wine & Spirits	-79.9266	40.4590	Andy1Volz	2014	111	1	22	0.000
+16	Coca Cafe	-79.9641	40.4673	cicer_OHOKAY	2015	137	0	16	0.000
+16	Coca Cafe	-79.9641	40.4673	eliglazier	2014	332	5	16	0.000
+6	Marty's Market, LLC	-79.9822	40.4537	BenzaBurgh	2014	109	6	3	0.000
+3	In my dreams	-79.9782	40.4286	BenzaBurgh	2014	226	4	4	0.000
+0	Biergarten Hotel Monaco	-79.9963	40.4415	I_AmOfTheTower	2015	157	6	23	0.000
+6	Club Zoo	-79.9875	40.4499	ShawGalleries	2014	178	5	2	0.000
+6	Club Zoo	-79.9875	40.4499	bdarby402	2014	82	0	15	0.000
+1	Hillman Library	-79.9540	40.4426	GideonShils	2015	265	2	20	0.000
+1	Hillman Library	-79.9540	40.4426	GideonShils	2015	265	2	20	0.000
+0	Dawntawn Pixburgh	-80.0016	40.4392	Psettle_	2015	205	5	4	0.000
+5	Stage AE	-80.0122	40.4461	JohnnyStLethal	2015	99	4	17	0.000
+5	Stage AE	-80.0122	40.4461	ladymarge	2014	337	3	23	0.000
+5	Stage AE	-80.0122	40.4461	kaywilliams97	2014	190	3	16	0.000
+5	Stage AE	-80.0122	40.4461	kgiz303	2014	289	4	0	0.000
+5	Stage AE	-80.0122	40.4461	pschfr	2014	156	4	4	0.000
+5	Stage AE	-80.0122	40.4461	amcirigliano	2015	305	0	4	0.000
+5	Stage AE	-80.0122	40.4461	01sweetworld	2015	182	3	0	0.000
+5	Stage AE	-80.0122	40.4461	ClairePrigg	2015	270	0	4	0.000
+5	Stage AE	-80.0122	40.4461	ladymarge	2014	337	3	23	0.000
+5	Stage AE	-80.0122	40.4461	kaywilliams97	2014	190	3	16	0.000
+5	Stage AE	-80.0122	40.4461	kgiz303	2014	289	4	0	0.000
+5	Stage AE	-80.0122	40.4461	pschfr	2014	156	4	4	0.000
+5	Stage AE	-80.0122	40.4461	ltmiles	2014	130	6	0	0.000
+5	Stage AE	-80.0122	40.4461	Osurockerball08	2014	298	6	19	0.000
+5	Stage AE	-80.0122	40.4461	corbncorb	2014	344	3	23	0.000
+5	Stage AE	-80.0122	40.4461	Pignuts	2014	207	6	1	0.000
+5	Stage AE	-80.0122	40.4461	MrChrisPaglia	2015	240	5	23	0.000
+5	Stage AE	-80.0122	40.4461	Abbison333	2015	277	0	23	0.000
+5	Stage AE	-80.0122	40.4461	Abbison333	2015	277	0	23	0.000
+5	Stage AE	-80.0122	40.4461	gabbeyoder	2015	141	4	22	0.000
+5	Stage AE	-80.0122	40.4461	Aaron_evidently	2015	172	0	22	0.000
+5	Stage AE	-80.0122	40.4461	Osurockerball08	2014	298	6	19	0.000
+5	Stage AE	-80.0122	40.4461	corbncorb	2014	344	3	23	0.000
+5	Stage AE	-80.0122	40.4461	Pignuts	2014	207	6	1	0.000
+5	Stage AE	-80.0122	40.4461	ericguerrero	2014	69	1	2	0.000
+5	Stage AE	-80.0122	40.4461	ltmiles	2014	130	6	0	0.000
+5	Stage AE	-80.0122	40.4461	ClairePrigg	2015	270	0	4	0.000
+5	Stage AE	-80.0122	40.4461	Abbison333	2015	277	0	23	0.000
+5	Stage AE	-80.0122	40.4461	Abbison333	2015	277	0	23	0.000
+5	Stage AE	-80.0122	40.4461	tjfadehawk	2015	234	6	2	0.000
+5	Stage AE	-80.0122	40.4461	tjfadehawk	2015	234	6	2	0.000
+5	Stage AE	-80.0122	40.4461	MrChrisPaglia	2015	240	5	23	0.000
+5	Stage AE	-80.0122	40.4461	LauraLoveLecrae	2015	110	1	23	0.000
+4	The Color Run Pittsburgh	-80.0076	40.4476	omgitskatttttie	2014	319	6	19	0.000
+4	The Color Run Pittsburgh	-80.0076	40.4476	omgitskatttttie	2014	319	6	19	0.000
+4	The Color Run Pittsburgh	-80.0076	40.4476	omgitskatttttie	2014	319	6	19	0.000
+0	Fifth Avenue Place	-80.0033	40.4419	pgh1934	2015	274	4	17	0.000
+0	Fifth Avenue Place	-80.0033	40.4419	pgh1934	2015	274	4	17	0.000
+0	Fifth Avenue Place	-80.0033	40.4419	pgh1934	2015	274	4	17	0.000
+0	Fifth Avenue Place	-80.0033	40.4419	pgh1934	2015	274	4	17	0.000
+0	Fifth Avenue Place	-80.0033	40.4419	pgh1934	2015	274	4	17	0.000
+5	North Shore Riverfront Park and Trail_2	-80.0120	40.4453	worldfamouswrap	2014	207	6	19	0.000
+5	North Shore Riverfront Park and Trail_2	-80.0120	40.4453	JoshLouie	2014	248	5	0	0.000
+5	North Shore Riverfront Park and Trail_2	-80.0120	40.4453	JoshLouie	2014	289	4	22	0.000
+5	North Shore Riverfront Park and Trail_2	-80.0120	40.4453	worldfamouswrap	2014	207	6	19	0.000
+5	North Shore Riverfront Park and Trail_2	-80.0120	40.4453	JoshLouie	2014	248	5	0	0.000
+5	North Shore Riverfront Park and Trail_2	-80.0120	40.4453	JoshLouie	2014	289	4	22	0.000
+5	North Shore Riverfront Park and Trail_1	-80.0092	40.4464	OHHEY_ITSANNE	2015	17	6	17	0.000
+5	North Shore Riverfront Park and Trail_1	-80.0092	40.4464	blainehugs	2015	269	6	19	0.000
+5	North Shore Riverfront Park and Trail_1	-80.0092	40.4464	OHHEY_ITSANNE	2015	17	6	17	0.000
+5	North Shore Riverfront Park and Trail_1	-80.0092	40.4464	blainehugs	2015	269	6	19	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	navajoo__	2015	242	0	4	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	Kobaltblu13	2015	46	0	21	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	Kobaltblu13	2015	46	0	21	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	Kobaltblu13	2015	48	2	4	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	Hijo_d_afrique	2014	120	3	22	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	Kobaltblu13	2015	46	0	21	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	Kobaltblu13	2015	48	2	4	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	Hijo_d_afrique	2014	120	3	22	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	Kobaltblu13	2015	46	0	21	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	navajoo__	2015	242	0	4	0.000
+0	Pittsburgh Central Downtown Historic District	-79.9972	40.4414	navajoo__	2015	234	6	22	0.000
+3	The Flats on Carson	-79.9833	40.4287	MxdVxn	2015	145	1	0	0.000
+3	The Flats on Carson	-79.9833	40.4287	MxdVxn	2015	145	1	0	0.000
+4	Atria's Restaurant	-80.0040	40.4472	coolc_412	2014	126	2	17	0.000
+4	Atria's Restaurant	-80.0040	40.4472	coolc_412	2014	126	2	17	0.000
+6	Allegheny Coffee & Tea Exchange	-79.9839	40.4512	TannerGlaves	2014	166	0	16	0.000
+6	Allegheny Coffee & Tea Exchange	-79.9839	40.4512	TannerGlaves	2014	166	0	16	0.000
+0	Heinz History Center	-79.9922	40.4466	boogeydakid	2015	71	4	15	0.000
+0	Heinz History Center	-79.9922	40.4466	emily4732	2015	66	6	2	0.000
+0	Heinz History Center	-79.9922	40.4466	emycrinkrra	2015	73	6	14	0.000
+0	Heinz History Center	-79.9922	40.4466	BenzaBurgh	2014	139	1	0	0.000
+0	Heinz History Center	-79.9922	40.4466	JoshLouie	2014	94	5	19	0.000
+0	Heinz History Center	-79.9922	40.4466	JoshLouie	2014	94	5	19	0.000
+0	Heinz History Center	-79.9922	40.4466	rebekahxmarie	2015	283	6	21	0.000
+0	Heinz History Center	-79.9922	40.4466	rebekahxmarie	2015	283	6	21	0.000
+0	Heinz History Center	-79.9922	40.4466	emycrinkrra	2015	73	6	14	0.000
+0	Cultural District, Pittsburgh	-79.9999	40.4432	JamieLynne_	2014	162	3	0	0.000
+3	bar11	-79.9874	40.4272	NJLansberry	2015	200	0	4	0.000
+3	bar11	-79.9874	40.4272	NJLansberry	2015	200	0	4	0.000
+3	bar11	-79.9874	40.4272	NJLansberry	2015	200	0	4	0.000
+3	bar11	-79.9874	40.4272	patheticboy	2014	361	6	3	0.000
+0	GDI	-79.9948	40.4419	liston412	2015	73	6	16	0.000
+0	GDI	-79.9948	40.4419	liston412	2015	73	6	16	0.000
+1	That Bathroom Scene	-79.9551	40.4436	julieee_o	2015	183	4	19	0.000
+1	That Bathroom Scene	-79.9551	40.4436	julieee_o	2015	183	4	19	0.000
+1	Pittsburgh Children's Festival	-79.9527	40.4428	JPushic	2014	138	0	21	0.390
+6	Strip District In The Burgh	-79.9846	40.4506	vjaneee	2014	182	2	21	0.000
+1	University of Pittsburgh_5	-79.9566	40.4419	MaizeeDevlin	2014	330	3	3	0.000
+1	University of Pittsburgh_5	-79.9566	40.4419	saalshaleh	2014	181	1	20	0.000
+1	University of Pittsburgh_6	-79.9538	40.4457	Jhogue25	2014	114	4	19	0.000
+1	University of Pittsburgh_6	-79.9538	40.4457	Jhogue25	2014	114	4	19	0.000
+5	Lst 325	-80.0146	40.4447	kjv89	2015	249	0	18	0.000
+2	Pizza Milano	-79.9880	40.4386	Bigtom247	2014	247	4	4	0.000
+12	Ohiopyle State Park	-79.9657	40.4280	heyitshunt6	2015	158	0	2	0.000
+12	Ohiopyle State Park	-79.9657	40.4280	heyitshunt6	2015	158	0	2	0.000
+16	Round Corner Cantina	-79.9641	40.4667	badley_bratt	2014	91	2	3	0.000
+16	Round Corner Cantina	-79.9641	40.4667	bellalaquatra	2014	109	6	0	0.000
+16	Round Corner Cantina	-79.9641	40.4667	badley_bratt	2014	91	2	3	0.000
+16	Round Corner Cantina	-79.9641	40.4667	bellalaquatra	2014	109	6	0	0.000
+0	Mon Wharf_2	-80.0051	40.4381	4meatnpotatoes	2014	277	6	15	0.000
+0	Mon Wharf_2	-80.0051	40.4381	4meatnpotatoes	2014	277	6	15	0.000
+0	Mon Wharf_1	-80.0043	40.4375	LegacyAvenue	2015	196	3	18	0.000
+0	Mon Wharf_1	-80.0043	40.4375	LegacyAvenue	2015	196	3	18	0.000
+18	William Penn Tavern	-79.9338	40.4514	MayaAnnger412	2015	138	1	9	0.000
+18	William Penn Tavern	-79.9338	40.4514	MayaAnnger412	2015	138	1	9	0.000
+0	The Westin Hotel	-79.9953	40.4440	timorlang	2014	184	4	19	0.000
+1	Cathedral of Learning	-79.9532	40.4442	Luv_Me_2011	2015	307	2	22	0.000
+1	Cathedral of Learning	-79.9532	40.4442	CatTsavalas	2014	104	1	13	0.000
+1	Cathedral of Learning	-79.9532	40.4442	Chet3DoorsDown	2014	46	6	17	0.000
+1	Cathedral of Learning	-79.9532	40.4442	HuLaTin	2014	82	0	16	0.000
+1	Cathedral of Learning	-79.9532	40.4442	jmigs95	2014	247	4	14	0.000
+1	Cathedral of Learning	-79.9532	40.4442	felipzze	2014	356	1	2	0.000
+1	Cathedral of Learning	-79.9532	40.4442	Hannah__Madden	2014	109	6	16	0.000
+1	Cathedral of Learning	-79.9532	40.4442	HuLaTin	2014	82	0	16	0.000
+1	Cathedral of Learning	-79.9532	40.4442	jmigs95	2014	247	4	14	0.000
+1	Cathedral of Learning	-79.9532	40.4442	felipzze	2014	356	1	2	0.000
+1	Cathedral of Learning	-79.9532	40.4442	Hannah__Madden	2014	109	6	16	0.000
+1	Cathedral of Learning	-79.9532	40.4442	jennayyliuwho	2014	95	6	23	0.000
+1	Cathedral of Learning	-79.9532	40.4442	juanjsarmiento	2015	87	6	20	0.000
+1	Cathedral of Learning	-79.9532	40.4442	CatTsavalas	2014	104	1	13	0.000
+1	Cathedral of Learning	-79.9532	40.4442	Chet3DoorsDown	2014	46	6	17	0.000
+1	Cathedral of Learning	-79.9532	40.4442	HuLaTin	2014	82	0	16	0.000
+1	Cathedral of Learning	-79.9532	40.4442	jmigs95	2014	247	4	14	0.000
+1	Cathedral of Learning	-79.9532	40.4442	felipzze	2014	356	1	2	0.000
+1	Cathedral of Learning	-79.9532	40.4442	Hannah__Madden	2014	109	6	16	0.000
+1	Cathedral of Learning	-79.9532	40.4442	lightlings2021	2015	283	6	22	0.000
+1	Cathedral of Learning	-79.9532	40.4442	juanjsarmiento	2015	87	6	20	0.000
+1	Cathedral of Learning	-79.9532	40.4442	juanjsarmiento	2015	87	6	20	0.000
+1	Cathedral of Learning	-79.9532	40.4442	lightlings2021	2015	283	6	22	0.000
+1	Cathedral of Learning	-79.9532	40.4442	JakeEmber	2015	111	2	15	0.000
+16	Sapling Press	-79.9655	40.4646	gjhead	2014	197	3	19	0.000
+16	Sapling Press	-79.9655	40.4646	gjhead	2014	197	3	19	0.000
+16	Sapling Press	-79.9655	40.4646	gjhead	2014	197	3	19	0.000
+3	Threads on Carson	-79.9839	40.4287	JohnCinema412	2015	238	3	22	0.000
+3	Threads on Carson	-79.9839	40.4287	LegacyAvenue	2015	35	3	20	0.000
+22	Allegheny Center	-80.0050	40.4530	madrocker91	2015	159	1	2	0.000
+22	Allegheny Center	-80.0050	40.4530	madrocker91	2015	159	1	2	0.000
+5	Heinz Field Pittsburgh Steelers	-80.0160	40.4475	diyaajale	2015	284	0	15	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	Jiggerfingers	2015	305	0	2	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	AgencybyDesign	2014	203	2	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	MattRooobison	2015	185	6	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	MattRooobison	2015	185	6	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	15	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	15	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	2Steffs	2014	75	0	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	meinliebchen	2014	173	0	2	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	BenzaBurgh	2014	98	2	3	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	15	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	15	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	2Steffs	2014	75	0	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	meinliebchen	2014	173	0	2	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	BenzaBurgh	2014	98	2	3	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	2Steffs	2014	75	0	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	JoshLouie	2014	173	0	20	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	justinahausmann	2014	79	4	16	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	jennyu1974	2015	241	6	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	jennyu1974	2015	241	6	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	AgencybyDesign	2014	203	2	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	AgencybyDesign	2014	203	2	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	1SGBUZZ	2015	137	0	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	1SGBUZZ	2015	137	0	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	taylordudiak	2015	179	0	20	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	MattRooobison	2015	185	6	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	MattRooobison	2015	185	6	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	taylordudiak	2015	179	0	20	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	MattRooobison	2015	185	6	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	MattRooobison	2015	185	6	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	AgencybyDesign	2014	203	2	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	AgencybyDesign	2014	203	2	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	bgfarra	2014	220	5	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	MattRooobison	2015	185	6	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	MattRooobison	2015	185	6	19	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	daleburt33	2015	234	6	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	daleburt33	2015	234	6	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	daleburt33	2015	234	6	18	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	jennyu1974	2015	241	6	17	0.000
+22	Children's Museum of Pittsburgh	-80.0068	40.4527	jennyu1974	2015	241	6	19	0.000
+13	Sheraton Station Square Hotel	-80.0063	40.4350	mattmunich	2014	217	2	2	0.000
+13	Sheraton Station Square Hotel	-80.0063	40.4350	danieldlugos	2014	66	5	12	0.000
+13	Sheraton Station Square Hotel	-80.0063	40.4350	Mooremuscle	2014	199	5	17	0.000
+0	Frick Building	-79.9975	40.4391	BenzaBurgh	2014	87	5	2	0.000
+2	Pittsburgh Marriott City Center	-79.9921	40.4400	BenzaBurgh	2014	92	3	5	0.000
+4	Allegheny River_2	-80.0054	40.4451	apesa_	2015	185	6	14	0.000
+4	Allegheny River_2	-80.0054	40.4451	apesa_	2015	185	6	14	0.000
+4	Allegheny River_2	-80.0054	40.4451	apesa_	2015	185	6	14	0.000
+4	Allegheny River_2	-80.0054	40.4451	apesa_	2015	185	6	14	0.000
+13	Hard Rock Cafe Pittsburgh	-80.0049	40.4340	Haleyscomet123	2015	143	6	15	-0.189
+3	Tiki Lounge	-79.9774	40.4286	DeadheadRum	2014	185	5	1	0.000
+3	Tiki Lounge	-79.9774	40.4286	DeadheadRum	2014	185	5	2	0.000
+0	Koppers Tower	-79.9953	40.4421	timorlang	2014	45	5	19	0.000
+1	PNC Stadium	-79.9555	40.4423	mabbimc	2014	204	3	4	0.000
+1	PNC Stadium	-79.9555	40.4423	mabbimc	2014	204	3	4	0.000
+0	Renaissance Pittsburgh Hotel	-80.0024	40.4439	caromccarthy	2015	304	6	2	0.000
+0	Renaissance Pittsburgh Hotel	-80.0024	40.4439	racheltarian	2014	166	0	0	0.000
+0	Renaissance Pittsburgh Hotel	-80.0024	40.4439	RoyTweetsStuff	2015	262	6	14	0.000
+0	Renaissance Pittsburgh Hotel	-80.0024	40.4439	racheltarian	2014	166	0	0	0.000
+0	Renaissance Pittsburgh Hotel	-80.0024	40.4439	masatsuzu	2015	181	2	5	0.000
+0	Renaissance Pittsburgh Hotel	-80.0024	40.4439	masatsuzu	2015	181	2	5	0.000
+6	Art of Steel	-79.9826	40.4522	brandonetaylor	2014	103	0	17	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	mboylan	2015	266	3	0	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LegacyAvenue	2015	188	2	21	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LegacyAvenue	2015	189	3	1	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	sv980906	2015	203	3	15	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	Manar_Hannawi	2015	277	0	20	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LegacyAvenue	2015	188	2	22	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	d7ooom184	2015	60	0	18	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LegacyAvenue	2015	188	2	22	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LegacyAvenue	2015	188	2	23	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	Manar_Hannawi	2015	277	0	20	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	Manar_Hannawi	2015	277	0	20	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LegacyAvenue	2015	188	2	22	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	PattSyd22	2015	277	0	1	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LegacyAvenue	2015	188	2	22	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LegacyAvenue	2015	188	2	22	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	mboylan	2015	266	3	0	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	Manar_Hannawi	2015	277	0	20	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	Manar_Hannawi	2015	277	0	20	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LauriesLoop	2015	112	3	18	0.000
+0	Market Square, Pittsburgh	-80.0026	40.4408	LauriesLoop	2015	112	3	18	0.000

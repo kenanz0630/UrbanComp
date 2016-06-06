@@ -1,0 +1,239 @@
+venue	lon	lat	senti	txt
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+Carnegie Museum of Natural History	-79.9493	40.4433	0.263	Just posted a photo Carnegie Museum of Natural History
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+CONSOL Energy Center	-79.9894	40.4396	0.296	Just posted a photo CONSOL Energy Center
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Fright Nights At Kennywood Park	-79.8641	40.3865	-0.271	Just posted a photo Fright Nights At Kennywood Park
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Mad Mex Shadyside	-79.9251	40.4583	-0.390	Just posted a photo Mad Mex Shadyside
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	0.248	Just posted a photo Soldiers &amp; Sailors Memorial Hall &amp; Museum Trust
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	0.248	Just posted a photo Soldiers &amp; Sailors Memorial Hall &amp; Museum Trust
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	0.248	Just posted a photo Soldiers &amp; Sailors Memorial Hall &amp; Museum Trust
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	0.248	Just posted a photo Soldiers &amp; Sailors Memorial Hall &amp; Museum Trust
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	0.248	Just posted a photo Soldiers &amp; Sailors Memorial Hall &amp; Museum Trust
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	0.248	Just posted a photo Soldiers &amp; Sailors Memorial Hall &amp; Museum Trust
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	0.248	Just posted a photo Soldiers &amp; Sailors Memorial Hall &amp; Museum Trust
+Soldiers & Sailors Memorial Hall & Museum Trust	-79.9564	40.4450	0.248	Just posted a photo Soldiers &amp; Sailors Memorial Hall &amp; Museum Trust
+Phantom Fright Nights	-79.8652	40.3857	-0.342	Just posted a photo Phantom Fright Nights
+Phantom Fright Nights	-79.8652	40.3857	-0.342	Just posted a photo Phantom Fright Nights
+Phantom Fright Nights	-79.8652	40.3857	-0.342	Just posted a photo Phantom Fright Nights
+Phantom Fright Nights	-79.8652	40.3857	-0.342	Just posted a photo Phantom Fright Nights
+Phantom Fright Nights	-79.8652	40.3857	-0.342	Just posted a photo Phantom Fright Nights
+Phantom Fright Nights	-79.8652	40.3857	-0.342	Just posted a photo Phantom Fright Nights
+Phantom Fright Nights	-79.8652	40.3857	-0.342	Just posted a photo Phantom Fright Nights
+Smithfield United Church Of Christ_2	-80.0079	40.4490	0.286	Just posted a photo Smithfield United Church Of Christ
+Smithfield United Church Of Christ_2	-80.0079	40.4490	0.286	Just posted a photo Smithfield United Church Of Christ
+Smithfield United Church Of Christ_2	-80.0079	40.4490	0.286	Just posted a photo Smithfield United Church Of Christ
+Smithfield United Church Of Christ_2	-80.0079	40.4490	0.286	Just posted a photo Smithfield United Church Of Christ
+Smithfield United Church Of Christ_2	-80.0079	40.4490	0.286	Just posted a photo Smithfield United Church Of Christ
+Smithfield United Church Of Christ_2	-80.0079	40.4490	0.286	Just posted a photo Smithfield United Church Of Christ
+Smithfield United Church Of Christ_2	-80.0079	40.4490	0.286	Just posted a photo Smithfield United Church Of Christ
+The Smiling Moose	-79.9850	40.4288	0.375	Just posted a photo The Smiling Moose
+The Smiling Moose	-79.9850	40.4288	0.375	Just posted a photo The Smiling Moose
+The Smiling Moose	-79.9850	40.4288	0.375	Just posted a photo The Smiling Moose
+The Smiling Moose	-79.9850	40.4288	0.375	Just posted a photo The Smiling Moose
+The Smiling Moose	-79.9850	40.4288	0.375	Just posted a photo The Smiling Moose
+The Smiling Moose	-79.9850	40.4288	0.375	Just posted a photo The Smiling Moose
+The Smiling Moose	-79.9850	40.4288	0.375	Just posted a photo The Smiling Moose
+Thrival Festival	-79.9526	40.4241	0.444	Just posted a photo Thrival Festival
+Thrival Festival	-79.9526	40.4241	0.444	Just posted a photo Thrival Festival
+Thrival Festival	-79.9526	40.4241	0.444	Just posted a photo Thrival Festival
+Thrival Festival	-79.9526	40.4241	0.444	Just posted a photo Thrival Festival
+Thrival Festival	-79.9526	40.4241	0.444	Just posted a photo Thrival Festival
+Thrival Festival	-79.9526	40.4241	0.444	Just posted a photo Thrival Festival
+The Milk Shake Factory	-79.9818	40.4289	-0.221	Just posted a photo The Milk Shake Factory
+The Milk Shake Factory	-79.9818	40.4289	-0.221	Just posted a photo The Milk Shake Factory
+The Milk Shake Factory	-79.9818	40.4289	-0.221	Just posted a photo The Milk Shake Factory
+The Milk Shake Factory	-79.9818	40.4289	-0.221	Just posted a photo The Milk Shake Factory
+The Milk Shake Factory	-79.9818	40.4289	-0.221	Just posted a photo The Milk Shake Factory
+Sin City Clubhouse	-79.8885	40.4546	-0.419	Just posted a photo Sin City Clubhouse
+Sin City Clubhouse	-79.8885	40.4546	-0.419	Just posted a photo Sin City Clubhouse
+Sin City Clubhouse	-79.8885	40.4546	-0.419	Just posted a photo Sin City Clubhouse
+Sin City Clubhouse	-79.8885	40.4546	-0.419	Just posted a photo Sin City Clubhouse
+Sin City Clubhouse	-79.8885	40.4546	-0.419	Just posted a photo Sin City Clubhouse
+Studio 41 Entertainment	-80.0028	40.4413	0.359	Just posted a photo Studio 41 Entertainment
+Studio 41 Entertainment	-80.0028	40.4413	0.359	Just posted a photo Studio 41 Entertainment
+Studio 41 Entertainment	-80.0028	40.4413	0.359	Just posted a photo Studio 41 Entertainment
+Studio 41 Entertainment	-80.0028	40.4413	0.359	Just posted a photo Studio 41 Entertainment
+Studio 41 Entertainment	-80.0028	40.4413	0.359	Just posted a photo Studio 41 Entertainment
+Port Authority South Hills Junction	-80.0075	40.4207	0.157	Just posted a photo Port Authority South Hills Junction
+Port Authority South Hills Junction	-80.0075	40.4207	0.157	Just posted a photo Port Authority South Hills Junction
+Port Authority South Hills Junction	-80.0075	40.4207	0.157	Just posted a photo Port Authority South Hills Junction
+Port Authority South Hills Junction	-80.0075	40.4207	0.157	Just posted a photo Port Authority South Hills Junction
+Port Authority South Hills Junction	-80.0075	40.4207	0.157	Just posted a photo Port Authority South Hills Junction
+Mexican War Streets	-80.0107	40.4554	-0.438	Just posted a photo Mexican War Streets
+Mexican War Streets	-80.0107	40.4554	-0.438	Just posted a photo Mexican War Streets
+Mexican War Streets	-80.0107	40.4554	-0.438	Just posted a photo Mexican War Streets
+Mexican War Streets	-80.0107	40.4554	-0.438	Just posted a photo Mexican War Streets
+Mexican War Streets	-80.0107	40.4554	-0.438	Just posted a photo Mexican War Streets
+East Liberty Presbytarian Church	-79.9741	40.4375	0.362	Just posted a photo East Liberty Presbytarian Church
+East Liberty Presbytarian Church	-79.9741	40.4375	0.362	Just posted a photo East Liberty Presbytarian Church
+East Liberty Presbytarian Church	-79.9741	40.4375	0.362	Just posted a photo East Liberty Presbytarian Church
+East Liberty Presbytarian Church	-79.9741	40.4375	0.362	Just posted a photo East Liberty Presbytarian Church
+East Liberty Presbytarian Church	-79.9741	40.4375	0.362	Just posted a photo East Liberty Presbytarian Church
+Great Allegheny Passage	-79.9186	40.4081	0.451	Just posted a photo Great Allegheny Passage
+Great Allegheny Passage	-79.9186	40.4081	0.451	Just posted a photo Great Allegheny Passage
+Great Allegheny Passage	-79.9186	40.4081	0.451	Just posted a photo Great Allegheny Passage
+Great Allegheny Passage	-79.9186	40.4081	0.451	Just posted a photo Great Allegheny Passage
+Happy 4th	-79.9714	40.3769	0.481	Just posted a photo Happy 4th
+Happy 4th	-79.9714	40.3769	0.481	Just posted a photo Happy 4th
+Happy 4th	-79.9714	40.3769	0.481	Just posted a photo Happy 4th
+Happy 4th	-79.9714	40.3769	0.481	Just posted a photo Happy 4th
+Amazing Cafe	-79.9832	40.4287	0.487	Just posted a photo Amazing Cafe
+Amazing Cafe	-79.9832	40.4287	0.487	Just posted a photo Amazing Cafe
+Amazing Cafe	-79.9832	40.4287	0.487	Just posted a photo Amazing Cafe
+Phantom's Revenge	-79.8660	40.3890	-0.459	Just posted a photo Phantom's Revenge
+Phantom's Revenge	-79.8660	40.3890	-0.459	Just posted a photo Phantom's Revenge
+Phantom's Revenge	-79.8660	40.3890	-0.459	Just posted a photo Phantom's Revenge
+Liberty Tunnel	-79.9994	40.4291	0.459	Just posted a photo Liberty Tunnel
+Liberty Tunnel	-79.9994	40.4291	0.459	Just posted a photo Liberty Tunnel
+Liberty Tunnel	-79.9994	40.4291	0.459	Just posted a photo Liberty Tunnel
+Pittsburgh Improv Comedy Club	-79.9150	40.4091	0.294	Just posted a photo Pittsburgh Improv Comedy Club
+Pittsburgh Improv Comedy Club	-79.9150	40.4091	0.294	Just posted a photo Pittsburgh Improv Comedy Club
+Pittsburgh Improv Comedy Club	-79.9150	40.4091	0.294	Just posted a photo Pittsburgh Improv Comedy Club
+Spirit	-79.9557	40.4784	0.362	Just posted a photo Spirit
+Spirit	-79.9557	40.4784	0.362	Just posted a photo Spirit
+Spirit	-79.9557	40.4784	0.362	Just posted a photo Spirit
+Frick Fine Arts Building	-79.9512	40.4417	0.231	Just posted a photo Frick Fine Arts Building
+Frick Fine Arts Building	-79.9512	40.4417	0.231	Just posted a photo Frick Fine Arts Building
+Frick Fine Arts Building	-79.9512	40.4417	0.231	Just posted a photo Frick Fine Arts Building
+Peace, Love and Little Donuts	-79.9841	40.4521	0.562	Just posted a photo Peace, Love and Little Donuts
+Peace, Love and Little Donuts	-79.9841	40.4521	0.562	Just posted a photo Peace, Love and Little Donuts
+Peace, Love and Little Donuts	-79.9841	40.4521	0.562	Just posted a photo Peace, Love and Little Donuts
+One on One Personal Training & Fitness	-79.9765	40.4562	0.189	Just posted a photo One on One Personal Training &amp; Fitness
+One on One Personal Training & Fitness	-79.9765	40.4562	0.189	Just posted a photo One on One Personal Training &amp; Fitness
+One on One Personal Training & Fitness	-79.9765	40.4562	0.189	Just posted a photo One on One Personal Training &amp; Fitness
+Biddle's Escape	-79.8922	40.4381	0.298	Just posted a photo Biddle's Escape
+Biddle's Escape	-79.8922	40.4381	0.298	Just posted a photo Biddle's Escape
+Consol Energy Center_2	-79.9902	40.4391	0.296	Just posted a photo Consol Energy Center
+Consol Energy Center_2	-79.9902	40.4391	0.296	Just posted a photo Consol Energy Center
+Gallery Crawl-Pittsburgh Cultural Trust	-79.9988	40.4429	0.355	Just posted a photo Gallery Crawl-Pittsburgh Cultural Trust
+Gallery Crawl-Pittsburgh Cultural Trust	-79.9988	40.4429	0.355	Just posted a photo Gallery Crawl-Pittsburgh Cultural Trust
+Crazy Mocha	-79.9354	40.4579	-0.375	Just posted a photo Crazy Mocha
+Crazy Mocha	-79.9354	40.4579	-0.375	Just posted a photo Crazy Mocha
+no make up	-79.8911	40.3767	-0.306	Just posted a photo no make up
+no make up	-79.8911	40.3767	-0.306	Just posted a photo no make up
+Taylor Swift Concert	-80.0157	40.4465	0.265	Just posted a photo Taylor Swift Concert
+Taylor Swift Concert	-80.0157	40.4465	0.265	Just posted a photo Taylor Swift Concert
+Arts Festival	-80.0063	40.4422	0.444	Just posted a photo Arts Festival
+Arts Festival	-80.0063	40.4422	0.444	Just posted a photo Arts Festival
+National Best Friend Day	-79.9626	40.4394	0.597	Just posted a photo National Best Friend Day 
+National Best Friend Day	-79.9626	40.4394	0.597	Just posted a photo National Best Friend Day 
+Orangetheory Fitness Pittsburgh- East End	-79.9271	40.4624	0.231	Just posted a photo Orangetheory Fitness Pittsburgh- East End
+Orangetheory Fitness Pittsburgh- East End	-79.9271	40.4624	0.231	Just posted a photo Orangetheory Fitness Pittsburgh- East End
+Casa Rasta - East Liberty	-79.9254	40.4602	0.362	Just posted a photo Casa Rasta - East Liberty
+Casa Rasta - East Liberty	-79.9254	40.4602	0.362	Just posted a photo Casa Rasta - East Liberty
+promise im not naked	-80.0134	40.4452	0.277	Just posted a photo promise im not naked
+promise im not naked	-80.0134	40.4452	0.277	Just posted a photo promise im not naked
+East Liberty Lutheran Church Flea Market	-79.9282	40.4631	0.298	Just posted a photo East Liberty Lutheran Church Flea Market
+East Liberty Lutheran Church Flea Market	-79.9282	40.4631	0.298	Just posted a photo East Liberty Lutheran Church Flea Market
+Three Rivers Art Festival Pittsburgh Pa	-80.0058	40.4424	0.286	Just posted a photo Three Rivers Art Festival Pittsburgh Pa
+Three Rivers Art Festival Pittsburgh Pa	-80.0058	40.4424	0.286	Just posted a photo Three Rivers Art Festival Pittsburgh Pa
+Top of the Mountain	-79.9415	40.4170	0.231	Just posted a photo Top of the Mountain
+Top of the Mountain	-79.9415	40.4170	0.231	Just posted a photo Top of the Mountain
+Smithfield United Church Of Christ_1	-79.9972	40.4418	0.286	Just posted a photo Smithfield United Church Of Christ
+Smithfield United Church Of Christ_1	-79.9972	40.4418	0.286	Just posted a photo Smithfield United Church Of Christ
+idk i love this picture	-79.9633	40.3663	0.264	Just posted a photo idk i love this picture
+idk i love this picture	-79.9633	40.3663	0.264	Just posted a photo idk i love this picture
+East Liberty, Pennsylvania	-79.9237	40.4638	0.405	Just posted a photo East Liberty, Pennsylvania
+East Liberty, Pennsylvania	-79.9237	40.4638	0.405	Just posted a photo East Liberty, Pennsylvania
+evil friends	-80.0766	40.3648	-0.124	Just posted a photo evil friends
+evil friends	-80.0766	40.3648	-0.124	Just posted a photo evil friends
+Stout Training Pittsburgh	-79.9837	40.4520	0.254	Just posted a photo Stout Training Pittsburgh
+Stout Training Pittsburgh	-79.9837	40.4520	0.254	Just posted a photo Stout Training Pittsburgh
+Friendship, PGH	-79.9372	40.4587	0.420	Just posted a photo Friendship, PGH
+Friendship, PGH	-79.9372	40.4587	0.420	Just posted a photo Friendship, PGH
+three rivers arts festival	-80.0042	40.4462	0.348	Just posted a photo three rivers arts festival
+three rivers arts festival	-80.0042	40.4462	0.348	Just posted a photo three rivers arts festival
+stop drop and roll	-79.9880	40.4353	-0.462	Just posted a photo stop drop and roll
+SIX16 Body Piercing & Fine Jewelry	-79.9596	40.4721	0.184	Just posted a photo SIX16 Body Piercing &amp; Fine Jewelry
+Carnegie Museum of Art and Natural History	-79.9498	40.4431	0.217	Just posted a photo Carnegie Museum of Art and Natural History
+E Liberty Blvd and N Highland Ave	-79.9228	40.4659	0.327	Just posted a photo E Liberty Blvd and N Highland Ave
+Radiant Hall Studios	-79.9603	40.4735	0.383	Just posted a photo Radiant Hall Studios
+smile	-79.9372	40.4832	0.455	Just posted a photo smile
+Hard Rock Cafe Pittsburgh	-80.0049	40.4340	-0.189	Just posted a photo Hard Rock Cafe Pittsburgh
+Three Rivers art Festival	-80.0034	40.4416	0.348	Just posted a photo Three Rivers art Festival
+Mexican War Sweets	-80.0130	40.4579	-0.063	Just posted a photo Mexican War Sweets
+Spencer United Methodist Church	-79.9775	40.3859	0.318	Just posted a photo Spencer United Methodist Church
+Old Party Guys	-79.9292	40.4514	0.351	Just posted a photo Old Party Guys
+Pittsburgh Children's Festival	-79.9527	40.4428	0.390	Just posted a photo Pittsburgh Children's Festival
+Mint Fine Indian Cuisine	-80.0429	40.4011	0.231	Just posted a photo Mint Fine Indian Cuisine
+Top Gear Bicycle Shop	-79.9268	40.4593	0.231	Just posted a photo Top Gear Bicycle Shop
+Pittsburgh Grand Prix	-79.9483	40.4481	0.375	Just posted a photo Pittsburgh Grand Prix
+Greater Pittsburgh Coliseum	-79.8937	40.4563	0.333	Just posted a photo Greater Pittsburgh Coliseum
+Grand View Buffet at Rivers Casino	-80.0219	40.4466	0.273	Just posted a photo Grand View Buffet at Rivers Casino
+Cathedral of Hope	-79.9256	40.4610	0.367	Just posted a photo Cathedral of Hope
+Three River's Arts Festival	-80.0055	40.4416	0.348	Just posted a photo Three River's Arts Festival
+Treasure Island	-80.0518	40.3757	0.355	Just posted a photo Treasure Island
+Pittsburgh International Children's Festival	-79.9519	40.4426	0.348	Just posted a photo Pittsburgh International Children's Festival
+Lost Kennywood	-79.8673	40.3888	-0.365	Just posted a photo Lost Kennywood
+Vance Joy -Riptide	-80.0244	40.4557	0.432	Just posted a photo Vance Joy -Riptide
+Lazy Town	-80.0396	40.3886	-0.385	Just posted a photo Lazy Town
+TGI Friday's - Consol Energy	-79.9901	40.4389	0.259	Just posted a photo TGI Friday's - Consol Energy
+Arcade Comedy Theater	-79.9985	40.4428	0.333	Just posted a photo Arcade Comedy Theater
+Liberty Ave	-79.9967	40.4431	0.459	Just posted a photo Liberty Ave.
+Bicycle Heaven	-80.0321	40.4562	0.452	Just posted a photo Bicycle Heaven
+Liberty & 25th Ave	-79.9788	40.4537	0.362	Just posted a photo Liberty &amp; 25th Ave
+My Comfort Zone My Bed	-80.0140	40.3996	0.263	Just posted a photo My Comfort Zone My Bed
+Home_2	-80.0013	40.4560	0.365	Just posted a photo Home :-)

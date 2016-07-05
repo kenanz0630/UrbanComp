@@ -1,0 +1,53 @@
+cluster0,,cluster1,,cluster2,,cluster3,,cluster4,,cluster5,,cluster6,,cluster7,
+term,senti,term,senti,term,senti,term,senti,term,senti,term,senti,term,senti,term,senti
+wicked benedum center performing arts w,-1.248,geico management development program auto damage,-1.130,south side flats,-1.441,front,-1.154,view pnc park,-1.739,stage ae,-1.477,margarita mad mex shadyside,-1.378,luke wholeys wild alaskan grille,-1.174
+point park university,-1.276,pittsburghandwestern pa,-1.134,rex theatre,-1.277,crowd,-1.124,seats,-1.660,luke,-1.255,hillman cancer center pittsburgh pa,-1.458,pamelas p & g diner,-1.183
+david l lawrence convention center,-1.344,carnegie museum,-1.360,dees cafe,-1.900,insane,-1.748,cutch,-1.430,youuuu heinz field,-1.303,w,-1.504,year altar bar,-1.325
+loss prevention spec ii cvs health,-1.019,decision,-1.320,blind pig tavern,-1.225,left,-1.249,buccos,-1.873,youve sitting since,-1.360,fight,-1.537,terror town,-2.204
+point state park,-1.301,panther,-1.412,southside works cinema,-1.316,refs,-2.231,pitcher,-1.643,killing,-1.842,hear,-1.512,food,-1.446
+difficult,-1.449,carlow university,-1.320,local bar kitchen,-1.290,5th ave,-1.519,andy warhol museum,-1.259,tyler creator,-1.450,whole foods,-1.650,place,-1.389
+ale,-1.428,til,-1.515,hofbrauhaus,-1.426,sitting,-1.189,come,-1.321,north shore,-1.094,teenager,-1.490,whoo bomb primanti bros,-1.882
+office,-1.340,pants,-1.632,saloon,-1.407,puck,-1.919,jay hay,-1.675,bryan,-1.303,shady side,-1.475,punk,-1.887
+shes,-1.348,complaining,-1.510,rex theater,-1.648,ref,-1.962,raise,-1.480,stadium,-1.326,mexican,-1.037,missed,-2.011
+drink,-1.428,hockey,-1.586,trap,-1.622,awful,-1.919,baby,-1.427,football,-1.440,chai,-1.263,pop,-1.887
+case,-1.500,r,-1.549,weather,-1.316,heart,-1.406,love,-1.456,blue devils,-1.048,big azz,-1.213,sound,-1.165
+public,-1.355,headphones,-1.381,mocha,-1.575,lady,-1.537,nuts,-1.387,tilted,-1.776,o,-1.558,sucked,-2.063
+sienna mercato,-1.459,personal,-1.253,mix,-1.282,open,-1.264,driving,-1.804,kilt,-1.776,oz,-1.551,dudes,-1.545
+floor wars,-1.526,hoes,-1.483,broken,-1.593,entire,-1.187,vs pirates,-1.169,antwoord pittsburgh pa,-1.631,worlds,-1.208,lunch,-1.484
+tried,-1.391,apartment,-1.170,sober,-1.608,close,-1.569,verlander,-1.307,asses,-1.171,parade,-1.104,starving,-1.172
+needed,-1.286,torture,-1.724,anyone else,-1.381,arcade fire,-1.772,red lot 7c,-1.320,bomb,-2.082,cigarette,-2.204,wants draft conspiracy,-1.580
+catch,-1.308,hospital,-1.503,outer space,-1.261,lets go pens,-1.442,miranda lambert,-1.797,world war,-1.655,assume,-1.392,walking strip district,-1.009
+11,-1.356,apparently,-1.514,ipa,-1.685,song,-1.520,isnt playing,-1.641,filter needed,-1.111,soccer,-1.417,wholeys fish market,-1.108
+property & casualty licensed customer representati,-1.200,read,-1.403,coach,-1.198,bylsma,-2.185,place,-1.404,killed,-1.737,training,-1.438,mood,-1.285
+sense,-1.264,forbes,-1.324,green,-1.160,awkward moment,-1.261,hunter,-1.587,science,-1.215,seems,-1.444,wait thats name,-1.364
+ac,-1.439,ive,-1.388,bros,-1.241,rebel,-1.149,city,-1.152,crying,-1.376,parking,-1.254,gt,-2.170
+break,-1.521,events,-1.481,bitter,-1.654,fuckin,-1.649,went,-1.657,duke,-1.048,dark,-1.196,ridiculous,-1.285
+meh,-1.668,friends,-1.431,wild,-1.367,playoff,-1.586,federal,-1.268,lost,-1.416,become,-1.289,high,-1.178
+terrified,-1.373,respect,-1.351,lady,-1.187,great,-1.371,head,-1.566,babe,-1.655,words,-1.171,guys,-1.242
+station,-1.383,nightmare,-1.609,devil,-1.533,spell,-1.261,person,-1.494,blood,-1.352,star,-1.492,bc,-1.119
+team,-1.314,graduation,-1.335,leaving,-1.509,ipa,-1.189,partner crime,-1.616,fail,-1.441,different,-1.127,making,-1.183
+parking,-1.759,valentines,-1.169,men,-1.395,coach,-1.246,tell,-1.315,started,-1.250,til,-1.532,w,-1.435
+dark,-1.203,professor,-1.331,dinner,-1.111,box,-1.480,show,-1.351,currently,-1.369,hall,-1.325,omg,-1.124
+blood,-1.555,book,-1.362,v,-1.467,watching,-1.270,gotten,-1.394,double,-1.259,protest,-1.520,made,-1.071
+holy crap,-1.875,squad,-1.512,moment,-1.490,desperate,-2.043,cards,-1.563,panic disco,-1.571,birthday,-1.275,killed,-1.840
+meat & potatoes,-1.190,art,-1.402,evil,-1.562,schedule,-1.338,attacked,-1.147,drive,-1.083,e,-1.612,theres,-1.194
+oxford centre,-1.583,aka,-1.355,9,-1.437,consol,-1.351,care,-1.612,somebody,-1.714,read,-1.376,school,-1.210
+market square,-1.281,tweeting,-1.438,street,-1.338,throw,-1.220,feelin,-1.192,ball,-1.584,picture,-1.141,oh,-1.296
+internship,-1.439,means,-1.493,took,-1.386,hotel,-1.215,figure,-1.302,ruined,-1.303,disappointed,-1.329,zack would jealous altar,-1.236
+greyhound,-1.233,death,-1.467,heard,-1.127,50,-1.514,ban,-1.267,needs,-1.392,lame,-1.400,yuck,-1.094
+aerotek,-1.200,schenley,-1.484,news,-1.391,march,-1.579,holy,-2.290,horrible,-1.538,obsessed,-1.270,young scooter sleep,-1.644
+ice,-1.296,dance,-1.354,mess,-1.220,middle,-1.629,rivers,-1.961,anymore,-1.902,happy,-1.421,ya broke,-2.106
+9,-1.268,depressed,-1.831,beat,-1.293,come,-1.415,glasses,-1.866,poor,-2.151,hungry,-1.419,without jacket wasnt smartest idea,-1.009
+set,-1.244,half hour,-1.250,wyep,-1.397,steal,-1.150,fails,-1.449,worse,-1.216,club,-2.198,whole body convulsing,-1.438
+westin,-1.442,vs,-1.242,waffles,-1.380,11,-1.429,stealing,-1.623,long,-1.146,saw,-1.146,westin william penn,-1.296
+transfer,-1.436,running,-1.225,st 17th st,-1.232,pathetic,-1.971,pissed,-2.272,idk,-1.325,regret,-1.838,well beyond weeks loss,-1.158
+dunkin,-1.340,weakness,-1.694,show last,-1.433,lame,-1.491,say,-1.223,watching,-1.055,beer,-1.616,weighing packaging meat,-1.509
+con,-1.497,reality,-1.112,rye,-1.348,obsessed,-1.158,level,-1.103,pitt,-1.364,taking,-1.431,wearing capris pants,-1.119
+suffering,-1.980,nd,-1.437,rowdy buck,-1.229,fucks,-1.787,hearing,-1.538,hurts,-1.479,late,-1.253,weak ovation crosby,-1.446
+sociology,-1.640,andrew,-1.318,plates & pints,-1.621,rain,-1.467,race,-1.479,sucks,-2.218,understand,-1.214,way tragic altar,-1.325
+plaza,-1.243,fast,-1.298,pastrami,-1.502,wyatt,-1.385,hat,-1.743,youll see picture,-1.353,shut,-1.501,way many red,-1.438
+island,-1.305,thrones,-1.387,millennium,-1.172,whistle,-1.911,crushed,-1.378,wow factor,-1.513,awful,-1.663,way bye,-1.023
+enemies,-1.497,waiting,-1.339,milkshake factory milk shake,-1.044,sutter,-1.923,dumb,-1.835,would wear jeter,-1.208,nasty,-1.877,walker worries,-2.649
+safe,-1.526,slowly,-1.385,elementary,-1.161,slutty girls,-1.332,doe,-1.676,would like perineum,-1.786,without,-1.361,waiting great_cop casa,-1.644
+martin,-1.490,night class,-1.474,dirty ball dirty,-2.433,shots goal,-1.300,badass,-1.152,worth whiskey,-1.186,guy,-1.501,wack son,-1.971
+,-1.669,,-1.663,,-1.651,,-1.722,,-1.642,,-1.557,,-1.686,,-1.656

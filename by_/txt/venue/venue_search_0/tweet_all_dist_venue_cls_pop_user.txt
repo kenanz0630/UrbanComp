@@ -1,0 +1,21 @@
+cluster0,,cluster2,,cluster4,,cluster9,,cluster6,,cluster1,,cluster3,,cluster7,
+Pittsburgh Central Downtown Historic District,77,Fat Head's Saloon,58,PNC Park,292,AMC Loews Waterfront 22,109,Noodlehead,21,Carnegie Museum Of Natural History,33,CONSOL Energy Center,165,Primanti Brothers,68
+Hotel Monaco Pittsburgh,76,Hofbruhaus Pittsburgh Steak Company,53,The Andy Warhol Museum,76,Burgatory Homestead,26,BRGR Bar,21,The Porch at Schenley Plaza,18,Consol Energy Center,18,a pop concert ...? The,44
+Fairmont Pittsburgh Hotel,69,The Cheesecake Factory,44,Luxury Suites at PNC Park,55,Starbucks,23,Target,20,Petersen Events Center,15,City of Pittsburgh,17,DeLuca's Diner,28
+Carnegie Library Of Pittsburgh,69,Mario's Southside Saloon,31,The Beer Market,30,Rock Bottom Restaurant & Brewery,21,Whole Foods Market,19,Cathedral of Learning,15,Pizza Milano,14,Wholey's Fish Market,25
+Farmer's Market Square,53,Local Bar + Kitchen,30,Mullens Bar & Grill,24,TGI Fridays,15,Giant Eagle Market District Supermarket,17,Pizza Paul's at Panther Hollow Inn,12,Consol Energy Center,12,Roland's Seafood Grill and Iron Landing,23
+Point State Park,51,The Smiling Moose,28,PNC Park Pittsburgh Pirates,23,Blue Dust,13,Target,13,Carnegie Mellon University of Pittsburgh,12,TGI Fridays,9,Pamela's P&G Diner,20
+Benedum Center For The Performing Arts,45,SouthSide Works Cinema,26,PBC Grill PNC Park Club Level,20,Burgatory Waterfront,11,5801 Video Lounge & Cafe,11,Carnegie Library Of Pittsburgh,12,Cambria Suites,6,Wigle Whiskey,16
+Primanti Brothers,41,Primanti Bros.,25,PNC Park,18,Bar Louie Waterfront,11,The Livermore,10,Lulu's Noodles,11,Pittsburgh Penguins,5,Artisan Market In The Strip District,16
+Sharp Edge Bistro on Penn City Grille,31,bd's Mongolian Grill,23,BNY Mellon New Music Stage AE,13,Inn & Suites Pittsburgh Waterfront W,10,Chipotle Mexican Grill,9,Charles L. Cost Field at Pitt University of Pittsb,11,Duquesne University,5,Strip District,14
+Penn Station,31,The Claddagh Irish Pub,20,McFadden's,11,Mitchell's Fish Market,9,The Livermore,8,Starbucks,10,Duquesne University Power Center Gym,4,Pittsburgh Public Market,14
+Sienna Mercato,29,Nakama Japanese Steakhouse,18,B Z Bar and Grill,10,Target,8,Giant Eagle Market District Supermarket,7,Carnegie Museum of Natural History,10,Duquesne Student Union,4,Marty's Market,14
+Omni William Penn Hotel,28,Winghart's Whiskey & Burger Bar,17,Soho,9,TGI Fridays,7,Buffalo Blues,7,William Pitt Union,9,10th Street Bridge,4,Gaucho Parilla Argentina,13
+The Westin Convention Center Pittsburgh,25,Twelve on Carson,15,Roberto Clemente Bridge,8,Smoke Barbeque & Taqueria,7,UPMC Shadyside,6,Phipps Conservatory and Botanical Gardens,9,at Duquesne University Gumberg Library,3,The Pittsburgh Popcorn Company,11
+Tonic Bar And Grill,23,The Milk Shake Factory,15,Atria's Restaurant and Tavern,8,Burgatory,7,Starbucks,6,Wyndham Pittsburgh University Center,8,UPMC Mercy,3,Strip District,11
+Senator John Heinz History Center,22,OTB Bicycle Cafe,15,Roberto Clemente Bridge,5,Barnes & Noble,7,Plum Pan-Asian Kitchen,6,The Union Grill,8,Starbucks,3,Cavo,11
+Heinz Hall for the Performing Arts,22,Dee's Cafe,14,Andy Warhol Bridge,5,BRAVO! Cucina Italiana,7,Patron Mexican Grill,6,One of the things I miss the most when school: noo,8,Pittsburgh!,3,Luke Wholey's Wild Alaskan Grille,10
+Meat and Potatoes,21,Primanti Brothers South Side Tattoo,13,Three Rivers Heritage Trail,4,Target,6,Station Street Hot Dog Shop,5,Carnegie Museum Of Art,8,Lexus Club,3,Pennsylvania Macaroni Company,9
+David L. Lawrence Convention Center,21,Carson City Saloon,13,Residence Inn Pittsburgh North Shore,4,LongHorn Steakhouse,6,Dinette,5,Yuva India Indian Eatery,7,CONSOL Energy Center,3,Cioppino,8
+Emporio A Meatball Joint,20,Jimmy D's,12,Residence Inn,4,Yokoso! Japanese Steak House,5,Union Pig and Chicken,4,Primanti Bros.,7,A.J. Palumbo Center,3,Casa Reyna,8
+David L. Lawrence Convention Center,20,Emiliano's Mexican Restaurant and Bar,12,Pittsburgh Baseball Club,4,Pittsburgh Improv,5,UPMC Shadyside Bridge,4,Pamela's P&G Diner,7,Tailgaters Sports Bar & Grill,2,Thin Man Sandwich Shop,7

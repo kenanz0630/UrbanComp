@@ -1,0 +1,53 @@
+cluster0,,cluster1,,cluster2,,cluster3,,cluster4,,cluster5,,cluster6,,cluster7,
+term,senti,term,senti,term,senti,term,senti,term,senti,term,senti,term,senti,term,senti
+three rivers arts festival,1.051,carlow university,0.665,southside works,0.485,lets go pens consol energy center w,0.596,pirates baseball,0.422,taylorswift heinz field stadium,0.000,target east liberty,1.093,primanti bros,0.454
+grand pittsburgh downtown pgh,0.000,carnegie museum natural history,0.890,marios south side saloon,0.589,duquesne university,0.511,ball,0.690,last night stage ae,0.850,upmc shadyside,0.549,pittsburghs strip district burgh,0.000
+point state,0.482,cathedral learning,0.445,flats carson city saloon,0.000,hockey,0.711,ballpark america,1.179,taylor swift,0.945,livermore,0.835,altar bar marco,0.000
+market square,0.442,oakland,0.567,cheesecake factory,0.529,concert,0.648,lets go bucs,0.288,city,0.580,noodlehead,0.503,primanti brothers pittsburgh pa,0.421
+sienna mercato,0.542,phipps,0.428,smiling moose,1.157,penguins,0.487,view baseball,1.254,football,0.513,hour,0.533,peace love little donuts,1.739
+hotel,0.455,proud,1.022,hofbrauhaus,0.538,pens game,0.578,andy warhol museum,0.371,swift concert,0.868,union pig chicken,0.533,wigle whiskey,0.562
+art festival,1.340,schenley,0.523,local bar kitchen,0.478,lady gaga energy,0.000,raise,0.734,lets go pitt,0.393,5801,0.433,gaucho parrilla argentina,0.699
+david l lawrence convention,0.320,pitt,0.559,stout,0.846,tickets,0.678,buccos,0.543,homecoming,0.880,everything,0.606,pamelas p,0.425
+pride,1.101,soldiers,0.771,cheers,1.474,mac,0.745,way end,1.261,north shore,0.465,need,0.577,cavo restaurant lounge nightclub,0.548
+lunch,0.426,conservatory botanical gardens,0.389,spot,0.550,heart,0.799,stadium,0.509,seeing,0.685,oh yeah ice cream & coffee,1.021,g diner,0.404
+sales,0.315,wedding,0.653,dinner,0.511,save,0.959,free dennys,1.981,tailgate,0.522,gift,0.968,coffee,0.524
+wyndham,1.141,cathy,0.530,club cafe,0.559,mario,0.647,jolly,1.302,carnegie science,0.424,shots,0.838,polish,0.803
+roberto clemente bridge,0.416,hall,0.630,ipa,0.474,welcome,1.415,pirate,0.417,band,0.813,4,0.549,sandwich,0.528
+bar,0.535,actually,0.622,hour,0.626,garth brooks,0.689,club,0.639,panthers,0.424,plum pan asian kitchen,0.764,stout,0.851
+arcade comedy theater,1.298,looks,0.728,fat heads saloon,0.363,miley,0.664,beer market,0.380,steelers,0.436,bar,0.553,donut,1.561
+proud,1.062,school,0.583,acacia,0.689,goal,0.648,bucco baseball,1.029,steeler,0.444,take,0.632,cruze bar,0.484
+work,0.509,could,0.598,times,0.654,5,0.540,tickets,0.772,trip,0.812,dinner,0.616,martys market llc,0.481
+race,0.809,sailors,0.703,rex,0.535,made,0.608,roger,1.258,fantastic,1.492,haha,1.199,breakfast,0.562
+wonderful,1.202,congratulations,1.287,happiest,1.383,luck,1.324,heintz field,0.870,1989,0.721,ipa,0.374,seeing,0.741
+meat & potatoes,0.437,definitely,0.936,nakama,0.590,glad,1.075,gorgeous,1.258,hail pitt,0.787,cute,0.978,heaven,1.124
+il,0.537,someone,0.579,pub,0.564,circus,0.933,ballgame,0.587,boys,0.816,world,0.871,took,0.583
+conference,0.606,things,0.641,n,0.625,penguin,0.502,family,0.866,worth,0.777,makes,0.731,barrel,0.942
+grit & grace,1.003,going,0.517,holiday inn,0.977,upmc mercy,1.048,made,0.646,yesterday,0.637,sometimes,0.582,pic,0.525
+street,0.569,class,0.521,girls,0.628,power,0.488,watch,0.514,hey,0.511,others,0.543,public market llc,0.000
+parade,0.529,even,0.544,ale,0.592,vs,0.542,won,0.787,luke,0.491,join,0.791,kids,0.691
+looking,0.605,days,0.573,irish,0.625,still,0.621,fireworks,0.668,won,0.867,kind,0.630,seen,0.602
+music,0.672,fine,0.706,birthdays,1.352,yeah,0.959,mcfaddens,0.611,lights,0.502,real,0.693,music,0.714
+local,0.507,true,0.992,21st,1.069,blue line,0.609,4th,0.779,burgh,0.513,whole foods,0.498,join,0.904
+welcome,1.214,makes,0.697,jimmy ds,0.580,baby energy,0.000,nothing,0.805,da,0.555,ta,0.595,tea,0.495
+benedum,0.539,frick,0.872,see,0.561,lemieux,0.562,evening,0.872,cheer,1.260,pink,0.655,luke wholeys wild alaskan grille,0.558
+way,0.560,movie,0.598,far,0.653,fleury,0.783,burgh,0.441,friendship,1.364,dream,0.862,kaya,0.554
+view,0.436,tomorrow,0.575,feel,0.745,boys,0.671,run,0.552,fan,0.699,work,0.566,flavors,0.968
+ice,0.536,need,0.517,man,0.597,come,0.639,shore,0.490,15,0.393,feels,0.893,cool,1.104
+home,0.521,care,0.765,getting,0.632,warm ups,1.162,yeah,0.869,place,0.586,going,0.490,actually,0.941
+point park university,0.513,man,0.588,cool,0.817,playing,0.651,games,0.601,brand new,0.659,see,0.585,everything,0.751
+william,0.436,memorial,0.713,many,0.577,world,0.763,dad,0.530,surprise,1.491,make,0.621,bacon,0.855
+come,0.601,every,0.623,seen,0.689,sigma,0.910,guy,0.595,kiss,1.089,shopping,0.455,way,0.666
+week,0.555,thing,0.609,coffee,0.535,hes,0.694,vs w,0.339,might,0.755,cocktails,0.870,fair,0.709
+pattys,0.674,cute,1.066,always,0.627,super,1.183,bucn,0.451,walk,0.515,list,0.598,afternoon,0.653
+us,0.615,u,0.648,girl,0.571,u,0.671,season,0.523,team,0.571,gets,0.679,delucas,0.324
+group,0.362,still,0.613,excited,0.902,last,0.491,years,0.580,literally,0.809,last,0.525,looks,1.012
+also,0.687,feeling,0.730,3,0.494,theres,0.659,north,0.487,cutest,1.198,living,0.809,incredible,1.040
+celebrate,1.148,gave,0.562,mr joy city,1.048,na,0.585,summer,0.697,warm,0.937,congrats,1.195,church,0.447
+mellon,0.575,na,0.587,imperial,0.501,watching,0.604,tailgating,0.567,always,0.729,excited,0.848,every,0.703
+perl,0.756,feel,0.683,hofbru,0.381,another,0.744,yay,1.570,thing,0.542,sunshine,1.141,week,0.703
+omni,0.421,nothing,0.625,claddagh,0.472,walk,0.521,days,0.407,think,0.507,guys,0.926,cheese,0.350
+dream cream,1.096,loves,0.976,american,0.473,truly,1.093,year,0.548,times,0.944,pa,0.524,kid,0.702
+food,0.447,3,0.492,grill,0.303,help,0.982,company,1.065,honor,1.120,back,0.450,mini,0.728
+grant,0.767,guys,0.618,emilianos,0.457,listening,0.539,happiest,1.267,gold,0.484,everyone,0.654,earth,0.979
+celebrating,1.305,girls,0.676,could,0.666,2,0.563,ily,0.834,squad,0.625,blues,0.490,sunday,0.474
+,0.554,,0.677,,0.651,,0.726,,0.569,,0.561,,0.659,,0.601

@@ -1,0 +1,21 @@
+cluster0,,cluster2,,cluster4,,cluster9,,cluster6,,cluster1,,cluster3,,cluster7,
+Pittsburgh Central Downtown Historic District,102,Integrated Fitness,81,PNC Park,485,AMC Loews Waterfront 22,240,Giant Eagle Market District Supermarket,81,Carnegie Museum Of Natural History,36,CONSOL Energy Center,324,Primanti Brothers,73
+Hotel Monaco Pittsburgh,101,Fat Head's Saloon,75,Foreland Home,189,Homestead Grays Bridge,142,Hollywood Tans,59,The Porch at Schenley Plaza,28,Duquesne University Power Center Gym,56,a pop concert ...? The,60
+Carnegie Library Of Pittsburgh,91,Starbucks,61,The Andy Warhol Museum,86,Waterfront Stacks,123,Crazy Mocha,43,School of Information Sciences,19,Duquesne Union Starbucks,34,DeLuca's Diner,33
+Fairmont Pittsburgh Hotel,90,Hofbruhaus Pittsburgh Steak Company,58,Luxury Suites at PNC Park,80,Starbucks,80,Noodlehead,39,Carnegie Library Of Pittsburgh,19,Pizza Milano,24,Wholey's Fish Market,32
+Farmer's Market Square,75,The Cheesecake Factory,50,The Beer Market,35,Me Lyng,62,Whole Foods Market,34,UPMC Presbyterian,18,Consol Energy Center,24,Marty's Market,26
+Benedum Center For The Performing Arts,61,Mario's Southside Saloon,43,Mullens Bar & Grill,26,Burgatory Homestead,37,Target,34,Lulu's Noodles,17,Duquesne Towers,18,Roland's Seafood Grill and Iron Landing,25
+The Westin Convention Center Pittsburgh,58,Local Bar + Kitchen,36,PNC Park Pittsburgh Pirates,25,Me Lyng,27,5801 Video Lounge & Cafe,30,Starbucks,16,City of Pittsburgh,18,Pamela's P&G Diner,25
+Point State Park,57,SouthSide Works Cinema,34,PBC Grill PNC Park Club Level,21,Rock Bottom Restaurant & Brewery,23,Starbucks,29,Petersen Events Center,15,Starbucks,16,Wigle Whiskey,19
+Crazy Mocha,49,bd's Mongolian Grill,33,PNC Park,20,TGI Fridays,17,Buffalo Blues,26,Cathedral of Learning,15,Duquesne University Power Center Ballroom,16,Artisan Market In The Strip District,18
+Primanti Brothers,43,The Claddagh Irish Pub,33,Residence Inn,13,Blue Dust,17,Target,25,Pizza Paul's at Panther Hollow Inn,14,Duquesne University- Mellon Hall,14,Pittsburgh Public Market,17
+Emporio A Meatball Joint,41,Philsyland 2.0,33,BNY Mellon New Music Stage AE,13,Me Lyng,15,BRGR Bar,25,Charles L. Cost Field at Pitt University of Pittsb,14,College Hall,14,Strip District,16
+Sharp Edge Bistro on Penn City Grille,36,The Smiling Moose,31,McFadden's,12,Victoria's Secret PINK,13,Steel City Improv Theatre,24,UPMC Montefiore,12,Consol Energy Center,13,Cavo,15
+Penn Station,36,Primanti Bros.,27,B Z Bar and Grill,11,LongHorn Steakhouse,13,Giant Eagle Market District Supermarket,18,Phipps Conservatory and Botanical Gardens,12,Duquesne Student Union,12,Luke Wholey's Wild Alaskan Grille,13
+GNC World Headquarters,36,Waffles Incaffienated,24,Roberto Clemente Bridge,10,Burgatory Waterfront,13,East Liberty Presbyterian Church,15,Carnegie Mellon University of Pittsburgh,12,TGI Fridays,9,Gaucho Parilla Argentina,13
+Omni William Penn Hotel,33,Carson Street Deli,24,Soho,9,Bar Louie Waterfront,13,The Livermore,14,Wyndham Pittsburgh University Center,11,Duquesne University,9,Thin Man Sandwich Shop,12
+Heinz Hall for the Performing Arts,33,South Side,22,Atria's Restaurant and Tavern,8,Mitchell's Fish Market,12,Chipotle Mexican Grill,14,Carnegie Museum of Natural History,11,Duquesne Dining,9,Strip District,12
+Gold's Gym,32,OTB Bicycle Cafe,22,Trib Total Media,7,Me Lyng,11,Fuel On,12,The Union Grill,10,Duquesne University,7,Lotus Food,12
+Starbucks,31,Winghart's Whiskey & Burger Bar,21,Three Rivers Heritage Trail,6,Inn & Suites Pittsburgh Waterfront W,11,Giant Eagle Supermarket,11,Salk Hall,10,Cambria Suites,6,The Pittsburgh Popcorn Company,11
+Sienna Mercato,31,Dee's Cafe,21,Roberto Clemente Bridge,6,Target,10,The Shop In East Liberty Family Health Care Center,10,One of the things I miss the most when school: noo,10,at Duquesne University Gumberg Library,5,Penn Ave Fish Company,10
+Tonic Bar And Grill,26,Nakama Japanese Steakhouse,19,Andy Warhol Bridge,5,Smoke Barbeque & Taqueria,10,The Livermore,10,Little Asia,10,Pittsburgh Penguins,5,Lucky's,10

@@ -8,6 +8,46 @@ from geopy.distance import great_circle
 
 
 '''--- MAIN FUNCTION ---'''
+def auto_tweet_both(pg,auto,sep='\t'):
+	data_b=[]
+	name_b=[]
+	for i in xrange(len(auto)):
+		print '-- Export %s auto-tweet txt'%auto[i]
+		pg.cur.execute('''
+			select txt,lon,lat,username,year,doy,dow,hour,senti_val 
+			from %s where auto_tweet='%s';'''%(pg.tbname,auto[i]))
+		data=pg.cur.fetchall()
+		n=pg.cur.rowcount
+		txt=[data[j][0] for j in xrange(n)]
+		print '-- Process venue name'
+		name=process_venue_name(txt,auto[i])
+		n=len(name)
+		data_b+=[data[j] for j in xrange(n) if name[j]!='']
+		name_b+=[name[j] for j in xrange(n) if name[j]!='']
+		n=len(data)
+	
+	venues=list(set(name_b))	
+	print '---- Find %d venue names from auto-tweets'%len(venues)
+	tweet=init_clusters(len(venues),venues)
+	n=len(data_b)
+	for venue in venues:
+		tweet[venue]=[data_b[i] for i in xrange(n) if name_b[i]==venue]
+	
+	print '-- Write results'
+	f=os.open('txt\\auto-tweet\\'+pg.tbname+'_tweet.txt',os.O_RDWR|os.O_CREAT)
+	os.write(f,'venue,lon,lat,user,year,doy,dow,hour,senti_val,txt\n'.replace(',',sep))
+
+
+	for venue in venues:
+		n=len(tweet[venue])
+		for i in xrange(n):
+			(txt,lon,lat,user,year,doy,dow,hour,senti_val)=tweet[venue][i]
+			os.write(f,'%s'%venue+(',%0.4f,%0.4f,%s,%d,%d,%d,%d,%0.3f,'\
+				%(lon,lat,user,year,doy,dow,hour,senti_val)).replace(',',sep)+'%s\n'%txt)
+
+	os.close(f) 
+
+	
 def auto_tweet(pg,auto,auto_txt,sep='\t'): 
 	#process auto_tweet to extract full venue name (including punctuations)
 	#export and write tweets of each venue	
@@ -32,7 +72,6 @@ def auto_tweet(pg,auto,auto_txt,sep='\t'):
 	for venue in venues:
 		tweet[venue]=[data[i] for i in xrange(n) if name[i]==venue]
 		
-
 	
 	print '-- Write results'
 	f=os.open('txt\\auto-tweet\\'+pg.tbname+'_%s_tweet.txt'%auto,os.O_RDWR|os.O_CREAT)
@@ -49,6 +88,8 @@ def auto_tweet(pg,auto,auto_txt,sep='\t'):
 	os.close(f) 
 
 def auto_venue(fname,maxDist=50,sep='\t'):
+	#process venues by name and distance
+	#write venue info and rewrite venue tweets
 	print '-- Extract auto-tweet'
 	data=file('txt\\auto-tweet\\'+fname+'.txt').readlines()[1:]
 	n=len(data)
@@ -71,7 +112,7 @@ def auto_venue(fname,maxDist=50,sep='\t'):
 		 	[book,n]=redef_venue(book,venue,maxDist)
 		 	print '---- %d venues named %s'%(n,venue)
 
-	print '-- Merge venues with similar name'
+	print '-- Merge venues with similar name and proximity'
 	venues=book.keys()
 	while len(venues)>1:
 		venue_0=venues[0]
@@ -225,32 +266,48 @@ def process_venue_name(txt,auto):
 	if auto=='4sq':
 		for tweet in txt:
 			tweet=tweet.replace("I'm at ",'')
-			tweet=tweet.split(' ') 
-			i=0
-			venue=''
-			while i<len(tweet):
-				if tweet[i]=='-':
-					break
-				elif '(' in tweet[i]:
-					break
-				elif tweet[i]=='w/':
-					break
-				elif tweet[i]=='in':
-					break
-				elif tweet[i]=='for':
-					break
-				else:
-					venue+=' %s'%tweet[i]		
-				i+=1
-			venues+=[venue[1:]]
+			tweet=tweet.strip()
+			if len(tweet)>0:				
+				tweet=tweet.split(' ') 
+				i=0
+				venue=''
+				while i<len(tweet):
+					if tweet[i]=='-':
+						break
+					elif '(' in tweet[i]:
+						break
+					elif tweet[i]=='w/':
+						break
+					elif tweet[i]=='in':
+						break
+					elif tweet[i]=='for':
+						break
+					else:
+						venue+=' %s'%tweet[i]		
+					i+=1
+				venues+=[venue.strip()]
 	elif auto=='inst':
 		for tweet in txt:
-			venue=tweet.replace('Just posted a photo ','')
-			venues+=[venue]
-
+			tweet=tweet.replace('Just posted a photo ','')
+			tweet=tweet.strip()
+			if len(tweet)>0:
+				tweet=tweet.split(' ')
+				i=0
+				venue=''
+				while i<len(tweet):
+					if tweet[i][-1]==',' or tweet[i][-1]=='.':
+						venue+='%s'%tweet[i][:-1]
+						break
+					elif tweet[i]=='-':
+						break
+					elif '(' in tweet[i]:
+						break
+					else:
+						venue+=' %s'%tweet[i]
+					i+=1
+				venues+=[venue.strip()]
 
 	return venues
-
 
 '''------------------------------------------------------------------'''
 def find_diff_venue(data,d):
@@ -311,19 +368,26 @@ def to_merge(venue_0,venue,book,d):
 def merge_venue_name(venue_0,venue):
 	name=venue[:venue.find('_')] if '_' in venue else venue
 	name_0=venue_0[:venue_0.find('_')] if '_' in venue_0 else venue_0
-	if name_0.find(' ')>0 and name in name_0:
+	#contain or be contained
+	if name_0.find(' ')>0 and name in name_0: 
 		return venue_0
 	elif name.find(' ')>0 and name_0 in name:
 		return venue
+	#partly match
+	else:
+		name=name.split(' ')
+		name_0=name_0.split(' ')
+		if len(name)+len(name_0)-len(set(name+name_0))>1: #at least two words match
+			l=name if len(name)>len(name_0) else name_0
+			return ' '.join(l)
 	return False
-
 
 def process_venue_stats(data):
 	n=len(data)
 	(lon,lat)=venue_center(data)
 	checkin=n
 	user=len(list(set([data[i][2] for i in xrange(n)])))
-	[doy,dow,hour]=[stats.mode([int(data[i][j]) for i in xrange(n)])[0][0] for j in xrange(3,6)]
+	[year,doy,dow,hour]=[stats.mode([int(data[i][j]) for i in xrange(n)])[0][0] for j in xrange(3,7)]
 	senti=np.mean([float(data[i][-2]) for i in xrange(n)])
 
 	return [lon,lat,checkin,user,doy,dow,hour,senti]

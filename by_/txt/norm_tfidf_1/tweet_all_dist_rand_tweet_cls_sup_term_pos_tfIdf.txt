@@ -1,0 +1,52 @@
+cluster0,,cluster1,,cluster2,,cluster3,,cluster4,,cluster5,,cluster6,,cluster7,
+term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf
+three rivers arts festival point state,247.176,carnegie museum natural history,262.330,flats carson city saloon,105.480,lets go pens game consol energy center w,157.374,pirates baseball,78.706,taylorswift heinz field,144.253,noodlehead,42.818,primanti bros,178.708
+sienna mercato,191.567,cathedral learning,165.470,southside works,85.529,concert,105.210,stadium,61.902,steel city,78.064,union pig chicken,35.147,primanti brothers pittsburgh pa,77.754
+drinking,170.701,phipps conservatory botanical gardens,98.909,st,73.170,lady gaga center vs,69.195,tickets,52.951,last night stage ae,59.719,everything,32.594,pittsburghs strip district,67.993
+william penn hotel,163.298,carlow university,98.909,stout,72.807,tickets,66.188,heintz field,50.288,seeing,40.470,gift,29.635,wigle whiskey,64.750
+grand pittsburgh downtown pgh,105.480,schenley,91.300,local bar kitchen,71.291,fleetwood mac,62.242,free dennys,50.288,tailgate,39.353,shots,28.916,pamelas p,39.544
+pride,102.625,soldiers & sailors memorial hall,85.529,south side,64.353,heart,61.676,ballgame,48.562,sweet caroline lets go pitt,34.254,oh yeah ice cream & coffee,27.223,every time see,35.817
+lunch,102.546,wedding,79.426,spot,61.575,save,60.164,seats,47.652,trip,33.094,upmc shadyside,27.223,gaucho parrilla argentina,35.147
+sales,101.208,cathy,78.706,another,60.592,mario lemieux,59.723,watch,45.774,hail pitt,30.754,plum pan asian kitchen,27.223,weekend,34.351
+race,88.046,frick fine arts building,64.750,fat heads saloon,57.590,miley,55.094,way end,44.792,worth,30.488,haha,26.112,g diner,34.254
+meat & potatoes,86.134,movie,64.440,acacia,57.590,garth brooks,50.288,ball,44.085,hey,29.160,ipa,25.747,polish food,32.909
+il,85.529,pa,63.824,times,55.916,circus,49.363,fireworks,43.375,right,28.539,sometimes,24.972,seeing,28.907
+conference,84.992,gave,60.955,rex theater,55.832,penguin,48.562,two,43.253,lights,28.330,others,24.670,peace love little donuts,28.613
+grit & grace,78.706,city,59.696,holiday inn,51.806,pa,47.868,view,42.818,da,27.512,kind,24.458,took,26.147
+art festival point,78.706,oakland,59.655,irish,50.604,upmc mercy,46.652,bucn,35.147,taylor concert,27.223,pink,22.825,barrel,25.691
+parade,76.084,cup,54.182,birthdays,50.245,power,45.943,bucco,35.147,homecoming,27.223,shopping,21.687,pic,25.472
+local,72.807,roomie,53.819,enjoying,48.969,blue line grille,42.818,years,34.838,stadium,27.223,list,21.534,kids,24.894
+city,68.741,plaza,52.257,jimmy ds,48.562,baby,42.818,lets go bucs,34.357,cheer,27.091,friendship pgh,20.220,seen,24.818
+st pattys,66.608,lord,50.943,far,46.866,st,42.683,vs w,34.254,friendship,26.960,target target east liberty,20.119,fair,22.021
+mellon,64.855,hall & museum trust,50.288,new event mr joy city theatres mainstage pittsburg,42.818,warm ups,41.136,tailgating,33.525,15,26.043,meeting,19.690,finally,21.091
+perl,64.750,carnegie museum art,50.288,imperial,42.818,sigma kappa sorority,39.353,days,33.194,fucking,25.840,first united methodist,18.960,incredible,20.747
+omni,64.750,find,49.636,hofbru,42.818,duquesne,38.063,company,32.427,brand new,25.691,tumblr dream come true,18.960,church,20.525
+dream cream ice,64.750,razzy,49.363,claddagh,42.818,walk,37.341,happiest,32.304,kiss halloween,25.298,thrill mill,18.960,cheese,20.125
+arcade comedy theater,64.750,spirit,48.684,american,42.775,truly,37.227,ily,32.066,might,25.051,threadquarters,18.960,kid,20.033
+grant,64.601,chapel,48.562,grill,41.974,listening,37.004,ballpark,28.980,walk,24.894,pizza taglio,18.960,earth,19.690
+concert,64.295,ftw,44.792,emilianos,41.906,run,36.193,inspiration,27.512,literally,24.744,ritters diner,18.960,group,19.104
+marketing,62.965,paul,44.405,91 3fm wyep,41.136,crowd,35.646,saul,27.223,cutest,24.744,hour drinking,18.960,allegheny coffee & tea exchange,18.960
+county,62.203,free,43.854,drinking sunshine daydream session ipa smiling moo,41.136,boy,35.477,beer market pgh,27.223,squad,23.326,entrepreneurship,18.960,primanti brothers strip,18.960
+dance,62.046,cafe,43.301,german,40.468,stevie,35.147,lexus club level,27.223,bringing,23.065,dinette,18.960,d polish deli,18.960
+market,60.866,lulus,42.818,sushi,38.442,bangerz,35.147,home run,27.223,incredible,20.747,brgr,18.960,gaucho strip,18.960
+heinz,60.591,litchfield towers,42.818,early,38.342,6k,33.525,free club,27.223,sports,20.033,beauty shoppe,18.960,draught,18.960
+liberty ave,59.723,hemingways,42.818,brother,38.342,see,33.273,free,27.223,hard,20.033,baum grove,18.960,dishes,18.960
+stout,59.569,homecoming,42.496,theatre,38.042,eating,33.094,ballparks,27.223,july,19.690,avenue b,18.960,club zoo,18.960
+visit,58.597,burgh,42.336,east,37.341,screen,30.754,water,26.960,football,19.483,24 hours,18.960,bacon donut,18.960
+allegheny,58.265,porch,41.906,marios,36.459,success,30.660,wonderful,26.786,successful,19.310,dance,18.614,serve,18.149
+safety manager,57.590,thats,41.809,e,36.146,giving,30.660,visit,26.043,red,19.240,cause,18.242,pies,18.149
+performing arts,57.590,service,41.494,green,35.889,worth,30.488,anything,25.942,won,18.960,nail salon,18.149,market pittsburgh pa,18.149
+olive twist,57.590,tea,40.840,twelve,35.147,action,29.861,warhol,25.901,wildest dreams,18.960,lunches,18.149,habitat,18.149
+cream ice cream,57.590,crying,40.468,head hunter,35.147,present,29.603,5k,25.691,view stage ae,18.960,insanely,18.149,alive,17.739
+session,57.423,pandora,39.880,big dog coffee,35.147,study,28.711,red,25.653,tilted,18.960,grocery,18.149,caffeine,17.573
+central,57.033,handle,39.880,bys yoga,35.147,credit,27.983,yesterday,25.384,swindell,18.960,economic,18.149,end,17.496
+anthrocon,56.656,passionate,39.353,1311,35.147,top,27.958,happiness,25.214,1989 tour,18.960,fall,17.781,slaw,17.127
+penny,55.832,graduating,39.353,sisters,34.775,country,27.663,babe,25.214,lets go steelers fans,18.960,festival,17.655,sandwiches,17.127
+awards,55.326,grad,39.353,men,34.775,heres,27.512,da burgh,25.144,steeler games,18.960,d,17.615,porter,17.127
+rooftop,55.094,blake,39.353,done,34.126,support,27.428,truly,24.818,son,18.960,towards,17.573,pho,17.127
+honored,54.453,uncle,38.877,book,33.542,vip,27.367,football,24.390,proud boys,18.960,overnight,17.573,gang,17.127
+diamond,52.740,squad,38.877,buck,33.525,championship,27.367,andy,24.223,pittusburgh,18.960,enterprise,17.573,features,17.127
+wine,52.725,beginning,38.877,factory,33.315,wwe,27.223,three,24.192,luke bryan,18.960,10am,17.573,song,16.775
+winner,52.086,18th,38.877,since,32.304,welcome back tanger,27.223,section,23.928,kilt,18.960,something,16.964,primantis,16.763
+community,50.604,hail pitt,38.442,ice,31.517,show,27.223,super,23.915,jamison,18.960,pounds,16.763,nitro,16.763
+ladies,50.596,treating,38.042,babe,31.517,seats,27.223,woot,23.612,,0.000,giant eagle,16.763,cheerleaders,16.763

@@ -1,0 +1,6 @@
+term_tfidf,pa,pittsburgh,alert,love,good,happy,great,like,day,best
+,1373.4275,1150.9698,1089.6616,1089.4537,877.1036,866.1516,794.5311,756.3448,718.6755,695.2928
+user_tfidf,languageline,languageline solutions,solutions pa,languageline solutions pa,solutions,thank,one thank,alert,one,nice
+,263.1520,263.1520,263.1520,263.1520,256.2155,240.3410,196.2705,193.5157,187.7571,178.9969
+tfidf,square,point state park,state park,point state,state,market square,festival,place,sienna,arts
+,350.1822,346.4138,345.5439,345.5439,334.7989,296.6370,262.1367,231.9445,225.5802,216.0501

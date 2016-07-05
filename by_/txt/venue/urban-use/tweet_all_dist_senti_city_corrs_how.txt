@@ -1,0 +1,11 @@
+use,sum_senti,pos_n,neg_n
+College & University,0.3550,0.2379,0.1414
+Food,0.6791,0.5937,0.3858
+Residence,0.1242,0.2043,0.1660
+Travel & Transport,0.3511,0.4809,0.3765
+Outdoors & Recreation,0.4529,0.3172,0.1877
+Arts & Entertainment,0.5079,0.5288,0.3699
+Shop & Service,0.5197,0.4688,0.3152
+Nightlife Spot,0.1535,0.6386,0.5756
+NA,0.5699,0.6231,0.4507
+Professional & Other Places,0.5371,0.1161,-0.0360

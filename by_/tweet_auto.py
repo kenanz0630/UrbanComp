@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import tweet_auto_sub as sub
 
 '''--- MAIN FUNCTION ---'''
+	
 def venue_tweet_cls(fn_venue,fn_tweet): #rewrite venue tweet by cluster
 	print 'Extract cluster venues'
 	venues=extract_venue_cls(fn_venue)
@@ -14,6 +15,20 @@ def venue_tweet_cls(fn_venue,fn_tweet): #rewrite venue tweet by cluster
 
 	print 'Process and write cluster tweets'
 	write_venue_tweet_cls(fn_venue,venues,tweet)
+
+
+def auto_tweet_venue_both(tbname,dbname='tweet_pgh',user='postgres'):
+	#merge 4sq and inst venues
+	print 'Export and process auto-tweet, group by venues and write venue tweet'
+	print '-- Create pgcontroller'
+	pg=dbProcess.PgController(tbname,dbname,user)
+
+	auto=['4sq','inst']
+	sub.auto_tweet_both(pg,auto)
+
+	print 'Process venue name and rewrite venue tweet'
+	fname=tbname+'_tweet'
+	sub.auto_venue(fname)
 
 
 def auto_tweet_venue(tbname,auto,dbname='tweet_pgh',user='postgres'): 
@@ -26,7 +41,7 @@ def auto_tweet_venue(tbname,auto,dbname='tweet_pgh',user='postgres'):
 		auto_txt="I'm at "
 	elif auto=='inst':
 		auto_txt="Just posted a photo "
-	#sub.auto_tweet(pg,auto,auto_txt)
+	sub.auto_tweet(pg,auto,auto_txt)
 
 	print 'Process venue name and rewrite venue tweet'
 	fname=tbname+'_%s_tweet'%auto
@@ -34,11 +49,11 @@ def auto_tweet_venue(tbname,auto,dbname='tweet_pgh',user='postgres'):
 
 	print 'Draw venue map'
 	fname=tbname+'_%s_venue'%auto
-	sub.auto_venue_map(fname)
+	#sub.auto_venue_map(fname)
 	
 	print 'Extract auto-tweet with err senti' 
 	fn_tweet=tbname+'_%s_tweet_new'%auto
-	sub.auto_err_tweet(fname,fn_tweet)
+	#sub.auto_err_tweet(fname,fn_tweet)
 	
 
 def auto_tweet_map(tbname,auto,dbname='tweet_pgh',user='postgres',sep='\t'): #export auto_tweet and draw map

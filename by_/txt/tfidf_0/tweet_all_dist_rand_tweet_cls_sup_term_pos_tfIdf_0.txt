@@ -1,0 +1,52 @@
+cluster0,,cluster1,,cluster2,,cluster3,,cluster4,,cluster5,,cluster6,,cluster7,
+term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf
+interpreters languageline solutions pa,1300.409,pitt,533.379,smiling moose,339.218,lets go pens consol energy,2291.267,pirates baseball,958.710,football heinz field stadium,1053.357,target east liberty,226.024,pittsburghs strip district burgh,270.164
+alert,1022.473,university,437.866,marios south side saloon,316.343,duquesne university,334.359,lets go bucs,382.394,stage ae,541.404,shadyside,93.486,altar bar marco,223.080
+point state,493.144,oakland,328.362,southside works,283.656,hockey consol energy,251.903,ballpark,251.972,steelers,453.805,whole foods market,76.959,primanti bros,178.708
+downtown,464.102,carnegie museum natural history,305.270,carson city saloon,213.683,penguins,140.875,ball,217.155,pitt,140.893,hour,69.829,peace love little donuts,135.195
+market square,328.052,blessed world,249.488,club cafe,210.321,concert,105.210,view,172.003,taylor swift,129.992,livermore,64.750,cavo restaurant lounge nightclub,105.480
+arts festival,247.176,definitely,231.411,cheesecake factory,185.327,goal,100.526,raise,146.251,concert,128.590,join,59.559,martys market llc,82.013
+support,246.854,someone,225.393,bar,163.229,two,97.320,andy warhol museum,142.582,hall fame,118.233,delicious,54.147,gaucho parrilla argentina,78.706
+aerotek pa,237.265,cathedral learning,225.040,beer,139.537,last,96.510,buccos,140.875,north shore,111.576,ryer,50.288,primanti brothers,77.754
+convention,207.958,actually,184.993,hofbrauhaus,136.379,2,92.365,jolly,122.519,nfl,101.208,5801,50.288,g diner,76.084
+thing,200.083,u,184.641,hour,133.839,boys,89.120,vs,120.165,ben,96.292,feels,49.706,cruze bar,70.836
+david l lawrence,199.540,even,175.935,ipa,115.862,u,87.192,pirate,114.846,carnegie science,92.261,summer,46.351,pamelas p,68.475
+sienna mercato,191.567,2,175.493,dinner,112.875,hes,87.056,roger,101.208,defense,91.514,real,44.183,wigle whiskey,64.750
+grand,190.385,help,171.932,first,107.567,garth,85.529,cutch,101.208,bettis,91.300,soba,42.818,breakfast,62.829
+art,174.260,gon,170.174,cheers,105.801,someone,81.961,family,97.329,super bowl,90.878,noodlehead,42.818,sandwich,57.833
+could,173.675,3,163.240,dance,105.477,didnt,81.830,club,96.689,honor,89.464,cute,42.691,delicious,54.147
+year,171.932,thing,163.226,nakama,103.612,miss,81.647,beer market,94.885,fans,85.366,back,41.912,join,47.647
+drinking,170.701,okay,161.947,diesel,103.612,w,80.696,polanco,92.261,homecoming,77.909,buffalo blues,41.906,tea,47.646
+care,165.972,lmao,161.038,definitely,102.251,looking,77.724,hurdle,91.300,lets,77.799,chicken,41.729,heaven,47.303
+everyone,163.868,show,153.784,help,98.247,even,77.618,season,90.823,tomlin,76.084,10,41.589,stout,46.332
+three rivers,163.298,sure,152.762,way,93.432,watching,76.545,run,90.481,players,73.125,last,41.362,donut,46.130
+hotel,163.298,us,150.436,peace,90.130,fleury,74.654,1,88.215,safety,72.197,movie,41.007,beer,44.652
+gorgeous,161.573,guys,149.678,cute,90.126,played,74.455,4th,87.130,taylorswift,71.784,stay,40.134,real luck cafe,44.183
+enjoy,159.350,days,149.375,ale,88.486,feel,72.792,top,83.874,plays,70.804,yay,39.582,public market llc,43.067
+wyndham,154.841,say,148.051,need,87.007,theres,72.771,gorgeous,83.572,yard,66.608,dinner,39.506,delucas,42.818
+come,152.762,greatest,143.044,say,84.601,pens game consol,71.784,cubs,82.877,highlight,66.608,ta,38.794,colangelos,42.818
+next,152.673,work,142.907,happiest,83.991,omg,71.648,bucco,82.877,steeler,65.548,show,38.446,chocolate,39.380
+bridge,151.586,nothing,141.924,shit,83.722,cool,70.896,walk,80.906,two,64.880,saturday,37.458,maple bacon,38.442
+top,150.973,home,141.871,home,83.166,okay,70.177,mcfaddens,78.706,band,64.855,know,37.415,actually,38.087
+theater,149.001,wins,140.918,pub,82.877,vs,69.569,series,78.129,bell,64.162,gets,37.006,benefit,37.004
+sure,147.835,lovely,139.790,guys,82.581,gaga,69.195,braves,76.084,yesterday,63.459,beauty,36.688,lunch,36.193
+benedum,147.802,weather,138.172,us,82.497,person,68.386,evening,73.795,panthers,62.965,holidays,35.191,luke wholeys wild alaskan grille,36.146
+would,147.724,way,137.689,feeling,81.760,college,67.451,notebook,72.831,teams,61.575,union pig,35.147,sunday,36.098
+network,146.909,big,137.139,n,81.415,times,67.099,america,72.807,cant,60.387,years,34.838,see,35.817
+ive,146.763,fine,136.918,lounge,80.880,song,67.099,start,71.921,hail,60.375,extra,34.775,xtaza,35.147
+family,143.432,made,136.017,wait,80.433,live,67.099,end,69.984,year,58.948,dream,34.331,kaya,35.147
+view,143.335,congrats,134.366,lovely,78.282,line,66.776,new,69.755,free agency,57.590,church,34.208,flavors,35.147
+youre,142.959,luck,133.022,loves,77.862,sister,66.529,games,67.073,spotlight,56.656,little,33.902,brunch,34.978
+point park university,142.582,funny,130.212,yoga,77.826,start,66.389,burgh,66.529,always,56.122,presbyterian,33.525,christmas,34.689
+big,142.218,college,128.771,thats,76.457,tickets,66.188,place,65.951,fantastic,55.673,cocktails,33.525,celebrate,34.471
+looks,140.259,miss,128.303,true,76.279,4,65.718,never,64.198,hes,54.410,making,33.369,21st street coffee,34.401
+fucking,139.533,hey,128.303,aint,75.483,0,64.855,girl,63.728,come,54.206,would,33.357,weekend,34.351
+ok,139.474,school,126.923,5,75.343,duq,63.808,helps,62.961,weekend,53.980,looking,33.310,club,34.126
+associate,139.098,without,125.699,keep,75.320,wait,63.197,thats,62.122,boys,53.472,guy,33.252,times,33.550
+na,138.579,person,125.375,seeing,75.159,greatest,62.939,stadium,61.902,7,53.216,days,33.194,na,33.450
+penn,137.560,huge,123.929,head,74.915,ya,62.320,yeah,61.701,todays,52.507,watching,32.805,wine,32.953
+every,136.149,congratulations,123.718,shes,74.843,mac,62.242,excited,61.665,new,52.316,nothing,32.752,support,32.914
+little,135.610,making,122.354,gon na,73.509,something,62.200,prospect,61.507,healthy,52.086,living,32.683,polish,32.909
+street,134.146,spring,121.951,st,73.170,huge,61.964,fans,60.975,welcome,51.948,everything,32.594,enjoying,32.646
+christmas,132.974,ta,121.925,funny,72.919,valentines,61.859,guy,60.962,confident,51.806,margarita,32.375,afternoon,32.304
+ice,132.373,dear,121.671,stout,72.807,heart,61.676,mlb,60.867,place,50.732,sunshine,32.066,city,32.144

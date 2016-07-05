@@ -1,0 +1,57 @@
+cluster0,,cluster1,,cluster2,,cluster3,,cluster4,,cluster5,,cluster6,,cluster7,
+term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf
+wicked benedum center performing arts w,107.144,carlow university,84.085,southside,105.743,consol,81.041,view pnc park,202.497,stage ae,116.118,margarita mad mex shadyside,92.049,altar bar,49.209
+downtown,94.848,oakland,77.864,south side,105.495,pens,56.552,seats,43.271,heinz field,115.111,hillman cancer center pittsburgh pa,33.856,primanti bros,36.375
+traffic,72.935,new,71.186,milk shake factory,65.960,goal,51.223,baseball,40.874,panic disco,39.880,u,23.001,luke wholeys wild alaskan grille,33.856
+point park university,68.881,geico management development program auto damage,70.784,carson st,58.695,duquesne,47.970,cutch,37.741,luke,36.059,dirty,21.272,strip district,31.785
+david l lawrence convention center,62.169,first,67.487,rex,52.837,hockey,41.725,rain delay,33.979,pitt,34.266,start,20.700,pamelas p & g diner,26.255
+stress,48.556,theres,65.462,cafe,49.125,front,40.562,buccos,32.964,steelers,31.512,7,19.928,cavo,23.502
+prevention,48.352,take,65.283,bar,42.211,madness,38.907,beer market,32.682,rt,25.951,whats,19.861,menu monday,20.711
+things,47.406,pitt,60.221,blind pig,41.205,lets,37.832,vs pirates,32.635,sitting,25.187,makes,19.631,bloody mary,18.771
+killed,45.436,alarm,59.822,works,38.267,crowd,37.264,polanco,32.064,terrible towel,24.378,giant,19.414,terror town,18.530
+state,45.391,sorry,59.088,big,37.215,insane,35.889,inning,30.289,tyler creator,23.314,monday,19.381,food,18.008
+annoying,45.358,good,58.550,new,37.188,room,34.735,guy,27.531,north shore,23.314,hear,19.254,jealous,17.911
+missing,45.311,sometimes,58.508,home,36.462,left,34.655,andy warhol museum,26.908,bryan,22.960,rob,18.906,place,17.883
+difficult,44.717,school,58.428,dirty,35.045,pissed,34.338,pitcher,26.255,lets,22.773,food,18.559,gaucho,17.874
+first,44.669,already,58.248,terrible,34.666,refs,34.278,little,25.808,stadium,22.644,whole foods,18.314,whiskey,17.440
+cold,44.426,weird,57.040,weird,34.260,call,33.837,fans,25.653,bettis grille,22.355,teenager,18.314,bomb,17.038
+ale,44.196,phone,56.824,kitchen,34.034,didnt,33.350,broke,24.733,nfl notebook,21.358,shady side,18.314,punk,15.809
+office,42.471,many,56.038,hofbrauhaus,33.856,penalty,32.997,jay hay,24.723,football,20.420,mexican,18.314,pop,14.906
+home,42.183,lose,55.522,dees,33.856,big,32.597,hurdle,24.589,blue devils,19.667,chai,18.314,cry,14.878
+us,42.023,pittsburghandwestern pa,55.333,find,33.525,everything,32.560,mets,24.238,injury,19.419,big azz,18.314,sound,14.286
+school,41.225,something,55.053,things,33.506,person,32.241,raise,23.314,ravens,18.700,o,17.945,static nightclub,14.106
+aint,41.029,test,54.789,try,33.069,5th,32.235,baby,22.422,world war,18.657,let,17.866,bout,14.024
+hour,41.019,always,54.595,something,33.001,ave,31.931,mcfaddens,22.281,offensive,18.545,watching,17.854,sucked,13.711
+see,40.995,look,53.948,done,32.360,losing,31.631,end,21.357,browns,18.496,dinner,17.701,dudes,13.711
+shes,40.920,kid,53.891,saloon,32.235,sitting,31.483,wave,20.970,show,18.463,oz,17.503,brothers,13.643
+tonight,40.559,lost,53.066,local,32.235,puck,30.193,worse,20.033,tilted,18.314,lil,17.142,already,13.632
+others,39.958,see,51.895,always,31.716,ref,29.812,nuts,20.020,kilt,18.314,funny,16.915,lunch,13.614
+angry,39.601,idea,51.590,theater,31.619,awful,29.805,couldnt,19.903,antwoord pittsburgh pa,18.314,show,16.770,starving,13.521
+waiting,39.508,makes,51.298,else,31.539,shot,29.672,driving,19.898,bell,18.296,exhausted,16.729,brew,13.402
+leave,39.319,watching,51.068,made,31.182,week,29.624,mlb notebook,19.637,concert,18.272,terrible,16.512,others,13.315
+everything,38.492,conflict,51.005,devils & dolls,31.117,long,29.182,bucs,19.554,loss,17.874,worse,16.471,wants,13.265
+drink,38.133,museum,51.001,trap,31.073,thing,28.929,shore,18.433,vs,17.526,night,16.470,blocking,13.035
+bullshit,38.124,said,50.996,1,30.711,fans,28.819,hot,18.356,asses,17.503,past,16.466,market,12.901
+look,37.951,smh,50.832,weather,30.456,1,28.200,verlander,18.314,tantrums,17.290,bullshit,16.456,angry,12.599
+another,37.744,twitter,50.818,year,30.281,good,28.109,red lot 7c,18.314,36,17.290,centre ave,16.203,mood,12.429
+dude,37.732,sad,50.810,holy,30.061,crying,28.013,miranda lambert,18.314,bomb,17.038,hes,16.195,name,12.377
+little,37.706,girls,50.534,dumb,29.653,heart,27.887,isnt playing,18.314,roethlisberger,16.987,worlds,16.117,crying,12.359
+eat,37.695,hurts,50.245,head,29.339,fleury,27.886,make,18.083,filter needed,16.482,parade,16.117,st,12.163
+phone,37.560,poor,49.823,mocha,28.847,weekend,27.858,cardinals,17.985,bengals,16.481,cigarette,16.117,wigle,12.137
+pa,37.472,done,49.819,marios,28.276,called,27.858,woes,17.957,yeah,16.479,assume,16.117,rigatoni,12.137
+floor,37.446,person,49.483,away,27.906,8,27.751,place,17.883,6,16.352,awkward,16.059,house horrors,12.137
+sometimes,37.423,u,49.234,wont,27.602,hot,27.667,cubs,17.852,purple,16.281,problems,16.054,ugly,12.010
+3,37.382,shitty,49.127,house,27.556,alarm,27.614,loss,17.698,panthers,16.281,soccer,15.809,gt,12.005
+heart,36.777,decision,48.725,cry,27.555,lady,27.422,run,17.623,killed,16.132,sucks,15.751,near,11.994
+cut,36.588,work,48.654,shitty,27.485,awkward,27.373,phillies,17.596,night,16.115,drinking,15.721,ridiculous,11.963
+fight,36.226,bus,48.369,week,27.444,love,27.120,since,17.532,shoot,15.895,serious,15.659,drive,11.784
+fuckin,36.075,panther,48.352,block,27.236,af,27.075,hunter,17.503,live,15.840,training,15.542,high,11.692
+idk,35.889,til,48.347,fucks,27.167,pain,27.073,steals,17.222,science,15.809,theyre,15.127,strange,11.671
+morning,35.806,leave,47.794,could,27.099,every,27.068,doubt,17.162,leveon,15.762,literally,15.092,guys,11.656
+case,35.715,pants,47.647,black,27.004,isnt,26.876,dodgers,17.138,tomlin,15.626,eagle,15.079,yer,11.600
+come,35.618,wearing,47.551,actually,26.997,open,26.864,city,17.131,2,15.481,aint,15.041,well,11.448
+ture,9.850,shut,11.922,way many red,9.850
+island,24.723,thrones,31.619,millennium,18.314,whistle,18.314,crushed,14.572,wow factor,9.850,awful,11.922,way bye,9.850
+enemies,24.723,waiting,31.206,milkshake factory milk shake,18.314,sutter,18.314,dumb,14.562,would wear jeter,9.850,nasty,11.656,walker worries,9.850
+safe,24.176,slowly,31.085,elementary,18.314,slutty girls,18.314,doe,14.424,would like perineum,9.850,without,11.620,waiting great_cop casa,9.850
+martin,24.176,night class,31.085,dirty ball dirty,18.314,shots goal,18.314,badass,14.286,worth whiskey,9.850,guy,11.518,wack son,9.850

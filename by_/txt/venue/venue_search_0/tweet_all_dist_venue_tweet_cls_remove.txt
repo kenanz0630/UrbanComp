@@ -1,0 +1,499 @@
+clid	venue	lon	lat
+0	City of Pittsburgh	-79.9924	40.4470
+0	Penn Ave	-79.9961	40.4455
+0	S Q U A D	-80.0032	40.4442
+0	Anthrocon 2015	-79.9953	40.4443
+0	2014	-79.9958	40.4446
+0	Dick's Sporting Goods Pittsburgh Marathon Finish Line	-80.0050	40.4396
+0	Franktuary	-79.9990	40.4411
+0	Orphans court	-79.9976	40.4389
+0	Anthrocon 2015	-79.9954	40.4444
+0	Pittsburgh Winter Beerfest	-79.9970	40.4453
+0	Pittsburgh	-79.9951	40.4454
+0	The	-80.0003	40.4405
+0	still looking 4 the zaddys	-80.0013	40.4386
+0	Federated Investors	-79.9948	40.4443
+0	Downtown Pittsburgh Jazzlive Festival	-79.9985	40.4433
+0	Arts Festival	-80.0063	40.4422
+0	Anthrocon 2015	-79.9957	40.4445
+0	Downtown Pittsburgh	-79.9992	40.4419
+0	Point State Park	-80.0090	40.4417
+0	Downtown Pittsburgh PA On 376 W	-79.9986	40.4368
+0	Downtown Pittsburgh EMS Medic 5	-79.9976	40.4410
+0	2014	-79.9965	40.4454
+0	Pittsburgh	-79.9982	40.4469
+0	Federated Investors	-79.9937	40.4451
+0	Courtyard By Marriot Valet Parking Lot	-79.9956	40.4444
+0	2014	-79.9957	40.4445
+0	2014	-79.9964	40.4455
+0	Dick's Sporting Goods Pittsburgh Marathon	-80.0022	40.4418
+0	Mon Wharf	-80.0043	40.4375
+0	Point State Park	-80.0079	40.4416
+0	United Steelworkers Building	-80.0047	40.4396
+0	picklesburgh	-79.9990	40.4464
+0	Three River's Arts Festival	-80.0055	40.4416
+0	Sienna Mercato	-79.9983	40.4439
+0	Maury's Pad	-80.0032	40.4396
+0	City of Pittsburgh	-79.9978	40.4385
+0	Dick's Sporting Goods Pittsburgh Marathon	-80.0019	40.4419
+0	Buchanan Ingersoll	-79.9990	40.4377
+0	Point State Park	-80.0070	40.4411
+0	Home And Garden Show	-79.9970	40.4456
+0	Print & Ship Center	-79.9967	40.4440
+0	Point State Park	-80.0069	40.4414
+0	Dick's Sporting Goods Pittsburgh Marathon	-80.0023	40.4417
+0	2014	-79.9959	40.4451
+0	Dequesne Club	-79.9989	40.4426
+0	Penn & 6th	-80.0014	40.4430
+0	on a roof somewhere	-80.0013	40.4434
+0	2014	-79.9955	40.4443
+0	Fort Duquesne Bridge	-80.0096	40.4416
+0	Cultural District	-79.9987	40.4435
+0	Penn Station	-79.9922	40.4439
+0	Farm to Table 2014	-79.9959	40.4452
+0	2014	-79.9958	40.4450
+0	David L. Lawrence Convention Center	-79.9972	40.4456
+0	Downtown	-80.0024	40.4412
+0	Maury's Pad	-80.0024	40.4408
+0	Downtown Pittsburgh	-79.9992	40.4427
+0	Studio 41 Entertainment	-80.0026	40.4412
+0	Highmark Penn Avenue Place	-80.0032	40.4421
+0	O'Reilly Theater Square Parking Garage in Downtown Pittsburgh	-80.0009	40.4432
+0	Mary kay career conference	-79.9957	40.4453
+0	Monongahela River	-80.0010	40.4360
+0	The Yard Market Square	-80.0027	40.4413
+0	The Point State Park	-80.0070	40.4412
+0	Heinz History Center	-79.9928	40.4463
+0	BRGR Truck	-79.9974	40.4388
+0	Amtrak: Pittsburgh Winter Beerfest	-79.9916	40.4458
+0	2014	-79.9953	40.4441
+0	Joe's Shoe Repair	-80.0027	40.4398
+0	Point State Park	-80.0074	40.4394
+0	Szmidt's Old World Deli	-79.9920	40.4489
+0	University of Pittsburgh JazzLive International	-79.9951	40.4438
+0	American Farriers Journal Booth	-79.9949	40.4442
+0	Allegheny Conference on Community Development and Affiliates	-80.0060	40.4396
+0	Keystone Cafe	-79.9983	40.4414
+0	The Randy Pausch Memorial Bridge	-79.9965	40.4432
+0	pittsburgh	-79.9975	40.4454
+0	Dawntawn Pixburgh	-80.0016	40.4392
+0	David L. Lawrence Convention Center	-79.9969	40.4457
+0	Pittsburgh Filmmakers	-79.9966	40.4439
+0	Pittsburgh City-County Building	-79.9969	40.4381
+0	At the corner of bad&bitches	-80.0013	40.4386
+0	Downtown Pittsburgh	-79.9993	40.4420
+0	Station Square Tunnel	-80.0060	40.4389
+0	Three Rivers Arts Festival: Second Stage at Gateway Center	-80.0045	40.4423
+0	Liberty Ave.	-79.9967	40.4431
+0	The Original Fish Market	-79.9946	40.4443
+0	ODAR	-79.9934	40.4460
+0	tk	-80.0022	40.4424
+0	pittsburgh pride prade	-79.9980	40.4386
+0	Penn Station	-79.9921	40.4441
+0	Yuriy's Downtown	-79.9969	40.4425
+0	Cindrich Villa In The Sky	-80.0032	40.4396
+0	Heinz Hall for the Performing Arts	-80.0016	40.4427
+0	Lush	-79.9986	40.4396
+0	Golden Triangle	-80.0004	40.4416
+0	Gay Pride Parade Route	-80.0017	40.4416
+0	Pittsburgh Central Downtown Historic District	-79.9967	40.4414
+0	The Rink at PPG Place	-80.0034	40.4397
+0	Three Rivers art Festival	-80.0034	40.4416
+0	August Wilson Center for African American Culture	-79.9957	40.4433
+0	Au Bon Pain	-79.9955	40.4426
+0	2014	-79.9957	40.4444
+0	Downtown Pittsburgh	-79.9994	40.4421
+0	Century Building Apartments roof	-80.0007	40.4435
+0	Point State Park	-80.0069	40.4413
+0	Downtown Pittsburgh Children's Festival	-79.9990	40.4428
+0	GNC LiveWell Pittsburgh Health and Fitness Expo	-79.9970	40.4455
+0	Anthrocon 2015	-79.9955	40.4441
+0	Starbucks	-79.9949	40.4414
+0	Mon Wharf	-80.0051	40.4381
+0	GDI	-79.9948	40.4419
+0	ACES 2015 National Conference	-80.0060	40.4406
+0	Thai Hana 500 Liberty Avenue	-80.0074	40.4432
+0	Pittsburgh Allegheny	-79.9971	40.4436
+0	2014	-79.9958	40.4448
+0	Eddie Merlots	-80.0036	40.4412
+0	Da Burgh	-80.0050	40.4429
+0	Anthrocon 2015	-79.9956	40.4447
+0	Dead Baby Circle	-79.9958	40.4431
+0	PPG Place-The Rink	-80.0033	40.4398
+0	Handmade Arcade	-79.9972	40.4454
+0	City of Pittsburgh	-79.9932	40.4447
+0	Tony's Disco Stick HideOut	-79.9920	40.4487
+0	Downtown Pittsburgh Vintage Grand Prix	-79.9956	40.4383
+0	Dahntahn Piksburgh	-79.9968	40.4389
+0	Kaufmann's Clock at Macy's Downtown	-79.9987	40.4400
+0	David L. Lawrence Convention Center	-79.9968	40.4455
+0	525 William Penn Place	-79.9985	40.4412
+0	Greyhound Station Pittsburgh	-79.9938	40.4444
+0	Anthrocon 2015	-79.9954	40.4446
+0	1 PPG Place Downtown Pittsburgh	-80.0029	40.4408
+0	by Hilton Hotel & Suites Pittsburgh Downtown	-79.9961	40.4406
+0	Studio 41 Entertainment	-80.0029	40.4414
+0	2014	-79.9958	40.4449
+0	The Steel City	-79.9932	40.4471
+0	pixburg	-79.9948	40.4416
+0	Handmade Arcade	-79.9974	40.4453
+0	Just posted a photo	-80.0031	40.4409
+0	Biergarten	-79.9955	40.4422
+0	Three Rivers Art Festival Pittsburgh Pa	-80.0058	40.4424
+0	Liangs Hunan Chinese Restaurant	-79.9963	40.4428
+1	& Lube	-79.9583	40.4406
+1	Phipps Conservatory and Botanical Gardens	-79.9520	40.4344
+1	Petersen Events Center	-79.9621	40.4442
+1	reunited	-79.9556	40.4362
+1	India On Wheels	-79.9548	40.4448
+1	61B	-79.9507	40.4404
+1	That Bathroom Scene	-79.9551	40.4436
+1	University of Pittsburgh	-79.9566	40.4419
+1	Forbes Field Home Plate	-79.9560	40.4418
+1	National Best Friend Day	-79.9626	40.4394
+1	York Way	-79.9546	40.4381
+1	The Porch at Schenley Plaza	-79.9525	40.4428
+1	Pittsburgh Grand Prix	-79.9483	40.4481
+1	The Weasley Burrow	-79.9584	40.4457
+1	Earth	-79.9511	40.4526
+1	Pizza Sola	-79.9579	40.4413
+1	Hobos of Forbes Ave	-79.9520	40.4388
+1	Meyran Ave	-79.9548	40.4375
+1	Charles L. Cost Field at Pitt University of Pittsburgh	-79.9526	40.4446
+1	University of Pittsburgh School of Medicine	-79.9608	40.4425
+1	Cirque du Soleil	-79.9621	40.4442
+1	Carnegie Mellon University of Pittsburgh	-79.9541	40.4437
+1	Bates Motel	-79.9522	40.4389
+1	University of Pittsburgh Graduate School of Public Health	-79.9590	40.4431
+1	Some Place Far Away	-79.9477	40.4489
+1	Peet's Coffee and Tea	-79.9576	40.4411
+1	Carnegie Museum of Art and Natural History	-79.9498	40.4431
+1	AT&T	-79.9561	40.4434
+1	Pinstripe	-79.9613	40.4388
+1	Pizza Paul's at Panther Hollow Inn	-79.9481	40.4446
+1	Carnegie Library of Pittsburgh	-79.9488	40.4434
+1	University of Pittsburgh	-79.9540	40.4429
+1	Joe Mama's	-79.9569	40.4415
+1	McDonald's at 3708 Forbes Ave	-79.9573	40.4413
+1	Residence On Fifth	-79.9470	40.4471
+1	doubetree orlando seaworld	-79.9592	40.4394
+1	UPMC Forbes Tower	-79.9588	40.4398
+1	Carnegie Museum of Art	-79.9488	40.4434
+1	Cathedral of Learning Research and Development Center	-79.9531	40.4442
+1	PNC Stadium	-79.9555	40.4423
+1	India On Wheels	-79.9555	40.4452
+1	University of Pittsburgh	-79.9538	40.4457
+1	Cathedral Of Learning Nationality Rooms Tour	-79.9494	40.4491
+1	Holland Hall at Pitt	-79.9560	40.4431
+1	Pittsburgh Filmmakers	-79.9537	40.4548
+1	India Garden	-79.9550	40.4390
+1	South Oakland	-79.9548	40.4328
+1	Carnegie Music Hall	-79.9513	40.4432
+1	University of Pittsburgh	-79.9546	40.4444
+1	Bates Hill Apartments	-79.9527	40.4391
+1	North Oakland	-79.9504	40.4539
+1	Mellon Institute Carnegie Mellon University	-79.9515	40.4467
+1	One of the things I miss the most when school: noon Mass at St Paul Cathedral Saint Paul Cathedral)	-79.9498	40.4473
+1	Wellsford Cave	-79.9553	40.4353
+1	Oakland	-79.9619	40.4410
+1	PTown Bar	-79.9488	40.4538
+1	smile studio dr. Cushman	-79.9622	40.4387
+1	Cock Pit	-79.9596	40.4381
+2	The Blind Pig Tavern	-79.9739	40.4285
+2	Fred's Fortress Of Solitude	-79.9696	40.4265
+2	Hofbruhaus Pittsburgh Steak Company	-79.9646	40.4286
+2	Philsyland 2.0	-79.9808	40.4275
+2	Integrated Fitness	-79.9859	40.4280
+2	Southside River Trail	-79.9759	40.4314
+2	CoGo's	-79.9709	40.4283
+2	In my dreams...	-79.9782	40.4286
+2	Italian Beef	-79.9827	40.4288
+2	Holiday Inn Express Hotel & Suites Pittsburgh-South Side	-79.9870	40.4295
+2	Integrated Fitness	-79.9860	40.4277
+2	twelve	-79.9851	40.4281
+2	Aerie	-79.9666	40.4274
+2	H&M	-79.9667	40.4274
+2	Rita's Italian Ice Southside	-79.9698	40.4279
+2	George K. Cupples Stadium	-79.9907	40.4286
+2	Thunder Dome	-79.9715	40.4280
+2	Rizzo's Margaritaville	-79.9746	40.4284
+2	NuVision Engineering	-79.9702	40.4296
+2	Head Board Shop 412	-79.9658	40.4282
+2	Coppertops	-79.9748	40.4284
+2	The Strip	-79.9782	40.4287
+2	Wings Over Pittsburgh	-79.9704	40.4274
+2	Bohanon & Dometakis Casa	-79.9808	40.4275
+2	Storexpress	-79.9735	40.4263
+2	Redbox	-79.9775	40.4288
+2	Crazy Mocha	-79.9656	40.4262
+2	Caffe Davio	-79.9690	40.4277
+2	Ohiopyle State Park	-79.9657	40.4280
+2	The Flats on Carson	-79.9833	40.4287
+2	Ibiza Wine and Tapas Restaurant	-79.9735	40.4281
+2	toolshed 2	-79.9808	40.4275
+2	cup ka joe	-79.9675	40.4259
+2	Serbian Club	-79.9693	40.4265
+2	Wings Over Pittsburgh	-79.9704	40.4277
+2	Southside River Trail	-79.9804	40.4315
+2	the government	-79.9808	40.4275
+2	Southside River Trail	-79.9746	40.4310
+2	Branding Brand	-79.9725	40.4291
+2	AlphaLab	-79.9716	40.4283
+2	...	-79.9649	40.4315
+2	Chicago Illinois	-79.9815	40.4298
+2	The jacuzzi tub	-79.9785	40.4274
+2	South Side Bike Trail	-79.9781	40.4325
+2	H&R Block	-79.9656	40.4262
+2	Primanti Brothers	-79.9889	40.4300
+2	Cup Ka Joe	-79.9675	40.4260
+2	& Wine Bar	-79.9736	40.4281
+2	Kinky Friedman	-79.9866	40.4290
+2	Just posted a photo	-79.9702	40.4284
+2	M & W Rent House 2	-79.9808	40.4275
+2	Jimmy D's on Carson City Saloon	-79.9840	40.4290
+2	Surf Pittsburgh	-79.9838	40.4290
+2	Somewhere in Southside	-79.9720	40.4263
+2	NuVision Engineering	-79.9702	40.4299
+2	George K. Cupples Stadium	-79.9905	40.4283
+2	Santa is coming to town	-79.9782	40.4286
+3	Pittsburgh Penguins Foundation Silent Auction	-79.9904	40.4399
+3	Pittsburgh Marriott City Center	-79.9912	40.4398
+3	Pittsburgh!	-79.9920	40.4386
+3	hub	-79.9851	40.4372
+3	City View Apartments	-79.9864	40.4401
+3	Duquesne University	-79.9909	40.4366
+3	my squirrel sistas	-79.9928	40.4369
+3	Pittsburgh Penguins Hockey	-79.9905	40.4400
+3	Trib Tron	-79.9897	40.4408
+3	Hill District	-79.9860	40.4418
+3	Aces And Deuces Lounge	-79.9867	40.4385
+3	Mario Lemieux 6.6k	-79.9866	40.4418
+3	Mario Lemieux 6.6k starting line	-79.9868	40.4400
+3	Pittsburgh	-79.9878	40.4363
+3	Yes	-79.9893	40.4395
+3	Labor Day Parade	-79.9873	40.4411
+3	City of Pittsburgh	-79.9906	40.4416
+3	Three Rivers Nephrology	-79.9894	40.4387
+3	stop drop and roll	-79.9880	40.4353
+4	Foreland Home	-80.0032	40.4496
+4	Luxury Suites at PNC Park	-80.0063	40.4471
+4	Smithfield United Church Of Christ	-80.0077	40.4490
+4	Port Authority North Side Station	-80.0043	40.4482
+4	The Color Run Pittsburgh	-80.0076	40.4476
+4	Roberto Clemente Bridge	-80.0033	40.4453
+4	Three Rivers Heritage Trail	-80.0028	40.4469
+4	Mexico	-80.0032	40.4496
+4	Allegheny River	-79.9997	40.4470
+4	three rivers arts festival	-80.0042	40.4462
+4	Allegheny Landing	-80.0037	40.4471
+4	Holy Trinity Lutheran Church	-80.0082	40.4489
+4	Pnc Ballpark	-80.0049	40.4466
+4	Allegheny River	-80.0054	40.4451
+4	Roberto Clemente Bridge	-80.0032	40.4449
+4	Smithfield United Church Of Christ	-80.0082	40.4489
+4	PNC Park Pittsburgh Pirates	-80.0056	40.4476
+4	Majestic Clubhouse Store	-80.0058	40.4474
+4	russell senate office building	-80.0083	40.4488
+4	Roberto Clemente Bridge	-80.0033	40.4456
+4	6th Street Bridge	-80.0030	40.4446
+4	Allegheny Center Mall	-80.0046	40.4510
+4	Pittsburgh Pirates Baseball	-80.0060	40.4464
+4	Blue Lot 7F	-80.0050	40.4481
+4	the Ohio State Alumni meetup	-80.0041	40.4484
+4	Ninth St Bridge	-79.9998	40.4464
+5	CCAC Allegheny Campus	-80.0130	40.4493
+5	Heinz Feild	-80.0151	40.4475
+5	K. Leroy Irvis Science Center	-80.0153	40.4493
+5	CCAC Allegheny Campus	-80.0141	40.4498
+5	Starbucks	-80.0155	40.4503
+5	Taylor Swift Concert	-80.0157	40.4465
+5	Heinz Stadium Gold Lot 1	-80.0127	40.4473
+5	Living the suite life	-80.0130	40.4482
+5	Nina And The Pinta	-80.0118	40.4459
+5	CCAC Allegheny Campus	-80.0135	40.4495
+5	North Shore Riverfront Park and Trail	-80.0090	40.4465
+5	Heniz Feild	-80.0166	40.4470
+5	Mr. Rogers Memorial	-80.0121	40.4456
+5	North Shore	-80.0123	40.4480
+5	Port Authority North Side Station	-80.0095	40.4480
+5	BestConcertEver	-80.0189	40.4477
+5	North Shore Riverfront Park and Trail	-80.0094	40.4464
+5	North Shore Riverfront Park and Trail	-80.0120	40.4453
+5	Downtown/ Northshore	-80.0131	40.4450
+5	North Shore	-80.0090	40.4470
+5	Pittsburgh Heritage Trail	-80.0157	40.4467
+5	Lst 325	-80.0146	40.4447
+5	Heinz Field Pittsburgh Steelers	-80.0160	40.4475
+5	Heintz Field-Pittsburgh	-80.0085	40.4474
+5	promise im not naked	-80.0134	40.4452
+5	Miniature Railroad & Village	-80.0184	40.4460
+5	& Eatery	-80.0106	40.4458
+5	Century 3 Mall	-80.0156	40.4463
+5	CCAC Allegheny Campus	-80.0134	40.4497
+5	Steelers Heinz Stadium	-80.0128	40.4455
+5	Hyde Park Steakhouse	-80.0085	40.4465
+5	North Side T Station	-80.0136	40.4465
+5	ShalerHeinz Field	-80.0169	40.4477
+5	Heinz Field	-80.0159	40.4461
+5	River Walk	-80.0083	40.4455
+5	on the river at Heinz Field	-80.0142	40.4447
+5	Heinz Field Parking Lot	-80.0123	40.4476
+6	Hollywood Tans	-79.9304	40.4564
+6	Pizza	-79.9253	40.4603
+6	Cathedral of Hope	-79.9256	40.4610
+6	East Busway Negley Station	-79.9327	40.4566
+6	J/J Land Company	-79.9327	40.4587
+6	The Shop In East Liberty Family Health Care Center	-79.9241	40.4629
+6	Toronto	-79.9337	40.4578
+6	Starbucks	-79.9221	40.4604
+6	Shadyside	-79.9337	40.4550
+6	Hey Betty!	-79.9280	40.4580
+6	R. Market	-79.9253	40.4573
+6	Station Street Hot Dog Shop	-79.9194	40.4605
+6	Buffalo Blues	-79.9253	40.4584
+6	Giant Eagle Supermarket	-79.9214	40.4586
+6	Shadyside	-79.9327	40.4545
+6	Starbucks	-79.9220	40.4608
+6	Whole Foods Market Pittsburgh	-79.9285	40.4588
+6	R. Market	-79.9253	40.4571
+6	Nightmare on Hellsworth	-79.9310	40.4560
+6	Zeke's Coffee Pittsburgh Recycling Drop Off	-79.9246	40.4612
+6	Whole Foods Market	-79.9282	40.4587
+6	Orangetheory Fitness Pittsburgh- East End	-79.9271	40.4624
+6	Hey Betty	-79.9277	40.4581
+6	Hey Betty	-79.9276	40.4580
+6	Familylinks	-79.9227	40.4583
+6	UPMC Shadyside	-79.9343	40.4549
+6	UPMC Shadyside Bridge	-79.9377	40.4546
+6	Sacred Heart	-79.9237	40.4560
+6	Point Breeze	-79.9219	40.4544
+6	East Liberty	-79.9225	40.4605
+6	B&T Nail Design	-79.9237	40.4607
+6	sneaker villa	-79.9204	40.4621
+6	Starbucks	-79.9221	40.4606
+6	Tavern 1947	-79.9311	40.4558
+6	Friendship	-79.9372	40.4587
+6	H&R Block	-79.9300	40.4558
+6	Oh Yeah! Ice Cream & Coffee Co.	-79.9254	40.4579
+6	Sacred Heart Catholic Church	-79.9221	40.4557
+7	Pittsburgh's Strip District	-79.9815	40.4533
+7	Smallman	-79.9866	40.4504
+7	CAVO Restaurant Lounge Nightclub	-79.9845	40.4513
+7	Marty's Market	-79.9822	40.4537
+7	Food Truck Friday	-79.9817	40.4525
+7	Artisan Market In The Strip District	-79.9848	40.4512
+7	Grown & Sexy 2	-79.9791	40.4543
+7	a pop concert ...? The	-79.9868	40.4492
+7	Strip District	-79.9834	40.4515
+7	Liberty & 25th Ave	-79.9788	40.4537
+7	Prague	-79.9837	40.4542
+7	16 Th Street Bridge	-79.9887	40.4498
+7	Little Bangkok in the strip	-79.9843	40.4509
+7	Strip District	-79.9843	40.4514
+7	16th Street Bridge	-79.9888	40.4499
+7	Strip District	-79.9850	40.4500
+7	S & D Polish Deli	-79.9821	40.4523
+7	Our Home Cubovia	-79.9856	40.4509
+7	All Over Pittsburgh	-79.9828	40.4542
+7	Strip District In The Burgh!	-79.9846	40.4506
+7	Hermanowski Wholesale	-79.9836	40.4505
+7	Strip District	-79.9838	40.4527
+7	Pittsburgh Public Market	-79.9876	40.4501
+7	Edgar's Taco Shack	-79.9832	40.4517
+7	Bigelow Blvd	-79.9807	40.4503
+8	Roofless	-79.9036	40.4582
+9	Waterfront Trail	-79.9132	40.4068
+9	at the ' ONE HOUSE '	-79.9097	40.4065
+9	Me Lyng	-79.9137	40.4052
+9	Me Lyng	-79.9137	40.4056
+9	The Waterfront	-79.9168	40.4077
+9	Me Lyng	-79.9139	40.4066
+9	PNC Mortgage	-79.9089	40.4114
+9	The Waterfront	-79.9162	40.4075
+9	Waterfront Trail	-79.9134	40.4069
+9	P.F. Chang Chain Chains	-79.9128	40.4103
+9	Great Allegheny Passage	-79.9186	40.4081
+9	Hi-Level Lounge	-79.9096	40.4067
+9	Me Lyng	-79.9138	40.4063
+9	8th & West Bus Stop	-79.9119	40.4062
+9	Homestead	-79.9121	40.4079
+9	Giant Eagle Supermarket	-79.9084	40.4110
+9	Me Lyng	-79.9138	40.4054
+9	Me Lyng	-79.9138	40.4081
+9	Bottom Dollar Food	-79.9119	40.4073
+9	The Waterfront	-79.9172	40.4076
+9	Me Lyng	-79.9137	40.4051
+9	Eat & Park	-79.9134	40.4110
+9	Inn & Suites Pittsburgh Waterfront W	-79.9175	40.4070
+9	Fountain By Starbucks	-79.9169	40.4077
+9	The Dirty O	-79.9121	40.4062
+9	AT&T	-79.9125	40.4111
+9	Godfrey Steel Mill	-79.9077	40.4117
+9	Me Lyng	-79.9139	40.4085
+10	KAPPA KAPPA COPA	-79.9617	40.4353
+10	Joe P's Pimpin' House	-79.9584	40.4356
+10	Foote's House	-79.9584	40.4356
+10	Blvd of the Allies	-79.9637	40.4356
+10	Entertainment Technology Center	-79.9645	40.4329
+11	McConomy Auditorium	-79.9422	40.4435
+11	Carnegie Mellon School of Computer Science	-79.9444	40.4437
+11	The Mac & Gold Truck	-79.9443	40.4455
+11	Bus Stop Hamburg Hall	-79.9447	40.4444
+11	Spring Carnival Midway	-79.9438	40.4455
+11	Susan G. Komen Race For The Cure	-79.9461	40.4403
+11	Cyert 100	-79.9430	40.4445
+11	Kappa Sigma at CMU	-79.9417	40.4456
+11	Schenley Park	-79.9457	40.4401
+12	Landis's Domain	-79.9920	40.4184
+12	Hilltop Chteau	-79.9920	40.4184
+14	Mt Washington Observation Deck	-80.0075	40.4321
+14	On the T	-80.0062	40.4342
+14	Room 401	-80.0022	40.4352
+14	Sesame Inn	-80.0041	40.4330
+14	Dutchess	-80.0075	40.4371
+14	Whim Pgh	-80.0034	40.4323
+14	Mt Washington Observation Deck	-80.0077	40.4322
+14	Monogahela Incline	-80.0048	40.4343
+14	The Duquesne Incline	-80.0060	40.4314
+14	Mt Washington Observation Deck	-80.0065	40.4320
+14	Monongahela Incline. Pittsburgh	-80.0059	40.4313
+14	Shops at Station Square	-80.0044	40.4331
+14	Mt. Washington Vista Point	-80.0065	40.4317
+14	PITTSBURGH!!!	-80.0062	40.4355
+14	Dirty Harrys	-80.0049	40.4346
+14	Incline Shuttle	-80.0067	40.4315
+14	Duquesne Incline	-80.0043	40.4325
+15	The Point	-80.0122	40.4422
+15	The Point State Park	-80.0121	40.4421
+16	City of Pittsburgh	-80.0199	40.4156
+17	Mizu Japanese Restaurant	-80.0653	40.3630
+18	Fallingwater Private Tours	-79.9773	40.4414
+19	Weatherby walks	-79.9564	40.4666
+19	9th Ward	-79.9551	40.4689
+19	Del's Bar & Ristorante DelPizzo	-79.9520	40.4631
+19	Caffe Mona la bistro	-79.9543	40.4658
+19	Taste of India	-79.9535	40.4659
+19	Bloomfield Bridge	-79.9507	40.4629
+19	C-leveled And Other Companies	-79.9535	40.4633
+21	Perrysville Ave	-80.0193	40.4916
+22	Yoga Flow	-79.9341	40.4513
+22	Epicenter	-79.9361	40.4539
+22	space	-79.9322	40.4531
+22	Barre Code	-79.9345	40.4515
+22	Yoga Flow	-79.9341	40.4511
+22	^Up- Modern Kitchen	-79.9337	40.4510
+22	Lizzie & Eddie's Home	-79.9361	40.4539
+22	Ten Forward	-79.9361	40.4539
+22	Saloon	-79.9340	40.4511
+22	House of Tees	-79.9361	40.4539
+22	Jam on Walnut	-79.9338	40.4512
+22	South Aiken Bar and Grill	-79.9354	40.4506
+22	Jam on Walnut	-79.9337	40.4517
+22	A&A Mailing Services	-79.9341	40.4509
+22	Shadyside	-79.9350	40.4500
+22	Shadyside	-79.9327	40.4537
+23	Observatory Hill	-80.0181	40.4884
+24	Carnegie	-80.0850	40.4039
+25	Ardmore Blvd	-79.8618	40.4258
+26	Kennedy Park	-79.9028	40.4078
+30	A To Z Highland Park	-79.9156	40.4738

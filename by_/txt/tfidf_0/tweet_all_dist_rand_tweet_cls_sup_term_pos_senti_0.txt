@@ -1,0 +1,53 @@
+cluster0,,cluster1,,cluster2,,cluster3,,cluster4,,cluster5,,cluster6,,cluster7,
+term,senti,term,senti,term,senti,term,senti,term,senti,term,senti,term,senti,term,senti
+interpreters languageline solutions pa,1.603,pitt,1.419,smiling moose,1.467,lets go pens consol energy,1.099,pirates baseball,1.202,football heinz field stadium,1.278,target east liberty,1.512,pittsburghs strip district burgh,0.000
+alert,1.414,university,1.426,marios south side saloon,1.384,duquesne university,1.444,lets go bucs,1.249,stage ae,1.443,shadyside,1.583,altar bar marco,0.000
+point state,1.319,oakland,1.429,southside works,1.451,hockey consol energy,1.483,ballpark,1.468,steelers,1.426,whole foods market,1.333,primanti bros,1.397
+downtown,1.410,carnegie museum natural history,1.344,carson city saloon,1.599,penguins,1.363,ball,1.435,pitt,1.418,hour,1.338,peace love little donuts,1.834
+market square,1.345,blessed world,2.610,club cafe,1.329,concert,1.355,view,1.517,taylor swift,1.516,livermore,1.309,cavo restaurant lounge nightclub,1.257
+arts festival,1.523,definitely,1.482,cheesecake factory,1.480,goal,1.471,raise,1.556,concert,1.329,join,1.339,martys market llc,1.285
+support,1.433,someone,1.388,bar,1.325,two,1.394,andy warhol museum,1.371,hall fame,1.140,delicious,1.819,gaucho parrilla argentina,1.597
+aerotek pa,1.165,cathedral learning,1.292,beer,1.361,last,1.314,buccos,1.673,north shore,1.308,ryer,1.145,primanti brothers,1.414
+convention,1.314,actually,1.346,hofbrauhaus,1.613,2,1.500,jolly,1.440,nfl,1.427,5801,1.320,g diner,1.223
+thing,1.374,u,1.493,hour,1.564,boys,1.474,vs,1.280,ben,1.500,feels,1.715,cruze bar,1.313
+david l lawrence,1.206,even,1.298,ipa,1.150,u,1.512,pirate,1.362,carnegie science,1.434,summer,1.495,pamelas p,1.223
+sienna mercato,1.490,2,1.500,dinner,1.433,hes,1.554,roger,1.482,defense,1.465,real,1.440,wigle whiskey,1.517
+grand,1.487,help,1.585,first,1.374,garth,1.398,cutch,1.475,bettis,1.369,soba,1.243,breakfast,1.384
+art,1.422,gon,1.351,cheers,1.742,someone,1.345,family,1.541,super bowl,1.471,noodlehead,1.447,sandwich,1.458
+could,1.300,3,1.474,dance,1.457,didnt,1.373,club,1.398,honor,1.378,cute,1.380,delicious,1.620
+year,1.352,thing,1.376,nakama,1.504,miss,1.565,beer market,1.281,fans,1.263,back,1.333,join,1.481
+drinking,1.365,okay,1.596,diesel,1.227,w,1.509,polanco,1.422,homecoming,1.580,buffalo blues,1.368,tea,1.283
+care,1.298,lmao,1.674,definitely,1.453,looking,1.456,hurdle,1.556,lets,1.312,chicken,1.292,heaven,1.572
+everyone,1.503,show,1.339,help,1.507,even,1.271,season,1.397,tomlin,1.449,10,1.347,stout,1.408
+three rivers,1.507,sure,1.396,way,1.363,watching,1.476,run,1.498,players,1.390,last,1.346,donut,1.922
+hotel,1.416,us,1.415,peace,1.549,fleury,1.512,1,1.294,safety,1.548,movie,1.485,beer,1.427
+gorgeous,1.643,guys,1.429,cute,1.430,played,1.365,4th,1.472,taylorswift,1.294,stay,1.540,real luck cafe,1.571
+enjoy,1.470,days,1.471,ale,1.499,feel,1.557,top,1.371,plays,1.307,yay,1.790,public market llc,0.000
+wyndham,1.498,say,1.318,need,1.347,theres,1.427,gorgeous,1.465,yard,1.266,dinner,1.275,delucas,1.555
+come,1.488,greatest,1.454,say,1.312,pens game consol,1.144,cubs,1.379,highlight,1.298,ta,1.416,colangelos,1.497
+next,1.260,work,1.386,happiest,1.629,omg,1.469,bucco,1.570,steeler,1.432,show,1.490,chocolate,1.254
+bridge,1.367,nothing,1.370,shit,1.311,cool,1.824,walk,1.462,two,1.432,saturday,1.991,maple bacon,1.463
+top,1.413,home,1.301,home,1.388,okay,1.784,mcfaddens,1.639,band,1.414,know,1.272,actually,1.478
+theater,1.463,wins,1.677,pub,1.430,vs,1.272,series,1.429,bell,1.474,gets,1.185,benefit,1.536
+sure,1.508,lovely,1.686,guys,1.587,gaga,1.295,braves,1.276,yesterday,1.583,beauty,1.705,lunch,1.510
+benedum,1.447,weather,1.585,us,1.433,person,1.483,evening,1.308,panthers,1.310,holidays,1.748,luke wholeys wild alaskan grille,1.338
+would,1.462,way,1.365,feeling,1.476,college,1.662,notebook,1.234,teams,1.476,union pig,1.318,sunday,1.319
+network,1.213,big,1.468,n,1.486,times,1.341,america,1.399,cant,1.171,years,1.252,see,1.244
+ive,1.394,fine,1.472,lounge,1.348,song,1.522,start,1.477,hail,1.358,extra,1.284,xtaza,1.415
+family,1.527,made,1.390,wait,1.348,live,1.418,end,1.611,year,1.380,dream,1.540,kaya,1.617
+view,1.411,congrats,1.729,lovely,1.373,line,1.352,new,1.589,free agency,1.522,church,1.306,flavors,1.381
+youre,1.478,luck,1.607,loves,1.727,sister,1.280,games,1.549,spotlight,1.226,little,1.204,brunch,1.602
+point park university,1.329,funny,1.581,yoga,1.583,start,1.397,burgh,1.382,always,1.396,presbyterian,1.311,christmas,1.527
+big,1.600,college,1.470,thats,1.474,tickets,1.334,place,1.496,fantastic,1.492,cocktails,1.337,celebrate,1.564
+looks,1.504,miss,1.517,true,1.790,4,1.474,never,1.317,hes,1.413,making,1.441,21st street coffee,1.225
+fucking,1.529,hey,1.356,aint,1.334,0,1.464,girl,1.380,come,1.706,would,1.366,weekend,1.470
+ok,1.517,school,1.426,5,1.510,duq,1.475,helps,1.448,weekend,1.347,looking,1.212,club,1.403
+associate,1.250,without,1.316,keep,1.380,wait,1.383,thats,1.473,boys,1.552,guy,1.550,times,1.613
+na,1.407,person,1.392,seeing,1.502,greatest,1.450,stadium,1.552,7,1.444,days,1.436,na,1.389
+penn,1.395,huge,1.630,head,1.386,ya,1.555,yeah,1.651,todays,1.344,watching,1.483,wine,1.279
+every,1.443,congratulations,1.499,shes,1.547,mac,1.296,excited,1.584,new,1.354,nothing,1.355,support,1.301
+little,1.417,making,1.301,gon na,1.343,something,1.416,prospect,1.285,healthy,1.722,living,1.476,polish,1.274
+street,1.390,spring,1.484,st,1.446,huge,1.479,fans,1.467,welcome,1.866,everything,1.137,enjoying,1.313
+christmas,1.442,ta,1.434,funny,1.779,valentines,1.797,guy,1.606,confident,1.813,margarita,1.272,afternoon,1.328
+ice,1.587,dear,1.711,stout,1.320,heart,1.529,mlb,1.368,place,1.264,sunshine,1.714,city,1.719
+,1.578,,1.613,,1.574,,1.621,,1.553,,1.511,,1.599,,1.543

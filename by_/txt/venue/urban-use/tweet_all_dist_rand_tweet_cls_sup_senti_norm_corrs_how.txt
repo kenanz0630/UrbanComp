@@ -1,0 +1,43 @@
+cluster0
+use,sum_senti,pos_n,neg_n
+College & University,0.0980,0.1845,0.1160
+Food,0.5140,0.6996,0.5920
+Residence,0.0732,0.1793,0.1789
+Travel & Transport,0.3252,0.4581,0.3805
+Outdoors & Recreation,0.2556,0.4273,0.3836
+Arts & Entertainment,0.3809,0.4095,0.2203
+Shop & Service,0.0872,0.2650,0.3313
+Nightlife Spot,0.4149,0.3719,0.1588
+NA,0.6157,0.7083,0.4443
+Professional & Other Places,0.2293,0.4656,0.4938
+cluster2
+use,sum_senti,pos_n,neg_n
+Food,0.4245,0.6023,0.4193
+Residence,0.3092,0.1508,0.0084
+Travel & Transport,-0.0425,0.0856,0.1360
+Outdoors & Recreation,0.0622,-0.0312,-0.0864
+Arts & Entertainment,0.1001,0.5776,0.5865
+Shop & Service,0.3856,0.3572,0.1189
+Nightlife Spot,0.2360,0.7857,0.7456
+NA,0.2843,0.5099,0.4175
+Professional & Other Places,-0.0713,-0.0659,-0.0186
+cluster9
+use,sum_senti,pos_n,neg_n
+Food,0.1968,0.5971,0.5680
+Outdoors & Recreation,0.1414,0.2418,0.1131
+Arts & Entertainment,0.2524,0.6133,0.5066
+Shop & Service,0.0566,0.3048,0.2942
+Nightlife Spot,0.0476,0.3089,0.2352
+NA,0.1138,0.2446,0.1927
+Professional & Other Places,0.0012,-0.0384,-0.0590
+cluster6
+use,sum_senti,pos_n,neg_n
+Food,0.1984,0.3084,0.1476
+Residence,0.0130,0.0233,0.0911
+Travel & Transport,-0.0709,0.1628,0.1323
+Outdoors & Recreation,0.1031,0.0932,0.0925
+Arts & Entertainment,-0.0084,0.1940,0.2509
+Shop & Service,0.0066,0.4725,0.4476
+Nightlife Spot,-0.0075,0.2194,0.2553
+NA,0.2527,0.4713,0.2657
+Professional & Other Places,0.0794,-0.0217,-0.0866

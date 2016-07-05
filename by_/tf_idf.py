@@ -1,16 +1,9 @@
-import tweet_emoji
+#import tweet_emoji
 import copy
 import numpy as np
 import preprocessing as pre
 from collections import Counter
 
-'''
-import os, re
-import nltk.tag
-from nltk.tag.perceptron import PerceptronTagger
-import dbProcess
-
-'''
 '''--- MAIN FUNCTION ---'''
 def tf(counter,data,type): 
 	n=len(data)
@@ -31,276 +24,267 @@ def tf(counter,data,type):
 
 
 def tf_idf(counter,counter_cl,N):
-	pairs=counter.items()
-	n=len(pairs)
-	term=[pairs[i][0] for i in xrange(n)]
-	idf=np.array([pairs[i][1] for i in xrange(n)])
-	idf=np.log(1.0*N/idf+1)
+	tfIdf=dict()
+	for term in counter_cl:
+		#print term,counter[term],counter_cl[term]
+		tfIdf[term]=np.log(1.0*N/counter[term]+1)*counter_cl[term]
 
-	tf=[counter_cl[term[i]] for i in xrange(n)]
-	tfIdf=np.array(tf)*idf
+	return tfIdf
 
-	return term,tfIdf
-
-def screen(data,mtx,m,type):
-	(n,k)=(len(data),len(mtx))
-	if type=='term': #term_
-		mtx_sort=[np.array([(data[j],mtx[i][j]) for j in xrange(n)],dtype=[('term','S50'),('tf-idf','f')]) for i in xrange(k)]
+def screen(mtx,m,type):
+	k=len(mtx)
+	if type=='term': 
+		print '-- Init self-merged'
+		mtx_sort=[np.array(mtx[i],dtype=[('term','S50'),('tf-idf','f')]) for i in xrange(k)]
 		mtx_sort=[np.sort(mtx_sort[i],order='tf-idf')[::-1] for i in xrange(k)]
-		mtx=[self_merge(mtx_sort[i],m) for i in xrange(k)]
-		mtx=[np.array(mtx[i],dtype=[('term','S50'),('tf-idf','f')]) for i in xrange(k)]
-
+		mtx=[[] for i in xrange(k)]
+		for i in xrange(k):
+			[mtx[i],mtx_sort[i]]=self_merge(mtx_sort[i],m)
+		
+		print '-- Iteratively remove shared terms and self merge'
 		mtx=no_common(mtx,mtx_sort,m,1)	
-		print 'Self cleaning & merging'
-		mtx=self_clean(mtx)
+
+		print 'Self cleaning'
+		mtx=[self_clean(mtx[i]) for i in xrange(k) if len(mtx[i])>0]
 		
 		return mtx
-
-	if type=='emoji':
-		mtx_sort=[np.array([(data[j].encode('utf-8'),mtx[i][j]) for j in xrange(n)],dtype=[('emoji','S50'),('tf-idf','f')]) for i in xrange(k)]
-		mtx_sort=[np.sort(mtx_sort[i],order='tf-idf')[::-1] for i in xrange(k)]
-		mtx=[mtx_sort[i][:m] for i in xrange(k)]
-
-		return [mtx_sort[i][:m] for i in xrange(k)]
-
+	
 	if type=='tag':
 		mtx_sort=[np.array([(data[j],mtx[i][j]) for j in xrange(n)],dtype=[('tag','S50'),('tf-idf','f')]) for i in xrange(k)]
 		mtx_sort=[np.sort(mtx_sort[i],order='tf-idf')[::-1] for i in xrange(k)]
-		mtx=[self_merge_tag(mtx_sort[i],m) for i in xrange(k)]
-		mtx=[np.array(mtx[i],dtype=[('tag','S50'),('tf-idf','f')]) for i in xrange(k)]
-
-		return mtx
 		
+		return mtx
+	
+
+
 '''--- HELPER FUNCTION ---'''
 '''------------------------------------------------------------------'''
-def self_merge_tag(mtx,m):
-	'''tag self-merge of upper/lower case'''
-	mtx_merge=[mtx[0]]
-	tag_merge=[mtx['tag'][0]]
-	i=0
-	j=1
-	while i<m:
-		if j>=len(mtx):
-			mtx_merge+=[('',0.0) for k in xrange(i,m)]
-			break		
-		tag_0=mtx['tag'][j]
-		merge=False
-		tag_curr=tag_merge
-		for tag in tag_curr:
-			try:
-				if pre.stemming(pre.tokenize(tag[1:])[0])[0]==pre.stemming(pre.tokenize(tag_0[1:])[0])[0]:
-				 #remove#, lowercase, stem
-					merge=True
-					#print 'Self-merge: merge %s to %s'%(tag_0,tag)
-			except:
-				print 'Error:',tag_0,tag
-
-		if not merge:
-			tag_merge+=[tag_0]
-			mtx_merge+=[mtx[j]]
-			i+=1
-		j+=1
-
-	return mtx_merge
-
 def self_merge(mtx,m):
-	'''term self-term of multi-gram'''
-
+	'''term self-merge of multi-gram'''
 	mtx_merge=[mtx[0]]
 	term_merge=[mtx['term'][0]]
-	i=0
-	j=1
-	while i<m:
-		if j >=len(mtx):
-			mtx_merge+=[('',0.0) for k in xrange(i,m)]
-			break
-		term_0=mtx['term'][j]
-		merge=False
-		replace=False
-		term_curr=[term for term in term_merge]
-		for term in term_curr:
-			[tomerge,mtype]=toMerge(term,term_0)
-			if tomerge:
-				merge=True
-				idx=term_merge.index(term)		
-				#if abs(mtx['tf-idf'][j]-mtx_merge[idx][1])<0.01 and len(term_0)>len(term):
-				if mtype=='contained': #term is contained by term_0
-					#print "Self-merge: Replace %s by %s"%(term,term_0)
-					term_merge.remove(term_merge[idx])
-					mtx_merge.remove(mtx_merge[idx])
-					if not replace:
-						term_merge+=[term_0]
-						mtx_merge+=[mtx[j]]
-						replace=True				
-		if not merge:
-			term_merge+=[term_0]
-			mtx_merge+=[mtx[j]]
-			i+=1
-		j+=1
+	
+	while len(term_merge)<m: 
+		#update mtx
+		mtx=mtx[1:]
 
-	return mtx_merge
+		if len(mtx)==0: #no more term to be merged
+			mtx_merge+=[('',0.0) for k in xrange(len(term_merge),m)]
+			break
+		
+		#new term merging
+		term=mtx['term'][0]	
+		merge_result=self_merge_one(term_merge,term)
+		[term_merge,mtx_merge]=self_merge_two(term_merge,mtx_merge,term,mtx,merge_result)		
+		
+		#existing term merging
+		term_copy=copy.copy(term_merge[1:])
+		mtx_copy=copy.copy(mtx_merge[1:])
+		term_merge=[term_merge[0]]
+		mtx_merge=[mtx_merge[0]]
+		for i in xrange(len(term_copy)):
+			term=term_copy[i]
+			merge_result=self_merge_one(term_merge,term)
+			[term_merge,mtx_merge]=self_merge_two(term_merge,mtx_merge,term,mtx_copy,merge_result)		
+			mtx_copy=mtx_copy[1:]
+
+	mtx_merge=np.array(mtx_merge,dtype=[('term','S50'),('tf-idf','f')])
+		
+	return mtx_merge,mtx
+
+def self_merge_one(term_merge,term_0):	
+	remove=[]
+	merge=False #whether term_0 merges with any term in term_merg
+	replace=False #term_merge idx if term_0 shall be inserted
+	new_term=False
+	for term in term_merge: #check all terms in current term_merge and store merge-term idxs in remove
+		to_merge=toMerge(term,term_0)
+		if to_merge:
+			merge=True
+			if to_merge=='be_contained': #term is contained by term_0, shall be replaced
+				idx=term_merge.index(term)
+				if replace is False: #term_0 has not replace any previous term in term_merge
+					replace=idx
+				else:
+					remove+=[idx]
+				print '-- %s IS CONTAINED BY %s'%(term,term_0)
+			elif to_merge=='contain':
+			 	print '-- %s CONTAINS %s'%(term,term_0)
+			elif to_merge=='same_stem':
+				print '-- %s and %s HAS SAME WORD STEM'%(term_0,term)
+			else:
+				print '-- %s and %s MERGE TO BE %s'%(term_0,term,to_merge) 
+				term_0=to_merge
+				new_term=to_merge
+				idx=term_merge.index(term)
+				if not replace:						
+					replace=idx
+				else:
+					remove+=[idx]
+	
+	return merge,replace,remove,new_term
+
+def self_merge_two(term_merge,mtx_merge,term,mtx,merge_result):
+	[merge,replace,remove,new_term]=merge_result
+	if merge:
+		if replace is not False: #replace term
+			if new_term:										
+				term=new_term
+			print '>> REPLACE %s BY %s'%(term_merge[replace],term)
+			term_merge=term_merge[:replace]+[term]+term_merge[replace+1:]
+			mtx_merge[replace][0]=term
+		if len(remove)>0: #remove terms
+			print '>> REMOVE %s'%','.join([term_merge[i] for i in remove])		
+			for i in remove:
+				term_merge.remove(term_merge[i])
+				mtx_merge.remove(mtx_merge[i])
+			#print '>> TEST: %s exist?'%test,(test in term_merge)
+	else:
+		term_merge+=[term]
+		mtx_merge+=[mtx[0]]
+
+	return term_merge,mtx_merge
 
 def toMerge(term,term_0):
-	n=term.count(' ')
-	n_0=term_0.count(' ')
-	if n==n_0:
-		if n==2: #tri-gram
-			term=term.split(' ')
-			term_0=term_0.split(' ')
-			return (term[-2:]==term_0[:2] or term[:2]==term_0[1:]),'tri-gram'
-		elif n>0:
-			return term==term_0,'same'
+	term=term.split(' ')
+	term_0=term_0.split(' ')
+	if len(term)==1 and len(term_0)==1: #unigram term with same word stem 
+		if pre.stemming(term[0])==pre.stemming(term_0[0]):
+			return 'same_stem'
 		else:
-			return pre.stemming(term)==pre.stemming(term_0),'stem'
-	elif n>n_0:
-		return term_0 in term,'contain'
+			return False
+	elif contain(term,term_0):#term contains term_0
+		return 'contain'
+	elif contain(term_0,term): #term contained by term_0
+		return 'be_contained'		
+	elif intersect(term,term_0): 
+	#term intersects with term_0, at least half of the longer term is same		
+		return intersect(term,term_0)	
 	else:
-		return term in term_0,'contained'
+		return False
 
-def multi_gram(term,term_0):
-	if term[1]==term_0[-1]:
-		return ' '.join([term_0[0]]+term)
+def contain(term,term_0):
+	if len(term)>len(term_0):
+		for word in term_0:
+			if word not in term:
+				return False
+		return True
 	else:
-		return ' '.join(term+[term_0[-1]])
+		return False
+
+def intersect(term,term_0):
+	same=set(term)&set(term_0)
+	if len(same)==0:
+		return False
+	elif len(same)<min(len(term)/2,len(term_0)/2): #at least half of the shorter term is same
+		return False
+	else:
+		idx=[i for i in xrange(len(term)) if term[i] in same]
+		idx_0=[i for i in xrange(len(term_0)) if term_0[i] in same]
+		if join(idx,idx_0,term,term_0):
+			return join(idx,idx_0,term,term_0)
+		elif join(idx_0,idx,term_0,term):
+			return join(idx_0,idx,term_0,term)
+		else:
+			return False
+
+def join(idx,idx_0,term,term_0):
+	if idx[0]==0 and idx_0[-1]==len(term_0)-1:
+		sta=term_0[:idx_0[0]]
+		end=term[idx[-1]+1:]
+		if term_0[idx_0[0]:]==term[:idx[-1]+1]:
+			multi=sta+term[:idx[-1]+1]+end
+			return ' '.join(multi)
+		else:
+			return False
 
 '''------------------------------------------------------------------'''		
-def no_common(mtx,mtx_sort,m,iter,limit=20):
+def no_common(mtx,mtx_sort,m,iter,maxTf=2,limit=20):
 	if iter>limit:
 		return mtx
 	print 'Iteration %d'%iter	
-	mtx=remove_same(mtx,maxTf=2)
-	fill=False
+	mtx=remove_common(mtx,maxTf) #remove terms appear in cls for more than maxTf times
+
+	fill=False #fill empty space in cls after removing common terms
 	for i in xrange(len(mtx)):
 		if len(mtx[i])<m:
-			print 'Fillup cluster%d'%(i+1)
-			mtx[i]=fill_up(mtx[i],mtx_sort[i],m)
-			fill=True
+			if len(mtx_sort[i])>0:
+				print 'Fillup cluster%d'%(i+1)
+				mtx[i]=np.concatenate((mtx[i],mtx_sort[i]),axis=0)
+				[mtx[i],mtx_sort[i]]=self_merge(mtx[i],m)
+				fill=True
+			else:
+				empty=[('',0.0) for j in xrange(len(mtx[i]),m)]
+				empty=np.array(empty,dtype=[('term','S50'),('tf-idf','f')])
+				mtx[i]=np.concatenate((mtx[i],empty),axis=0)
+			
 	if fill:
 		return no_common(mtx,mtx_sort,m,iter+1)
 	else:
 		return mtx
 
-def remove_same(mtx_term,maxTf):
-	k=len(mtx_term)
-	n=[len(mtx_term[i]) for i in xrange(k)]
-	term=[[mtx_term[i]['term'][j] for j in xrange(n[i])] for i in xrange(k)]
-	mtx_term=[remove_same_part(mtx_term[i],term[:i]+term[i+1:],maxTf) for i in xrange(k)]
-	return mtx_term
-
-def remove_same_part(self,other,maxTf):
-	k=len(other)
-	n=len(self)
-	pool=[]
-	for i in xrange(k):
-		pool+=other[i]
-	idx=range(n)
-	for i in xrange(n):
-		if pool.count(self['term'][i])>maxTf:
-			idx.remove(i)
-	self=[self[idx[i]] for i in xrange(len(idx))]
-	return np.array(self,dtype=[('term','S50'),('tf-idf','f')])
-
-def fill_up(mtx,mtx_sort,m):
+def remove_common(mtx,maxTf):
 	k=len(mtx)
-	if k>0:
-		idx=np.where(mtx_sort['term']==mtx['term'][-1])[0][0]
-	else:
-		idx=0	
-	mtx=self_merge(np.concatenate((mtx,mtx_sort[idx+1:]),axis=0),m)
-
-	return np.array(mtx,dtype=[('term','S50'),('tf-idf','f')])
-
-def self_clean(mtx,maxTf=3):
-	k=len(mtx)
+	counter=Counter()
 	for i in xrange(k):
-		mtx[i]=self_clean_merge(mtx[i])
-		mtx[i]=self_clean_remove(mtx[i],maxTf)
-		mtx[i]=np.array(mtx[i],dtype=[('term','S50'),('tf-idf','f')])
+		counter.update(mtx[i]['term'])
+	remove=[item[0] for item in counter.items() if item[1]>maxTf and item[0]!='']
+	if len(remove)>0:
+		print '>> REMOVE TERMS SHARED BY CLUSTER %s'%','.join(remove)
+		for i in xrange(k):
+			m=len(mtx[i])
+			mtx[i]=[mtx[i][j] for j in xrange(m) if mtx[i]['term'][j] not in remove]
+			mtx[i]=np.array(mtx[i],dtype=[('term','S50'),('tf-idf','f')])
 
 	return mtx
 
-def self_clean_remove(mtx,maxTf):
+
+def self_clean(mtx,maxTf=3):
 	counter=Counter()
 	n=len(mtx)	
-	terms=[mtx['term'][i].split(' ') for i in xrange(n)]	
+	term=[mtx['term'][i].split(' ') for i in xrange(n)]	
 	for i in xrange(n):
-		counter.update(terms[i])
-	counter=counter.most_common()
-	clean=[]
-	i=0
-	while counter[i][1]>maxTf:
-		clean+=[counter[i][0]]
-		i+=1
-	toClean=[False for word in clean]
-	
+		counter.update(term[i])
+	remove=[item[0] for item in counter.items() if item[1]>maxTf]
+	toRemove=[False for word in remove]
+	m=len(remove)
+
 	for i in xrange(n):
-		term_c=copy.copy(terms[i])
-		for word in terms[i]:
-			if word in clean:
-				idx=clean.index(word)
-				if toClean[idx]:
-					term_c.remove(word)
-				else:
-					toClean[idx]=True
-		mtx['term'][i]=' '.join(term_c)
+		term=mtx['term'][i].split(' ')				
+		for j in xrange(m):
+			if remove[j] in term and toRemove[j]:
+				term.remove(remove[j])
+			else:	
+				toRemove[j]=True
+		mtx['term'][i]=' '.join(term)
+				
 
 	mtx=[mtx[i] for i in xrange(n) if mtx['term'][i]!='']
 	mtx=np.array(mtx,dtype=[('term','S50'),('tf-idf','f')])
 
-	return mtx
-
-def self_clean_merge(mtx):
-	mtx_merge=[mtx[0]]
-	term_merge=[mtx['term'][0]]
-	n=len(mtx)
-	for i in xrange(1,n):
-		term_0=mtx['term'][i]
-		toAdd=True
-		for term in term_merge:
-			[tomerge,mtype]=toMerge(term,term_0)
-			if tomerge:
-				idx=term_merge.index(term)
-				if mtype=='containted':
-					term_merge.remove(term_merge[idx])
-					mtx_merge.remove(mtx_merge[idx])
-				elif mtype=='tri-gram': #tri-gram merge
-					term_0=multi_gram(term.split(' '),term_0.split(' '))
-					print 'Multi-gram merge: Replace %s by %s'%(term,term_0)
-					term_merge.remove(term_merge[idx])
-					mtx_merge.remove(mtx_merge[idx])
-					mtx[i][0]=term_0
-				else:
-					toAdd=False
-		if toAdd:
-			term_merge+=[term_0]
-			mtx_merge+=[mtx[i]]
-
-	mtx=np.array(mtx_merge,dtype=[('term','S50'),('tf-idf','f')])
-	
-	return mtx
-
-def remove_common(mtx,ext):
-	common=init_default([],ext)[0]
-	k=len(mtx)
-	for i in xrange(k):
-		mtx[i]=remove_common_part(mtx[i],common)
 
 	return mtx
 
-def remove_common_part(mtx,common):
-	n=len(mtx)
-	terms=mtx['term']
-	for term in terms:
-		if toRemove(term,common):
-			idx=np.where(mtx['term']==term)
-			mtx=np.delete(mtx,idx,0)
-
-	return mtx
 
 '''------------------------------------------------------------------'''
 
 '''--- TEST FUNCTION ---'''
 '''
+print toMerge('peace love little','little donuts')
+
+a=[('hellow',12),('hellow world',10),('morning',8),('night',6),('noon',10)]
+b=[('hellow world',11),('morning world',10),('good night',8),('night',7)]
+a=np.array(a,dtype=[('term','S50'),('tf-idf','f')])
+b=np.array(b,dtype=[('term','S50'),('tf-idf','f')])
+mtx=[a[:2],b[:2]]
+mtx_sort=[a[2:],b[2:]]
+print no_common(mtx,mtx_sort,2,1,maxTf=1)
+
+
+mtx=screen(mtx,2,'term')
+for m in mtx:
+	print m
+
 mtx=np.array([[1,2,3,3],[2,3,4,4]])
 print mtx
 print mtx/np.reshape([1,2],(2,1))

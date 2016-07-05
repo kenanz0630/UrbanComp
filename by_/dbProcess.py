@@ -125,23 +125,26 @@ class PgController:
 
 
 '''MAIN FUNCTION'''
-def tbCreate_venue(fname,tbname,dbname='tweet_pgh',user='postgres'): #create new table of venue check-in
+def tbCreate_venue(fname,tbname,dbname='tweet_pgh',user='postgres'):
+	#create new table of venue
 	print 'Extract data and vars'
-	var=['clid','venue','lon','lat','user','year','doy','dow','hour']
-	data=extract_txt_data('auto-tweet\\'+fname,var)
-
+	var=['clid','venue','lon','lat','cat','user','checkin']	
+	data=extract_txt_data('venue\\'+fname,var)
+	data['user']=[int(user_n) for user_n in data['user']]
+	
 	print "Connect to database"
 	[cur,conn]=db_conn(dbname,user)
 
 	print "Create new table"
 	cur.execute("drop table if exists %s" %tbname)
 	cur.execute("""create table %s(
-		clid integer,
-		venue text,
-		lon real, lat real,
-		username text,
-		year integer, doy integer, dow integer, hour integer);
-		"""%tbname)
+			clid integer,
+			venue text,
+			lon real, lat real,
+			cat text,
+			user_n integer,
+			checkin integer);
+			"""%tbname)
 	conn.commit()
 
 	print 'Insert data into new table'
@@ -149,22 +152,80 @@ def tbCreate_venue(fname,tbname,dbname='tweet_pgh',user='postgres'): #create new
 	count=0
 	for i in xrange(n):	
 		venue=data['venue'][i].replace("'","''")
+		cat=data['cat'][i].replace("'","''")
 		cur.execute("""insert into %s
-	 	values(%d,'%s',%f,%f,'%s',%d,%d,%d,%d);
-	 	"""%(tbname,data['clid'][i],venue,data['lon'][i],data['lat'][i],data['user'][i],
-	 		data['year'][i],data['doy'][i],data['dow'][i],data['hour'][i]))
-	
+		 	values(%d,'%s',%f,%f,'%s',%d,%d);
+		 	"""%(tbname,data['clid'][i],venue,data['lon'][i],data['lat'][i],
+		 		cat,data['user'][i],data['checkin'][i]))
+				
 		conn.commit()
 		count+=1
+
 	print 'Insert %d records into table %s'%(count,tbname)
 
 	cur.close()
 	conn.close()
 
 
+def tbCreate_venue_tweet(fname,fn_cat,tbname,dbname='tweet_pgh',user='postgres'): 
+	#create new table of venue check-in
+	print 'Extract data and vars'
+	var=['clid','venue','lon','lat','cat','user','year','doy','dow','hour']	
+	data=extract_txt_data('venue\\'+fname,var)
+
+	print 'Process main_cat'
+	cat_dict=extract_venue_cat(fn_cat)
+	n=len(data['cat'])
+	data['use']=['' for i in xrange(n)]
+	for i in xrange(n):
+		if data['cat'][i]=='NA':
+			data['use'][i]=data['cat'][i]
+		else:
+			cat_id=data['cat'][i][data['cat'][i].index('{')+1:-1]
+			data['use'][i]=cat_dict[cat_id][1][0]
+	
+	
+	print "Connect to database"
+	[cur,conn]=db_conn(dbname,user)
+
+	print "Create new table"
+	cur.execute("drop table if exists %s" %tbname)
+	cur.execute("""create table %s(
+			clid integer,
+			venue text,
+			lon real, lat real,
+			cat text,
+			cat_main text,
+			username text,
+			year integer, doy integer, dow integer, hour integer);
+			"""%tbname)
+	conn.commit()
+
+	print 'Insert data into new table'
+	n=len(data[var[0]])
+	count=0
+	for i in xrange(n):	
+		venue=data['venue'][i].replace("'","''")
+		cat=data['cat'][i].replace("'","''")
+		cur.execute("""insert into %s
+		 	values(%d,'%s',%f,%f,'%s','%s','%s',%d,%d,%d,%d);
+		 	"""%(tbname,data['clid'][i],venue,data['lon'][i],data['lat'][i],
+		 		cat,data['use'][i],data['user'][i],data['year'][i],data['doy'][i],data['dow'][i],data['hour'][i]))
+				
+		conn.commit()
+		count+=1
+
+	print 'Insert %d records into table %s'%(count,tbname)
+
+	cur.close()
+	conn.close()
+
+
+
 def tbCreate_cls(fname,dbname='tweet_pgh',user='postgres'): #create new table of tweet clusters
 	print 'Extract data and vars'
-	var=['clid','lon','lat','user','year','doy','dow','hour','txt','term','emoji','tag','senti_val']
+	var=['clid','lon','lat','user','year','doy','dow','hour','txt','term',
+	'emoji','tag','senti_val','senti_bool']
 	data=extract_txt_data(fname,var)
 
 	print "Connect to database"
@@ -181,7 +242,7 @@ def tbCreate_cls(fname,dbname='tweet_pgh',user='postgres'): #create new table of
 		term text,
 		emoji text,
 		tag text,
-		senti_val real);
+		senti_val real, senti_bool integer);
 		"""%fname)
 	conn.commit()
 
@@ -194,10 +255,10 @@ def tbCreate_cls(fname,dbname='tweet_pgh',user='postgres'): #create new table of
 		emoji="'"+data['emoji'][i]+"'" if data['emoji'][i]!='' else 'Null'
 		tag="'"+data['tag'][i].replace("'","''")+"'" if data['tag'][i]!='' else 'Null'
 		cur.execute("""insert into %s
-	 	values(%d,%f,%f,'%s',%d,%d,%d,%d,'%s','%s',%s,%s,%f);
+	 	values(%d,%f,%f,'%s',%d,%d,%d,%d,'%s','%s',%s,%s,%f,%d);
 	 	"""%(fname,data['clid'][i],data['lon'][i],data['lat'][i],data['user'][i],
 	 		data['year'][i],data['doy'][i],data['dow'][i],data['hour'][i],
-	 		txt,term,emoji,tag,data['senti_val'][i]))
+	 		txt,term,emoji,tag,data['senti_val'][i],data['senti_bool'][i]))
 	
 		conn.commit()
 		count+=1
@@ -280,21 +341,31 @@ def extract_txt_data(fname,names,sep='\t'):
 		data=[data[i] for i in xrange(n) if data[i][0]!='-1']
 		n=len(data)
 
-	data_dict=init_clusters(len(names),names)
+	data_dict=init_clusters(len(names),names) 
 	for name in names:
-		idx=var.index(name)
-		if name in ['clid','year','doy','dow','hour']:
+		idx=var.index(name) 
+		if name in ['clid','year','doy','dow','hour','senti_bool','checkin']:
 			data_dict[name]=[int(data[i][idx]) for i in xrange(n)]
 		if name in ['lon','lat','senti_val']:
 			data_dict[name]=[float(data[i][idx]) for i in xrange(n)]
-		if name in ['venue','user','txt','term','emoji','tag']:
+		if name in ['venue','user','txt','term','emoji','tag','cat']:
 			data_dict[name]=[data[i][idx] for i in xrange(n)]
 
 	return data_dict
 
 
+'''------------------------------------------------------------------'''
+def extract_venue_cat(fname,sep='\t'):
+	data=file('txt\\venue\\'+fname+'.txt').readlines()[1:]
+	n=len(data)
+	data=[data[i][:-1].split(sep) for i in xrange(n)]
+	name=[data[i][0] for i in xrange(n)]
+	hier=[data[i][1][1:].split('\\') for i in xrange(n)]
+	ID=[data[i][2] for i in xrange(n)]
 
-	
+	return init_clusters(len(ID),ID,[[name[i],hier[i]] for i in xrange(n)])
+
+
 '''------------------------------------------------------------------'''
 def main_all(tbname,cur,conn,maxIter):
 	part=1

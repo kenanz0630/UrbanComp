@@ -1,0 +1,21 @@
+cluster0,,cluster2,,cluster4,,cluster9,,cluster6,,cluster1,,cluster3,,cluster7,
+Hotel Monaco Pittsburgh,76,Fat Head's Saloon,58,PNC Park,292,AMC Loews Waterfront 22,109,Noodlehead,21,Carnegie Museum Of Natural History,33,CONSOL Energy Center,165,Primanti Brothers,68
+Hotel Monaco Pittsburgh,76,The Cheesecake Factory,46,The Andy Warhol Museum,76,Burgatory Homestead,26,BRGR Bar,21,Petersen Events Center,15,Pizza Milano,14,DeLuca's Diner,29
+Fairmont Pittsburgh Hotel,69,Mario's Southside Saloon,31,The Beer Market,30,Starbucks,23,Giant Eagle Market District Supermarket,20,Cathedral of Learning,15,Consol Energy Center,12,Wholey's Fish Market,25
+Farmer's Market Square,53,Local Bar + Kitchen,31,Mullens Bar & Grill,24,TGI Fridays,15,Target,13,Carnegie Library Of Pittsburgh,12,TGI Fridays,9,Roland's Seafood Grill and Iron Landing,23
+Benedum Center For The Performing Arts,45,The Smiling Moose,28,PBC Grill PNC Park Club Level,20,Blue Dust,13,5801 Video Lounge & Cafe,11,Lulu's Noodles,11,Cambria Suites,6,Pamela's P&G Diner,20
+Primanti Brothers,41,Primanti Bros.,26,BNY Mellon New Music Stage AE,13,Burgatory Waterfront,11,Starbucks,9,Carnegie Mellon University of Pittsburgh,11,Pittsburgh Penguins,5,Wigle Whiskey,17
+David L. Lawrence Convention Center,32,bd's Mongolian Grill,23,McFadden's,11,Mitchell's Fish Market,9,Chipotle Mexican Grill,9,Starbucks,10,Duquesne University Power Center Gym,4,Gaucho Parilla Argentina,13
+Sharp Edge Bistro on Penn City Grille,31,The Claddagh Irish Pub,20,B Z Bar and Grill,11,Target,8,The Livermore,8,William Pitt Union,9,Duquesne Student Union,4,The Pittsburgh Popcorn Company,11
+Omni William Penn Hotel,28,Nakama Japanese Steakhouse,18,Soho,9,Smoke Barbeque & Taqueria,7,Plum Pan-Asian Kitchen,6,UPMC Presbyterian,9,10th Street Bridge,4,Luke Wholey's Wild Alaskan Grille,11
+The Westin Convention Center Pittsburgh,25,Winghart's Whiskey & Burger Bar,17,Atria's Restaurant and Tavern,8,Barnes & Noble,7,Patron Mexican Grill,6,Wyndham Pittsburgh University Center,8,at Duquesne University Gumberg Library,3,Cavo,11
+The Westin Convention Center Pittsburgh,25,The Milk Shake Factory,16,Andy Warhol Bridge,5,BRAVO! Cucina Italiana,7,Dinette,5,The Union Grill,8,UPMC Mercy,3,Pennsylvania Macaroni Company,9
+Tonic Bar And Grill,23,Twelve on Carson,15,Residence Inn Pittsburgh North Shore,4,LongHorn Steakhouse,6,Union Pig and Chicken,4,Carnegie Museum Of Art,8,Starbucks,3,Cioppino,8
+Senator John Heinz History Center,22,OTB Bicycle Cafe,15,Kayak Pittsburgh Pirates Baseball,4,Pittsburgh Improv,5,Steel City Improv Theatre,4,Yuva India Indian Eatery,7,CONSOL Energy Center,3,Casa Reyna,8
+Meat and Potatoes,21,Dee's Cafe,14,Rachel Carson Bridge,3,Yokoso! Japanese Steak House,4,Hillman Cancer Center,4,Primanti Bros.,7,A.J. Palumbo Center,3,Allegheny Coffee & Tea Exchange,8
+Emporio A Meatball Joint,20,Primanti Brothers South Side Tattoo,13,Dominic's Famous Deli & Bottle Shop,3,Duke's Upper Deck,4,Bites & Brews,4,Pamela's P&G Diner,7,Tailgaters Sports Bar & Grill,2,Thin Man Sandwich Shop,7
+Butcher and the Rye,19,Carson City Saloon,13,Willie Stargell Statue,2,Crunch Homestead,4,Wendy's,3,Sphinx Hookah Bar & Cafe,6,Rockwell Hall,2,Penn Ave Fish Company,7
+Nicky's Thai Kitchen,18,Jimmy D's,12,The Warhol: Store,2,Chick-fil-A,4,Tipsy Cow,3,Carnegie Music Hall,6,Pittsburgh Marriott City Center,2,Lotus Food,7
+Downtown Pittsburgh,16,Emiliano's Mexican Restaurant and Bar,12,Roberto Clemente Statue,2,The Waterfront,3,Spin Bartini,3,Carnegie Museum of Art,6,Mario Lemieux Statue Le Magnifique,2,21st Street Coffee and Tea,7
+Three Rivers Arts Festival,15,Carson Street Deli,12,Diamond Pizza,2,P.F. Chang's,3,Ritter's Diner,3,Butterjoint,6,Duquesne University Power Center Ballroom,2,Primanti Bros.,6
+Starbucks,15,Steel Cactus Mexican Restaurante & Cantina,11,Clark Bar & Grill,2,Marshalls,3,Crazy Mocha,3,The Original Hot Dog Shop,5,Duquesne University,2,Peppi's Old Tyme Sandwich Shop,6

@@ -1,0 +1,52 @@
+cluster0,,cluster1,,cluster2,,cluster3,,cluster4,,cluster5,,cluster6,,cluster7,
+term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf,term,tf-idf
+point state park university,395.846,carlow university,339.080,southside works,264.840,lets go pens consol energy center,637.445,view baseball pnc park pittsburgh pirates,880.903,taylorswift heinz field stadium,522.983,margarita mad mex shadyside,134.957,pittsburghs strip district,221.674
+market square,322.820,carnegie museum natural history,305.113,marios south side saloon,249.162,hockey consol energy,160.471,seats vs w,150.350,last night stage ae,288.368,target east liberty presbyterian church elpc,92.330,primanti bros,178.805
+wicked benedum center performing arts festival,312.691,oakland,209.827,e carson city saloon,218.272,seats,159.505,andy warhol museum,131.235,lets go pitt,89.072,cute,46.815,altar bar marco,121.683
+david l lawrence convention center performing,273.193,cathedral learning,195.464,cheesecake factory,203.961,duquesne university,155.726,ball game ballpark america,124.867,taylor swift,88.978,livermore,44.987,peace love little donuts,95.961
+grand pittsburgh downtown pgh,262.429,schenley,126.156,ipa,141.326,garth brooks,98.796,ball vs w,111.785,football heinz field,82.249,dinner,38.381,wigle whiskey,84.152
+sienna mercato,232.083,phipps,113.104,smiling moose,114.803,penguins,93.771,city stadium,110.523,concert,78.416,union pig chicken,37.326,pamelas p & g diner,64.638
+city,198.006,class,110.987,hofbrauhaus,113.585,goal,88.754,lets go bucs stadium,104.596,city heinz field,64.152,hillman cancer center,37.326,primanti brothers pittsburgh pa,61.954
+theater,177.688,gon,107.437,club cafe,111.235,heart,88.144,beer market,84.196,north shore,54.986,help,36.878,cavo restaurant lounge nightclub,58.284
+wyndham,166.818,actually,104.812,rex theater,108.830,big,84.434,buccos,80.705,panic disco,54.115,oh yeah ice cream & coffee,35.643,gaucho parrilla argentina,53.214
+three rivers arts festival,155.870,wedding,104.713,flats carson st,104.125,concert,80.173,raise,76.596,luke,53.481,makes,34.999,polish food,50.065
+hotel,122.098,days,100.669,stout,85.619,gaga,80.099,hall fame club,75.476,carnegie science center,53.237,5801,34.228,donut,48.918
+westin convention,119.181,think,98.825,cheers,78.315,pens game consol,76.685,mcfaddens,65.449,tailgate,49.398,kelly,33.280,luke wholeys wild alaskan grille,40.797
+pride,110.790,soldiers,98.796,big,75.359,crowd,72.526,pirate,63.199,homecoming,48.768,world,33.184,maple bacon,39.424
+loving,108.081,conservatory,98.796,spot,72.218,1,71.225,jolly roger,63.095,seeing,47.733,look,32.599,breakfast,37.655
+sales,107.430,school,98.419,burgh,70.420,mario,70.449,free dennys,62.841,seats,47.241,sure,32.570,sandwich,36.591
+bridge,105.464,death,97.394,nakama,67.167,tickets,69.344,bucco baseball,62.710,steeler,44.953,starbucks,32.425,guys,35.936
+evening,104.471,nothing,96.030,pub,64.737,5,65.237,way end,61.877,panthers,43.873,others,31.503,seeing,35.800
+citizens financial group,100.059,makes,94.021,ale,62.226,welcome,65.018,won,57.732,hail pitt,42.256,take,31.275,town,35.767
+conference,96.981,looks,92.978,theatre,62.189,save,64.565,rain,55.166,bryan,41.165,think,30.958,cruze bar,34.656
+meat & potatoes,93.932,every,92.199,bar,61.921,look,62.319,heintz field,53.556,15,39.951,ive,30.698,afternoon,34.450
+engagement,93.283,someone,91.208,make,61.472,fleury,60.265,family,52.791,band,39.874,kind,30.524,martys market,34.396
+others,90.901,conflict,90.563,weekend,61.414,miley,59.749,ballgame,51.830,1989,39.444,show,30.414,actually,32.885
+wonderful,90.550,person,89.344,fat heads saloon,61.403,two,58.824,guy,51.413,worth,38.491,4,29.788,wearing,32.213
+art festival,88.380,hall,89.144,3,61.226,fire,58.050,nothing,49.327,steelers,38.269,tired,29.639,music,31.420
+bus,87.116,sick,88.564,o,60.949,free,57.864,evening,48.827,watching,38.107,monday,29.573,join,30.559
+home,86.528,u,88.325,dinner,60.792,luck,57.430,gorgeous,48.668,tilted,37.326,whole,29.556,heaven,30.426
+music,85.976,take,88.017,irish,60.321,w,56.599,shore,46.409,kilt,37.326,shopping,29.268,excited,30.291
+roberto,85.453,pretty,87.780,wyep,59.644,world,55.989,inning,45.634,gold,35.816,24,29.268,first,29.953
+sweet,84.463,real,87.667,food,59.525,didnt,54.935,pirates game,45.541,boys,35.446,drunk,29.255,lunch,29.700
+traffic,84.422,seriously,87.523,always,59.279,2,54.173,fun,45.541,hey,35.400,real,29.126,kaya,29.578
+grit & grace,84.152,said,87.264,jimmy ds,58.907,power,54.140,bucn,45.541,fantastic,34.644,food,29.122,free,29.363
+local,84.059,could,87.097,super,58.088,boy,52.746,another,44.631,trip,34.343,giant,29.077,stout,29.164
+ale,84.059,pitt,87.057,drunk,57.871,theres,52.744,burgh,43.908,haha,34.342,city,29.062,show ive ever,28.857
+excited,83.416,til,86.662,green,57.775,vs,52.709,last,43.483,da,34.134,friend,28.993,club zoo,28.857
+mullen,82.330,tomorrow,86.630,local,57.513,person,52.682,team,41.568,first,33.171,guys,28.990,friend,28.820
+week,81.800,hell,86.483,could,56.417,lemieux,52.631,4th,40.983,two,32.656,upmc shadyside,28.857,seen,28.508
+street,81.359,without,86.474,home,56.236,made,52.216,home run,40.954,always,32.610,strayhorn,28.857,pretty,28.395
+top,81.208,hard,86.164,getting,55.668,circus,51.830,company,40.491,jerome bettis grille,32.517,plum pan asian kitchen,28.857,killing,27.293
+regional,80.789,say,85.189,men,54.948,sure,51.524,yeah,40.422,36,32.316,casbah,28.857,luck,26.694
+ice,80.665,us,84.556,inn,54.793,glad,51.312,dad,40.036,yeah,31.431,brgr,28.857,gay,26.685
+aerotek,80.641,gardens,84.152,milk,54.692,penguin,49.920,north,39.546,club lounge,31.311,ta,28.630,everything,26.376
+driver,80.299,program,83.898,urban,54.210,mercy,49.920,favorite place,39.424,d,31.268,bus,28.520,barrel,26.316
+2,80.149,things,83.876,enjoying,53.855,hes,49.443,water,38.998,gon,31.171,watching,28.462,took,25.998
+entertainment,79.454,congratulations,83.761,holiday,53.839,weekend,49.303,ta,38.700,won,30.456,worst,28.388,primantis,25.915
+last,79.053,kill,83.592,event,53.692,class,49.260,days,37.828,1,30.103,us,28.076,public market,25.885
+ppg,78.557,come,83.321,hofbruhaus,53.556,lost,49.120,year,37.736,yesterday,29.875,back,27.955,bomb,25.826
+lovely,77.432,dead,82.902,hofbru,53.556,mac,49.103,level,37.496,lights,29.689,yes,27.661,looks,25.691
+ive,77.150,super,82.729,girl,53.509,lady,49.033,come,37.184,another,29.531,bitches,27.661,honestly,25.661
+never,77.143,cool,82.293,thing,53.210,line,48.935,games,36.400,might,29.500,made,27.523,even,25.389
+hour,76.974,imagine,81.646,cool,53.186,sick,48.541,season,36.298,long,29.430,holy,27.386,found,25.349

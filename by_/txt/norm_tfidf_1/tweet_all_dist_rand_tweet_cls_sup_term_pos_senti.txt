@@ -1,0 +1,53 @@
+cluster0,,cluster1,,cluster2,,cluster3,,cluster4,,cluster5,,cluster6,,cluster7,
+term,senti,term,senti,term,senti,term,senti,term,senti,term,senti,term,senti,term,senti
+three rivers arts festival point state,1.206,carnegie museum natural history,1.344,flats carson city saloon,0.000,lets go pens game consol energy center w,0.000,pirates baseball,1.202,taylorswift heinz field,1.397,noodlehead,1.447,primanti bros,1.397
+sienna mercato,1.490,cathedral learning,1.292,southside works,1.451,concert,1.355,stadium,1.552,steel city,1.404,union pig chicken,1.368,primanti brothers pittsburgh pa,1.276
+drinking,1.365,phipps conservatory botanical gardens,1.174,st,1.446,lady gaga center vs,0.000,tickets,1.554,last night stage ae,1.482,everything,1.137,pittsburghs strip district,1.587
+william penn hotel,1.417,carlow university,1.582,stout,1.320,tickets,1.334,heintz field,1.611,seeing,1.557,gift,1.437,wigle whiskey,1.517
+grand pittsburgh downtown pgh,0.000,schenley,1.396,local bar kitchen,1.357,fleetwood mac,1.454,free dennys,1.981,tailgate,1.372,shots,1.601,pamelas p,1.223
+pride,1.715,soldiers & sailors memorial hall,1.385,south side,1.379,heart,1.529,ballgame,1.449,sweet caroline lets go pitt,1.420,oh yeah ice cream & coffee,1.173,every time see,1.099
+lunch,1.363,wedding,1.446,spot,1.268,save,1.621,seats,1.736,trip,1.612,upmc shadyside,1.864,gaucho parrilla argentina,1.597
+sales,1.235,cathy,1.373,another,1.409,mario lemieux,1.101,watch,1.461,hail pitt,1.451,plum pan asian kitchen,1.238,weekend,1.470
+race,1.593,frick fine arts building,1.436,fat heads saloon,1.515,miley,1.467,way end,1.547,worth,1.324,haha,1.990,g diner,1.223
+meat & potatoes,1.215,movie,1.388,acacia,1.595,garth brooks,1.229,ball,1.435,hey,1.298,ipa,1.204,polish food,1.173
+il,1.430,pa,1.432,times,1.471,circus,1.368,fireworks,1.795,right,1.492,sometimes,1.388,seeing,1.236
+conference,1.391,gave,1.291,rex theater,1.509,penguin,1.353,two,1.324,lights,1.545,others,1.432,peace love little donuts,1.834
+grit & grace,1.623,city,1.312,holiday inn,1.313,pa,1.480,view,1.517,da,1.534,kind,1.272,took,1.239
+art festival point,1.513,oakland,1.429,irish,1.397,upmc mercy,1.713,bucn,1.261,taylor concert,0.000,pink,1.300,barrel,1.504
+parade,1.201,cup,1.348,birthdays,1.525,power,1.477,bucco,1.570,homecoming,1.580,shopping,1.098,pic,1.454
+local,1.387,roomie,1.528,enjoying,1.164,blue line grille,1.363,years,1.367,stadium,1.442,list,1.366,kids,1.149
+city,1.454,plaza,1.428,jimmy ds,1.506,baby,1.315,lets go bucs,1.249,cheer,1.625,friendship pgh,2.417,seen,1.275
+st pattys,1.232,lord,1.468,far,1.444,st,1.502,vs w,1.424,friendship,1.480,target target east liberty,1.143,fair,1.148
+mellon,1.408,hall & museum trust,1.385,new event mr joy city theatres mainstage pittsburg,1.001,warm ups,1.791,tailgating,1.179,15,1.476,meeting,1.610,finally,1.391
+perl,1.417,carnegie museum art,1.163,imperial,1.148,sigma kappa sorority,1.350,days,1.339,fucking,1.339,first united methodist,1.133,incredible,1.593
+omni,1.474,find,1.347,hofbru,1.153,duquesne,1.435,company,1.842,brand new,1.237,tumblr dream come true,1.377,church,1.143
+dream cream ice,1.296,razzy,1.831,claddagh,1.365,walk,1.421,happiest,1.579,kiss halloween,1.498,thrill mill,1.304,cheese,1.148
+arcade comedy theater,1.644,spirit,1.523,american,1.261,truly,1.790,ily,1.626,might,1.169,threadquarters,1.306,kid,1.260
+grant,1.459,chapel,1.373,grill,1.196,listening,1.260,ballpark,1.468,walk,1.549,pizza taglio,1.514,earth,1.258
+concert,1.411,ftw,2.191,emilianos,1.430,run,1.326,inspiration,1.881,literally,1.267,ritters diner,1.167,group,1.407
+marketing,1.306,paul,1.546,91 3fm wyep,1.593,crowd,1.295,saul,1.186,cutest,1.198,hour drinking,1.484,allegheny coffee & tea exchange,1.091
+county,1.357,free,1.653,drinking sunshine daydream session ipa smiling moo,0.000,boy,1.406,beer market pgh,1.329,squad,1.574,entrepreneurship,1.172,primanti brothers strip,1.375
+dance,1.584,cafe,1.349,german,1.288,stevie,1.408,lexus club level,0.000,bringing,1.464,dinette,1.655,d polish deli,1.374
+market,1.353,lulus,1.649,sushi,1.379,bangerz,1.260,home run,1.213,incredible,1.201,brgr,1.356,gaucho strip,1.246
+heinz,1.334,litchfield towers,1.402,early,1.616,6k,1.189,free club,1.637,sports,1.136,beauty shoppe,1.508,draught,1.125
+liberty ave,1.859,hemingways,1.421,brother,1.478,see,1.408,free,1.737,hard,1.265,baum grove,1.470,dishes,1.431
+stout,1.479,homecoming,1.591,theatre,1.127,eating,1.474,ballparks,1.356,july,1.456,avenue b,1.365,club zoo,1.577
+visit,1.435,burgh,1.409,east,1.391,screen,1.261,water,1.589,football,1.410,24 hours,1.370,bacon donut,2.253
+allegheny,1.203,porch,1.364,marios,1.419,success,1.787,wonderful,1.429,successful,1.289,dance,1.589,serve,1.182
+safety manager,1.259,thats,1.455,e,1.540,giving,1.262,visit,1.476,red,1.343,cause,1.283,pies,1.641
+performing arts,1.536,service,1.382,green,1.486,worth,1.249,anything,1.351,won,1.517,nail salon,1.511,market pittsburgh pa,1.051
+olive twist,1.514,tea,1.404,twelve,1.731,action,1.502,warhol,1.384,wildest dreams,1.516,lunches,1.773,habitat,1.147
+cream ice cream,1.296,crying,1.313,head hunter,1.149,present,1.432,5k,1.547,view stage ae,1.355,insanely,1.210,alive,1.587
+session,1.391,pandora,1.373,big dog coffee,1.510,study,1.288,red,1.376,tilted,1.761,grocery,1.063,caffeine,1.129
+central,1.393,handle,1.430,bys yoga,1.619,credit,1.250,yesterday,1.358,swindell,1.557,economic,1.635,end,1.530
+anthrocon,1.521,passionate,1.503,1311,1.389,top,1.439,happiness,1.555,1989 tour,1.285,fall,1.216,slaw,1.167
+penny,1.745,graduating,1.582,sisters,1.430,country,1.282,babe,1.579,lets go steelers fans,0.000,festival,1.514,sandwiches,1.671
+awards,1.461,grad,1.495,men,1.465,heres,1.355,da burgh,1.455,steeler games,1.623,d,1.519,porter,1.332
+rooftop,1.298,blake,1.545,done,1.357,support,1.350,truly,1.681,son,1.275,towards,1.493,pho,1.387
+honored,1.344,uncle,1.405,book,1.424,vip,2.017,football,1.367,proud boys,1.516,overnight,1.292,gang,1.107
+diamond,1.360,squad,1.494,buck,1.432,championship,1.927,andy,1.382,pittusburgh,1.237,enterprise,1.562,features,1.461
+wine,1.503,beginning,1.329,factory,1.471,wwe,1.288,three,1.444,luke bryan,1.323,10am,1.154,song,1.528
+winner,1.888,18th,1.750,since,1.497,welcome back tanger,2.024,section,1.431,kilt,1.761,something,1.571,primantis,1.373
+community,1.174,hail pitt,1.277,ice,1.376,show,1.389,super,1.572,jamison,1.852,pounds,1.440,nitro,1.188
+ladies,1.281,treating,1.541,babe,1.548,seats,1.697,woot,1.653,,0.000,giant eagle,1.074,cheerleaders,1.752
+,1.578,,1.613,,1.574,,1.621,,1.553,,1.511,,1.599,,1.543

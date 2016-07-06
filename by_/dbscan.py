@@ -65,7 +65,7 @@ def dbscan_venue(fn_cls,fn_venue,eps,minPts,sep='\t'): #assign venue to sup clus
 	write_venue_txt(fn_venue,k,cls)
 
 
-def dbscan(tbname,eps,minPts,season=False,dbname='tweet_pgh',user='postgres'): #cluster genu pos tweet
+def dbscan(tbname,eps,minPts,season=False,dbname='pittsburgh',user='postgres'): #cluster genu pos tweet
 	print "Create pgcontroller"
 	pg=dbProcess.PgController(tbname,dbname,user)
 	
@@ -108,7 +108,7 @@ def dbscan(tbname,eps,minPts,season=False,dbname='tweet_pgh',user='postgres'): #
 	cls[-1]=[data[i] for i in xrange(n) if label[i]==-1] #include noise to txt file
 	write_cluster_txt(tbname,k,cls,season)
 
-def dbscan_season(tbname,seasons,dbname='tweet_pgh',user='postgres'): #cluster genu pos tweet by season
+def dbscan_season(tbname,seasons,dbname='pittsburgh',user='postgres'): #cluster genu pos tweet by season
 	for season in seasons:
 		[name,sta,end,eps,minPts]=season
 		print 'DBSCAN clustering -- %s from %d to %d'%(name,sta,end)

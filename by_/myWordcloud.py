@@ -25,7 +25,7 @@ def wordCloud_single(fname,name,color):
 		print "Draw wordcloud of %s"%key
 		draw_wordcloud_single(fname+'_%s'%key,key,colors[i],data[i])
 
-def wordCloud_venue(tbname,cls,names,minCheckin,maxVenue,dbname='tweet_pgh',user='postgres'):
+def wordCloud_venue(tbname,cls,names,minCheckin,maxVenue,dbname='pittsburgh',user='postgres'):
 	print "Create pgcontroller"
 	pg=dbProcess.PgController(tbname,dbname,user)
 
@@ -68,7 +68,7 @@ def wordCloud_cls(fname,cls,names,ext_tfIdf='_tfIdf',ext_senti='_senti'):
 		print "Draw wordcloud of %s"%key
 		print '>> hue %s'%hues[i]
 		draw_wordcloud(fname+'_%s'%key,name,hues[i],data[i])
-	
+
 
 '''--- HELPER FUNCTION ---'''
 def init_clusters(k,names):
@@ -101,7 +101,7 @@ def my_color_func(color):
 '''------------------------------------------------------------------'''
 def extract_data_single(fname):
 	data=file('txt\\'+fname+'.txt').readlines()
-	n=len(data)	
+	n=len(data)
 	data=[data[i][:-1].split(',') for i in xrange(n)]
 	k=len(data[0])/2
 	data_ex=init_clusters(k,range(k))
@@ -129,9 +129,9 @@ def extract_data(fn_tfIdf,fn_senti,cls):
 
 	return data
 
-def extract_data_part(fname):	
+def extract_data_part(fname):
 	data=file('txt\\'+fname+'.txt').readlines()
-	n=len(data)	
+	n=len(data)
 	data=[data[i][:-1].split(',') for i in xrange(n)]
 	k=len(data[0])/2
 	data_ex=init_clusters(k,range(k))

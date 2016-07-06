@@ -214,7 +214,7 @@ def dbProcess(tbname,dbname,t_range=False,maxIter=200,user='postgres'):
 	[cur,conn]=db_conn(dbname,user)
 
 	print "Create new tables"
-	init_tb(tbname,cur,conn)		
+	init_tb(tbname,cur,conn)
 
 	if t_range: #if def time range
 		print "Process by week"
@@ -236,13 +236,14 @@ def dbProcess(tbname,dbname,t_range=False,maxIter=200,user='postgres'):
 '''HELPER FUNCTION'''
 '''------------------------------------------------------------------'''
 def db_conn(dbname,user):
-	conn_info="dbname="+dbname+" user="+user
+	conn_info="dbname="+dbname+" user="+user+ " password=qwertyui"
 	conn=psycopg2.connect(conn_info)
 	cur=conn.cursor()
 	return cur,conn
 
 def init_tb(tbname,cur,conn):
 	cur.execute("drop table if exists %s" %tbname)
+	# cur.execute("CREATE EXTENSION postgis;")
 	cur.execute("""create table %s(
 		id text,
 		username text,
@@ -302,9 +303,12 @@ def main_all(tbname,cur,conn,maxIter):
 	offset=1
 	data_all=[]
 	while 1:
+		cur.execute("""select from tweet_pgh
+			 limit %s offset %s;
+			""",(limit,offset))
 		cur.execute("""select id_str,user_screen_name,
 			date_part('year',created_at),date_part('doy',created_at),date_part('dow',created_at),
-			date_part('hour', created_at),st_astext(coordinates),text,source from tweet_pgh 
+			date_part('hour', created_at),st_astext(coordinates),text,source from tweet_pgh
 			where in_reply_to_screen_name is null and 
 			in_reply_to_status_id is null limit %s offset %s;
 			""",(limit,offset))		

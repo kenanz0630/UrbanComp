@@ -7,7 +7,7 @@ from scipy import stats
 
 '''--- MAIN FUNCTION ---'''
 '''--- AUTO/GENU TWEET_N AT CITY LEVEL ---'''
-def tweet_n_city(tbname,autos=['non','4sq','inst','job'],dbname='tweet_pgh',user='postgres'): 
+def tweet_n_city(tbname,autos=['non','4sq','inst','job'],dbname='pittsburgh',user='postgres'):
 	# auto/genu weet_n_city by date
 	print 'Create pgcontroller'
 	pg=dbProcess.PgController(tbname,dbname,user)
@@ -45,7 +45,7 @@ def tweet_n_city(tbname,autos=['non','4sq','inst','job'],dbname='tweet_pgh',user
 
 	os.close(f)
 
-def tweet_n_city_scale(tbname,scale,autos=['non','4sq','inst','job'],dbname='tweet_pgh',user='postgres'):
+def tweet_n_city_scale(tbname,scale,autos=['non','4sq','inst','job'],dbname='pittsburgh',user='postgres'):
 	# auto/genu tweet_n_city by scale
 	print 'Create pgcontroller'
 	pg=dbProcess.PgController(tbname,dbname,user)
@@ -84,7 +84,7 @@ def tweet_n_city_scale(tbname,scale,autos=['non','4sq','inst','job'],dbname='twe
 
 '''--- GENU TWEET_N AT CITY LEVEL---'''
 """
-def tweet_n_city(tbname,dbname='tweet_pgh',user='postgres'): # tweet_n_city by date
+def tweet_n_city(tbname,dbname='pittsburgh',user='postgres'): # tweet_n_city by date
 	print 'Create pgcontroller'
 	pg=dbProcess.PgController(tbname,dbname,user)
 
@@ -127,7 +127,7 @@ def tweet_n_city(tbname,dbname='tweet_pgh',user='postgres'): # tweet_n_city by d
 
 	os.close(f)
 
-def tweet_n_city_scale(tbname,scale,dbname='tweet_pgh',user='postgres'): # tweet_n_city by doy
+def tweet_n_city_scale(tbname,scale,dbname='pittsburgh',user='postgres'): # tweet_n_city by doy
 	print 'Create pgcontroller'
 	pg=dbProcess.PgController(tbname,dbname,user)
 
@@ -162,7 +162,7 @@ def tweet_n_city_scale(tbname,scale,dbname='tweet_pgh',user='postgres'): # tweet
 	os.close(f)
 """
 '''--- GENU_TWEET TEMP SENTI AT CITY-LEVEL---'''
-def tweet_senti_city(tbname,dbname='tweet_pgh',user='postgres'):
+def tweet_senti_city(tbname,dbname='pittsburgh',user='postgres'):
 	print 'Create pgcontroller'
 	pg=dbProcess.PgController(tbname,dbname,user)
 
@@ -260,7 +260,7 @@ def tweet_senti_city(tbname,dbname='tweet_pgh',user='postgres'):
 
 	os.close(f)
 
-def tweet_senti_city_scale(tbname,scale,dbname='tweet_pgh',user='postgres'):
+def tweet_senti_city_scale(tbname,scale,dbname='pittsburgh',user='postgres'):
 	print 'Create pgcontroller'
 	pg=dbProcess.PgController(tbname,dbname,user)
 	

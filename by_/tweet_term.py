@@ -55,7 +55,7 @@ def common_term(fname,m,rand_n=400,sep='\t'):
 	common=counter.most_common()[:m]
 
 	print 'Write results'
-	f=os.open('txt\\'+fname+'_terms_common.txt', os.O_RDWR|os.O_CREAT)
+	f=os.open('txt\\'+fname+'_common.txt', os.O_RDWR|os.O_CREAT)
 	os.write(f,'term,count\n')
 	for i in xrange(m):
 		os.write(f,'%s,%d\n'%(common[i][0],common[i][1]))
@@ -120,6 +120,8 @@ def common_term_cls(fname,m,cls=False,sep='\t'): #seach common/representative te
 	k=len(cls)
 	mtx=[fill_empty(list(mtx[i]),m,'f') for i in xrange(k)]	
 	for i in xrange(m):
+		if i==49:
+			tdddffs = 1
 		os.write(f,','.join(['%s,%0.3f'%(mtx[j][i][0],mtx[j][i][1]) for j in xrange(k)])+'\n')
 
 	os.close(f)
@@ -130,7 +132,11 @@ def common_term_cls_senti(fn_term,fn_data,cls=False,sep='\t'):
 	n=len(data)
 	data=[data[i][:-1].split(',') for i in xrange(n)]
 	k=len(data[0])/2
-	term=[[data[i][2*j] for i in xrange(n)] for j in xrange(k)]
+	try:
+		term=[[data[i][2*j] for i in xrange(n)] for j in xrange(k)]
+	except IndexError:
+		print "%d %d"%(i,j)
+
 	m=len(term[0])
 
 	if not cls:
